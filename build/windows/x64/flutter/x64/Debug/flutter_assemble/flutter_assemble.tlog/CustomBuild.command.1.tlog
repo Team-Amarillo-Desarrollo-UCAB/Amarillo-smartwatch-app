@@ -1,0 +1,28 @@
+^C:\USERS\ASUS\DOCUMENTS\GITHUB\GODELY\WEAR-OS\BUILD\WINDOWS\X64\CMAKEFILES\E5F1E7B8E7863DA77FE9CEF51203051C\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=C:\Users\ASUS\Downloads\Aplicaciones\flutter PROJECT_DIR=C:\Users\ASUS\Documents\GitHub\GoDely\wear-os FLUTTER_ROOT=C:\Users\ASUS\Downloads\Aplicaciones\flutter FLUTTER_EPHEMERAL_DIR=C:\Users\ASUS\Documents\GitHub\GoDely\wear-os\windows\flutter\ephemeral PROJECT_DIR=C:\Users\ASUS\Documents\GitHub\GoDely\wear-os FLUTTER_TARGET=C:\Users\ASUS\Documents\GitHub\GoDely\wear-os\lib\main.dart DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false PACKAGE_CONFIG=C:\Users\ASUS\Documents\GitHub\GoDely\wear-os\.dart_tool\package_config.json C:/Users/ASUS/Downloads/Aplicaciones/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\ASUS\DOCUMENTS\GITHUB\GODELY\WEAR-OS\BUILD\WINDOWS\X64\CMAKEFILES\5C8E735A8B1665A7F26688053A2BEA06\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\ASUS\DOCUMENTS\GITHUB\GODELY\WEAR-OS\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/ASUS/Documents/GitHub/GoDely/wear-os/windows -BC:/Users/ASUS/Documents/GitHub/GoDely/wear-os/build/windows/x64 --check-stamp-file C:/Users/ASUS/Documents/GitHub/GoDely/wear-os/build/windows/x64/flutter/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
