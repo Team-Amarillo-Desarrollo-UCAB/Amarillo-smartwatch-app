@@ -16,7 +16,7 @@ class RoundButton extends StatelessWidget {
     super.key,
     required this.title,
     required this.onPressed,
-    this.fontSize = 16,
+    this.fontSize = 8,
     this.type = RoundButtonType.bgPrimary,
     this.customGradient, // Inicialización del nuevo parámetro
   });
@@ -28,7 +28,8 @@ class RoundButton extends StatelessWidget {
       child: Container(
         padding:
             EdgeInsets.symmetric(horizontal: 12), // Ajuste del padding lateral
-        height: 56,
+        height: 18,
+        width: 100,
         alignment: Alignment.center,
         decoration: BoxDecoration(
           border: type == RoundButtonType.bgPrimary

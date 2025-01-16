@@ -101,25 +101,27 @@ class _WelcomeViewState extends State<WelcomeView> {
         child: Container(
           decoration: const BoxDecoration(
             shape: BoxShape.circle,
-            color: Colors.white,
+            image: DecorationImage(
+              image: AssetImage("assets/img/login.png"),
+              fit: BoxFit.cover,
+            ),
           ),
           child: Padding(
-            padding: const EdgeInsets.all(24.0),
+            padding: const EdgeInsets.all(30.0),
             child: Column(
               mainAxisSize: MainAxisSize.min,
               children: [
                 Image.asset(
                   "assets/img/GoDely-vertical.png",
-                  width: 100,
-                  height: 100,
+                  width: 80,
+                  height: 80,
                   fit: BoxFit.contain,
                 ),
-                const SizedBox(height: 16),
                 const Text(
                   "¡Bienvenido a GoDely!",
                   textAlign: TextAlign.center,
                   style: TextStyle(
-                    fontSize: 14,
+                    fontSize: 10,
                     fontWeight: FontWeight.bold,
                   ),
                 ),
@@ -128,11 +130,11 @@ class _WelcomeViewState extends State<WelcomeView> {
                   "Encuentra los mejores productos y vive la experiencia del delivery más rápido.",
                   textAlign: TextAlign.center,
                   style: TextStyle(
-                    fontSize: 12,
+                    fontSize: 8,
                     color: TColor.secondaryText,
                   ),
                 ),
-                const SizedBox(height: 16),
+                const SizedBox(height: 10),
                 RoundButton(
                   title: "Iniciar Sesión",
                   onPressed: () {
@@ -140,13 +142,7 @@ class _WelcomeViewState extends State<WelcomeView> {
                   },
                 ),
                 const SizedBox(height: 8),
-                RoundButton(
-                  title: "Crear una cuenta",
-                  type: RoundButtonType.textPrimary,
-                  onPressed: () {
-                    // Lógica para crear cuenta
-                  },
-                ),
+
                 // const SizedBox(height: 8),
                 // IconButton(
                 //   icon: const Icon(Icons.settings),

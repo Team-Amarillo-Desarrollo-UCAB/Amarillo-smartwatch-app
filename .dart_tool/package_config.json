@@ -104,10 +104,22 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "nested",
+      "rootUri": "file:///C:/Users/ASUS/AppData/Local/Pub/Cache/hosted/pub.dev/nested-1.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "path",
       "rootUri": "file:///C:/Users/ASUS/AppData/Local/Pub/Cache/hosted/pub.dev/path-1.9.0",
       "packageUri": "lib/",
       "languageVersion": "3.0"
+    },
+    {
+      "name": "provider",
+      "rootUri": "file:///C:/Users/ASUS/AppData/Local/Pub/Cache/hosted/pub.dev/provider-6.1.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
     },
     {
       "name": "sky_engine",
@@ -176,7 +188,7 @@
       "languageVersion": "2.19"
     }
   ],
-  "generated": "2025-01-16T15:54:54.052428Z",
+  "generated": "2025-01-16T16:33:55.074509Z",
   "generator": "pub",
   "generatorVersion": "3.5.3",
   "flutterRoot": "file:///C:/Users/ASUS/Downloads/Aplicaciones/flutter",
