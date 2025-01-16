@@ -1,0 +1,16 @@
+C:\Users\ASUS\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_android-2.4.1\android\build.gradle:64: Information: Add suffix -ktx to enable the Kotlin extensions for this library [KtxExtensionAvailable]
+        implementation 'androidx.preference:preference:1.2.1'
+                       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+   Explanation for issues of type "KtxExtensionAvailable":
+   Android KTX extensions augment some libraries with support for modern
+   Kotlin language features like extension functions, extension properties,
+   lambdas, named parameters, coroutines, and more.
+
+   In Kotlin projects, use the KTX version of a library by replacing the
+   dependency in your build.gradle file. For example, you can replace
+   androidx.fragment:fragment with androidx.fragment:fragment-ktx.
+
+   https://developer.android.com/kotlin/ktx
+
+0 errors, 0 warnings

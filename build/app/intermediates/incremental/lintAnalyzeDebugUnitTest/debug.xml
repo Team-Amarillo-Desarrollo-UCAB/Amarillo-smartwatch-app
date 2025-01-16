@@ -1,0 +1,31 @@
+<variant
+    name="debug"
+    package="com.example.desarrollo_frontend"
+    minSdkVersion="23"
+    targetSdkVersion="34"
+    debuggable="true"
+    mergedManifest="C:\Users\ASUS\Documents\GitHub\GoDely\wear-os\build\app\intermediates\merged_manifest\debug\processDebugMainManifest\AndroidManifest.xml"
+    partialResultsDir="C:\Users\ASUS\Documents\GitHub\GoDely\wear-os\build\app\intermediates\unit_test_lint_partial_results\debug\lintAnalyzeDebugUnitTest\out"
+    desugaredMethodsFiles="C:\Users\ASUS\.gradle\caches\8.9\transforms\a0963d512d8354b8fd95dd80bea5074e\transformed\D8BackportedDesugaredMethods.txt">
+  <buildFeatures
+      namespacing="REQUIRED"/>
+  <sourceProviders>
+  </sourceProviders>
+  <testSourceProviders>
+    <sourceProvider
+        manifests="src\test\AndroidManifest.xml"
+        javaDirectories="src\test\java;src\testDebug\java;src\test\kotlin;src\testDebug\kotlin"
+        assetsDirectories="src\test\assets;src\testDebug\assets"
+        unitTest="true"/>
+  </testSourceProviders>
+  <testFixturesSourceProviders>
+  </testFixturesSourceProviders>
+  <manifestPlaceholders>
+    <placeholder
+        name="applicationName"
+        value="android.app.Application" />
+  </manifestPlaceholders>
+  <artifact
+      type="UNIT_TEST">
+  </artifact>
+</variant>

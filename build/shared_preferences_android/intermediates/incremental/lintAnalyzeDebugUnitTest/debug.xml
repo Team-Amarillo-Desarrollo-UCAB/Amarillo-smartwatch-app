@@ -1,0 +1,27 @@
+<variant
+    name="debug"
+    package="io.flutter.plugins.sharedpreferences"
+    minSdkVersion="19"
+    targetSdkVersion="19"
+    debuggable="true"
+    mergedManifest="C:\Users\ASUS\Documents\GitHub\GoDely\wear-os\build\shared_preferences_android\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml"
+    partialResultsDir="C:\Users\ASUS\Documents\GitHub\GoDely\wear-os\build\shared_preferences_android\intermediates\unit_test_lint_partial_results\debug\lintAnalyzeDebugUnitTest\out"
+    desugaredMethodsFiles="C:\Users\ASUS\.gradle\caches\8.9\transforms\a0963d512d8354b8fd95dd80bea5074e\transformed\D8BackportedDesugaredMethods.txt">
+  <buildFeatures
+      namespacing="REQUIRED"/>
+  <sourceProviders>
+  </sourceProviders>
+  <testSourceProviders>
+    <sourceProvider
+        manifests="src\test\AndroidManifest.xml"
+        javaDirectories="src\test\java;src\testDebug\java;src\test\kotlin;src\testDebug\kotlin"
+        resDirectories="src\test\res;src\testDebug\res"
+        assetsDirectories="src\test\assets;src\testDebug\assets"
+        unitTest="true"/>
+  </testSourceProviders>
+  <testFixturesSourceProviders>
+  </testFixturesSourceProviders>
+  <artifact
+      type="UNIT_TEST">
+  </artifact>
+</variant>

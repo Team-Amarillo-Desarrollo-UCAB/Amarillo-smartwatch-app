@@ -1,0 +1,32 @@
+<variant
+    name="debug"
+    package="io.flutter.plugins.sharedpreferences"
+    minSdkVersion="19"
+    targetSdkVersion="19"
+    debuggable="true"
+    mergedManifest="C:\Users\ASUS\Documents\GitHub\GoDely\wear-os\build\shared_preferences_android\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml"
+    proguardFiles="C:\Users\ASUS\Documents\GitHub\GoDely\wear-os\build\shared_preferences_android\intermediates\default_proguard_files\global\proguard-android.txt-8.4.0"
+    partialResultsDir="C:\Users\ASUS\Documents\GitHub\GoDely\wear-os\build\shared_preferences_android\intermediates\lint_partial_results\debug\lintAnalyzeDebug\out"
+    desugaredMethodsFiles="C:\Users\ASUS\.gradle\caches\8.9\transforms\a0963d512d8354b8fd95dd80bea5074e\transformed\D8BackportedDesugaredMethods.txt">
+  <buildFeatures
+      namespacing="REQUIRED"/>
+  <sourceProviders>
+    <sourceProvider
+        manifests="src\main\AndroidManifest.xml"
+        javaDirectories="src\main\java;src\main\kotlin;src\debug\java;src\debug\kotlin"
+        resDirectories="src\main\res;src\debug\res"
+        assetsDirectories="src\main\assets;src\debug\assets"/>
+  </sourceProviders>
+  <testSourceProviders>
+  </testSourceProviders>
+  <testFixturesSourceProviders>
+  </testFixturesSourceProviders>
+  <artifact
+      classOutputs="C:\Users\ASUS\Documents\GitHub\GoDely\wear-os\build\shared_preferences_android\intermediates\javac\debug\compileDebugJavaWithJavac\classes;C:\Users\ASUS\Documents\GitHub\GoDely\wear-os\build\shared_preferences_android\tmp\kotlin-classes\debug;C:\Users\ASUS\Documents\GitHub\GoDely\wear-os\build\shared_preferences_android\intermediates\compile_r_class_jar\debug\generateDebugRFile\R.jar"
+      type="MAIN"
+      applicationId="io.flutter.plugins.sharedpreferences"
+      generatedSourceFolders="C:\Users\ASUS\Documents\GitHub\GoDely\wear-os\build\shared_preferences_android\generated\ap_generated_sources\debug\out"
+      generatedResourceFolders="C:\Users\ASUS\Documents\GitHub\GoDely\wear-os\build\shared_preferences_android\generated\res\resValues\debug"
+      desugaredMethodsFiles="C:\Users\ASUS\.gradle\caches\8.9\transforms\a0963d512d8354b8fd95dd80bea5074e\transformed\D8BackportedDesugaredMethods.txt">
+  </artifact>
+</variant>

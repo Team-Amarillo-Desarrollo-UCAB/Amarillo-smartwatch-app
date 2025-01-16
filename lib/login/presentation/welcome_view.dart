@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import '../../common/infrastructure/base_url.dart';
 import '../../common/presentation/color_extension.dart';
 import '../../common/presentation/common_widget/round_button.dart';
+import 'login_view.dart';
 
 class WelcomeView extends StatefulWidget {
   const WelcomeView({super.key});
@@ -138,17 +139,13 @@ class _WelcomeViewState extends State<WelcomeView> {
                 RoundButton(
                   title: "Iniciar Sesión",
                   onPressed: () {
-                    // Lógica para iniciar sesión
+                    Navigator.pushReplacement(
+                          context,
+                          MaterialPageRoute(builder: (context) => const LoginView()),
+                        );
                   },
                 ),
-                const SizedBox(height: 8),
-
-                // const SizedBox(height: 8),
-                // IconButton(
-                //   icon: const Icon(Icons.settings),
-                //   color: TColor.primary,
-                //   onPressed: _showApiSelectionDialog,
-                // ),
+                const SizedBox(height: 8)
               ],
             ),
           ),
