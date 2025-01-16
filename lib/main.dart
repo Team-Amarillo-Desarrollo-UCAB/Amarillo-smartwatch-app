@@ -1,21 +1,33 @@
-import 'package:flutter/material.dart';
-import 'package:watch_app/screens/music_screen.dart';
 
-void main() {
+import 'package:flutter/material.dart';
+import 'api/firebase_api.dart';
+import 'chatbot/prueba.dart';
+import 'chatbot/prueba2.dart';
+import 'common/presentation/startup_view.dart';
+import 'login/presentation/welcome_view.dart';
+// import 'package:firebase_core/firebase_core.dart';
+
+
+
+Future<void> main() async {
+  WidgetsFlutterBinding.ensureInitialized();
+  //await Firebase.initializeApp();
   runApp(const MyApp());
 }
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
-  // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      title: 'GoDely',
       debugShowCheckedModeBanner: false,
-      title: 'The Flutter Way',
-      theme: ThemeData.dark(useMaterial3: true),
-      home: const MusicPlayerScreen(),
+      theme: ThemeData(
+        fontFamily: "Metropolis",
+        colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
+      ),
+      home: const WelcomeView(), 
     );
   }
 }
