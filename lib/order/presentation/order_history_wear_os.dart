@@ -4,6 +4,7 @@ import 'package:wear/wear.dart';
 import 'package:http/http.dart' as http;
 import 'dart:convert';
 
+import '../../Users/presentation/profile_screen.dart';
 import '../../login/infrastructure/login_service.dart';
 import '../domain/orderData.dart';
 import 'order_detailed.dart';
@@ -180,47 +181,66 @@ Widget build(BuildContext context) {
   }
 
   Widget _buildOrdersList(List<Order> orders, double? radius) {
-    return Column(
-      children: [
-        const Padding(
-          padding: EdgeInsets.symmetric(vertical: 8.0),
-          child: Text(
-            'Órdenes',
-            style: TextStyle(
-              color: Colors.white,
-              fontSize: 16,
-              fontWeight: FontWeight.bold,
+  return Column(
+    children: [
+      Padding(
+        padding: const EdgeInsets.symmetric(vertical: 8.0),
+        child: Row(
+          mainAxisAlignment: MainAxisAlignment.spaceBetween,
+          children: [
+            const Text(
+              'Órdenes',
+              style: TextStyle(
+                color: Colors.white,
+                fontSize: 16,
+                fontWeight: FontWeight.bold,
+              ),
             ),
-          ),
-        ),
-        Expanded(
-          child: ScrollConfiguration(
-            // This enables the scrollbar for the watch
-            behavior: ScrollBehavior(),
-            child: ListView.builder(
-              controller: _scrollController,
-              padding: const EdgeInsets.symmetric(horizontal: 8.0),
-              itemCount: orders.length,
-              itemBuilder: (context, index) {
-                final order = orders[index];
-                // If we have a radius (round watch), clip the list items
-                if (radius != null) {
-                  return ClipPath(
-                    clipper: WatchShapeClipper(
-                      shape: WearShape.round,
-                      radius: radius,
-                    ),
-                    child: _buildOrderItem(order),
-                  );
-                }
-                return _buildOrderItem(order);
+            IconButton(
+              icon: const Icon(
+                Icons.person, // Ícono de usuario
+                color: Colors.white,
+              ),
+              onPressed: () {
+                // Navegación a otra vista
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(
+                    builder: (context) => const UserProfileScreen(), // Cambia por tu pantalla de destino
+                  ),
+                );
               },
             ),
+          ],
+        ),
+      ),
+      Expanded(
+        child: ScrollConfiguration(
+          behavior: ScrollBehavior(),
+          child: ListView.builder(
+            controller: _scrollController,
+            padding: const EdgeInsets.symmetric(horizontal: 8.0),
+            itemCount: orders.length,
+            itemBuilder: (context, index) {
+              final order = orders[index];
+              if (radius != null) {
+                return ClipPath(
+                  clipper: WatchShapeClipper(
+                    shape: WearShape.round,
+                    radius: radius,
+                  ),
+                  child: _buildOrderItem(order),
+                );
+              }
+              return _buildOrderItem(order);
+            },
           ),
         ),
-      ],
-    );
-  }
+      ),
+    ],
+  );
+}
+
 
   Widget _buildOrderItem(Order order) {
     return Container(
