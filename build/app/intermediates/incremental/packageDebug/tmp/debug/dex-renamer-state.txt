@@ -1,4 +1,4 @@
-#Fri Jan 17 00:52:23 VET 2025
+#Fri Jan 17 04:43:08 VET 2025
 base.0=C\:\\Users\\ASUS\\Documents\\GitHub\\GoDely\\wear-os\\build\\app\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 base.1=C\:\\Users\\ASUS\\Documents\\GitHub\\GoDely\\wear-os\\build\\app\\intermediates\\dex\\debug\\mergeLibDexDebug\\0\\classes.dex
 base.2=C\:\\Users\\ASUS\\Documents\\GitHub\\GoDely\\wear-os\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex

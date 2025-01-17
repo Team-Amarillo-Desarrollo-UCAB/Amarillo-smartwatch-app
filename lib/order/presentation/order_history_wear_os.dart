@@ -5,6 +5,7 @@ import 'package:http/http.dart' as http;
 import 'dart:convert';
 
 import '../../login/infrastructure/login_service.dart';
+import '../domain/orderData.dart';
 import 'order_detailed.dart';
 
 class Order {
@@ -55,14 +56,17 @@ class _OrdersListScreenState extends State<OrdersListScreen> {
   }
 
 Future<List<Order>> fetchOrders() async {
-  List<String> status = ['CREATED'];
+  List<String> status = ["CREATED", "BEING PROCESSED", "SHIPPED"];
   final token = await _authService.getToken();
-  
   // Convertir la lista de status en una cadena separada por comas
   String statusParam = status.join(',');
 
   // Construir la URL correctamente
-  String url = 'https://amarillo-backend-production.up.railway.app/order/many?status=$statusParam';
+  String url = 'https://amarillo-backend-production.up.railway.app/order/many?perpage=40';
+
+  for (var s in status) {
+    url += '&status=$s';
+  }
 
   final response = await http.get(
     Uri.parse(url),
@@ -92,67 +96,6 @@ Future<List<Order>> fetchOrders() async {
   }
 }
 
-//   Future<List<Order>> fetchOrders() async {
-//   final status = ['CREATED'];
-//   final token = await _authService.getToken();
-
-//   // Convertir la lista de status en una cadena separada por comas
-//   String statusParam = status.join(',');
-
-//   // Construir la URL correctamente
-//   String url = 'https://amarillo-backend-production.up.railway.app/order/many?status=$statusParam';
-
-//   final response = await http.get(
-//     Uri.parse(url),
-//     headers: {
-//       'Authorization': 'Bearer $token',
-//     },
-//   );
-
-//   print("response: ${response.body}");
-
-//   if (response.statusCode == 200) {
-//     final List<dynamic> ordersJson = json.decode(response.body);
-//     return ordersJson.map((json) => Order.fromJson(json)).toList();
-//   } else {
-//     throw Exception('Failed to load orders');
-//   }
-// }
-
-
-  // @override
-  // Widget build(BuildContext context) {
-  //   return WatchShape(
-  //     builder: (context, shape, child) {
-  //       // Get the screen size
-  //       final screenSize = MediaQuery.of(context).size;
-  //       final radius = screenSize.width / 2;
-        
-  //       return AmbientMode(
-  //         builder: (context, mode, child) {
-  //           return Scaffold(
-  //             backgroundColor: Colors.black,
-  //             body: SafeArea(
-  //               child: FutureBuilder<List<Order>>(
-  //                 future: _ordersFuture,
-  //                 builder: (context, snapshot) {
-  //                   if (snapshot.connectionState == ConnectionState.waiting) {
-  //                     return _buildLoadingState();
-  //                   } else if (snapshot.hasError) {
-  //                     return _buildErrorState(snapshot.error.toString());
-  //                   } else if (!snapshot.hasData || snapshot.data!.isEmpty) {
-  //                     return _buildEmptyState();
-  //                   }
-  //                   return _buildOrdersList(snapshot.data!, shape == WearShape.round ? radius : null);
-  //                 },
-  //               ),
-  //             ),
-  //           );
-  //         },
-  //       );
-  //     },
-  //   );
-  // }
 
 @override
 Widget build(BuildContext context) {
@@ -331,7 +274,7 @@ Widget build(BuildContext context) {
         onTap: () {
           Navigator.pushReplacement(
             context,
-            MaterialPageRoute(builder: (context) => const OrderStatusScreen()),
+            MaterialPageRoute(builder: (context) => OrderStatusWatch(orderId: order.id,)),
           );
         },
       ),
@@ -362,61 +305,4 @@ class WatchShapeClipper extends CustomClipper<Path> {
 
   @override
   bool shouldReclip(CustomClipper<Path> oldClipper) => false;
-}
-
-
-class OrderData {
-  final String id;
-  final String orderState;
-  final DateTime orderCreatedDate;
-  final String totalAmount;
-  final String subTotal;
-  final String shippingFee;
-  final String currency;
-  final double latitude;
-  final double longitude;
-  final String directionName;
-  final List<Map<String, dynamic>> products;
-  final List<Map<String, dynamic>> bundles;
-  final String orderReport;
-  final Map<String, dynamic> orderPayment;
-  final String orderDiscount;
-
-  OrderData({
-    required this.id,
-    required this.orderState,
-    required this.orderCreatedDate,
-    required this.totalAmount,
-    required this.subTotal,
-    required this.shippingFee,
-    required this.currency,
-    required this.latitude,
-    required this.longitude,
-    required this.directionName,
-    required this.products,
-    required this.bundles,
-    required this.orderReport,
-    required this.orderPayment,
-    required this.orderDiscount,
-  });
-
-  factory OrderData.fromJson(Map<String, dynamic> json) {
-    return OrderData(
-      id: json['id']?? 'ERROR01',
-      orderState: json['orderState'] ?? ' ',
-      orderCreatedDate: json['orderCreatedDate'] != null ? DateTime.parse(json['orderCreatedDate']) : DateTime.now(),
-      totalAmount: (json['totalAmount'] ?? 0.0).toString(),
-      subTotal: (json['sub_total'] ?? 0.0).toString(),
-      shippingFee: (json['shipping_fee'] ?? 0.0).toString(),
-      currency: json['currency'] ?? 'USD',
-      latitude:(json['orderDirection']['lat']) ?? 0.0,
-      longitude: (json['orderDirection']['long']) ?? 0.0,
-      directionName: json['directionName'] ?? ' ',
-      products: List<Map<String, dynamic>>.from(json['products'] ?? []),
-      bundles: List<Map<String, dynamic>>.from(json['bundles'] ?? []),
-      orderReport: json['orderReport'] ?? ' ',
-      orderPayment: Map<String, dynamic>.from(json['orderPayment'] ?? {}),
-      orderDiscount: (json['orderDiscount'] ?? 0.0).toString(),
-    );
-  }
 }
