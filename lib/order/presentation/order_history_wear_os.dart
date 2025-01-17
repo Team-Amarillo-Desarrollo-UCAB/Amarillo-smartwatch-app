@@ -180,22 +180,24 @@ Widget build(BuildContext context) {
     );
   }
 
-  Widget _buildOrdersList(List<Order> orders, double? radius) {
+Widget _buildOrdersList(List<Order> orders, double? radius) { 
   return Column(
     children: [
       Padding(
-        padding: const EdgeInsets.symmetric(vertical: 8.0),
+        padding: const EdgeInsets.symmetric(vertical: 4.0), // Reduce el padding vertical
         child: Row(
-          mainAxisAlignment: MainAxisAlignment.spaceBetween,
+          mainAxisAlignment: MainAxisAlignment.center, // Alinea al inicio
+          crossAxisAlignment: CrossAxisAlignment.center, // Centra verticalmente el contenido
           children: [
             const Text(
-              'Órdenes',
+              '          Órdenes',
               style: TextStyle(
                 color: Colors.white,
                 fontSize: 16,
                 fontWeight: FontWeight.bold,
               ),
             ),
+            const SizedBox(width: 10), // Espaciado entre texto e ícono
             IconButton(
               icon: const Icon(
                 Icons.person, // Ícono de usuario
@@ -206,7 +208,7 @@ Widget build(BuildContext context) {
                 Navigator.push(
                   context,
                   MaterialPageRoute(
-                    builder: (context) => const UserProfileScreen(), // Cambia por tu pantalla de destino
+                    builder: (context) => const UserProfileScreen(),
                   ),
                 );
               },
@@ -240,6 +242,8 @@ Widget build(BuildContext context) {
     ],
   );
 }
+
+
 
 
   Widget _buildOrderItem(Order order) {

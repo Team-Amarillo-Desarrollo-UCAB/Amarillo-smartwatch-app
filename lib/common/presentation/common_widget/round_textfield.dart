@@ -23,6 +23,8 @@ class RoundTextfield extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
+      width: 160,
+      height: 25,
       decoration: BoxDecoration(
                 border: Border.all(
           color: TColor.primary, // Set border color to orange
@@ -46,13 +48,14 @@ class RoundTextfield extends StatelessWidget {
               obscureText: obscureText,
               keyboardType: keyboardType,
               decoration: InputDecoration(
-                contentPadding: const EdgeInsets.symmetric(horizontal: 20),
+                contentPadding: const EdgeInsets.symmetric(horizontal: 20,
+                vertical: 10),
                 enabledBorder: InputBorder.none,
                 focusedBorder: InputBorder.none,
                 hintText: hintText,
                 hintStyle: TextStyle(
                     color: TColor.primary,
-                    fontSize: 14,
+                    fontSize: 11,
                     fontWeight: FontWeight.w500),
               ),
             ),
@@ -91,7 +94,7 @@ class RoundTitleTextfield extends StatelessWidget {
           color: TColor.primary, // Set border color to orange
           width: 1.0, // Adjust border width as needed
         ),
-          color: TColor.white,
+          color: TColor.primary,
           borderRadius: BorderRadius.circular(25)),
       child: Row(
         children: [
@@ -106,7 +109,7 @@ class RoundTitleTextfield extends StatelessWidget {
             child: Stack(
               children: [
                 Container(
-                  height: 55,
+                  height: 20,
                   margin: const EdgeInsets.only(top: 8,),
                   alignment: Alignment.topLeft,
                   child: TextField(
@@ -116,12 +119,13 @@ class RoundTitleTextfield extends StatelessWidget {
                     keyboardType: keyboardType,
                     decoration: InputDecoration(
                       contentPadding:
-                          const EdgeInsets.symmetric(horizontal: 20),
+                          const EdgeInsets.symmetric(horizontal: 20,
+                        vertical: 10      ),
                       enabledBorder: InputBorder.none,
                       focusedBorder: InputBorder.none,
                       hintText: hintText,
                       hintStyle: TextStyle(
-                          color: TColor.white,
+                          color: TColor.primary,
                           fontSize: 14,
                           fontWeight: FontWeight.w500),
                     ),

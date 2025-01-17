@@ -21,7 +21,6 @@ class UserProfileScreen extends StatelessWidget {
       ), 
       body: Column(
         children: [
-          const SizedBox(height: 2),
           Center(
             child: Stack(
               children: [
@@ -42,20 +41,18 @@ class UserProfileScreen extends StatelessWidget {
             style: TextStyle(color: Colors.grey,
             fontSize: 12),
           ), 
-
-
-             Divider(
-              thickness: 1,
-              color: TColor.secondary.withOpacity(0.5),
-            ),
           ListTile(
-            leading: const Icon(Icons.logout, color: Colors.red),
-            title: const Text('Cerrar Sesión', style: TextStyle(color: Colors.red,
-            fontSize: 12)),
-            onTap: () {
-              showLogoutConfirmationDialog(context);
-            }, // onTap
-          ), 
+  contentPadding: EdgeInsets.symmetric(horizontal: 50.0),
+  leading: const Icon(Icons.logout, color: Colors.red),
+  title: const Text(
+    'Cerrar Sesión',
+    style: TextStyle(color: Colors.red, fontSize: 12),
+  ),
+  onTap: () {
+    showLogoutConfirmationDialog(context);
+  },
+)
+
 
         ], // Children del Column principal
       ),

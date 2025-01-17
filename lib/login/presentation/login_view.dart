@@ -80,6 +80,7 @@ class _LoginViewState extends State<LoginView> {
     });
 
     if (result.containsKey("error")) {
+      print(result);
       ScaffoldMessenger.of(context).showSnackBar(
         SnackBar(content: Text(result["error"])),
       );
@@ -87,10 +88,10 @@ class _LoginViewState extends State<LoginView> {
       ScaffoldMessenger.of(context).showSnackBar(
         const SnackBar(content: Text("¡Inicio de sesión exitoso!")),
       );
-      // Navigator.pushReplacement(
-      //   context,
-      //   MaterialPageRoute(builder: (context) => const MainTabView()),
-      // );
+      Navigator.pushReplacement(
+          context,
+          MaterialPageRoute(builder: (context) => const OrdersListScreen()),
+        );
     }
   }
 
@@ -117,17 +118,17 @@ class _LoginViewState extends State<LoginView> {
                   ),
                   child: Column(
                     children: [
-                      SizedBox(height: media.height * 0.15),
+                      SizedBox(height: media.height * 0.09),
                       Image.asset(
                         "assets/img/app-logo.png",
-                        width: media.width * 0.7,
+                        width: media.width * 0.5,
                       ),
-                      SizedBox(height: media.height * 0.03),
+                      SizedBox(height: media.height * 0.0001),
                       Text(
                         "Iniciar Sesión",
                         style: TextStyle(
                           color: TColor.primary,
-                          fontSize: media.width * 0.08,
+                          fontSize: media.width * 0.07,
                           fontWeight: FontWeight.w800,
                         ),
                       ),
@@ -135,7 +136,7 @@ class _LoginViewState extends State<LoginView> {
                         "Ingresa tus datos",
                         style: TextStyle(
                           color: TColor.secondaryText,
-                          fontSize: media.width * 0.035,
+                          fontSize: media.width * 0.045,
                           fontWeight: FontWeight.w500,
                         ),
                       ),
@@ -143,10 +144,10 @@ class _LoginViewState extends State<LoginView> {
                       Align(
                         alignment: Alignment.centerLeft,
                         child: Text(
-                          "Correo Electrónico",
+                          "       Correo Electrónico",
                           style: TextStyle(
                             color: TColor.primaryText,
-                            fontSize: media.width * 0.035,
+                            fontSize: media.width * 0.04,
                             fontWeight: FontWeight.w600,
                           ),
                         ),
@@ -156,14 +157,14 @@ class _LoginViewState extends State<LoginView> {
                         controller: _emailController,
                         keyboardType: TextInputType.emailAddress,
                       ),
-                      SizedBox(height: media.height * 0.03),
+                      SizedBox(height: media.height * 0.009),
                       Align(
                         alignment: Alignment.centerLeft,
                         child: Text(
-                          "Contraseña",
+                          "        Contraseña",
                           style: TextStyle(
                             color: TColor.primaryText,
-                            fontSize: media.width * 0.035,
+                            fontSize: media.width * 0.04,
                             fontWeight: FontWeight.w600,
                           ),
                         ),
@@ -173,6 +174,7 @@ class _LoginViewState extends State<LoginView> {
                         controller: _passwordController,
                         obscureText: true,
                       ),
+                      SizedBox(height: media.height * 0.04),
                       RoundButton(
                         title: "Iniciar Sesión",
                         onPressed: _login, 
