@@ -5,6 +5,7 @@ import 'chatbot/prueba2.dart';
 import 'common/presentation/startup_view.dart';
 import 'login/presentation/welcome_view.dart';
 // import 'package:firebase_core/firebase_core.dart';
+//hola
 
 
 
