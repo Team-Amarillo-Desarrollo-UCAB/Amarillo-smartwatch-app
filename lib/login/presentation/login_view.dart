@@ -3,6 +3,7 @@ import '../../common/infrastructure/base_url.dart';
 import '../../common/presentation/color_extension.dart';
 import '../../common/presentation/common_widget/round_button.dart';
 import '../../common/presentation/common_widget/round_textfield.dart';
+import '../../order/presentation/order_history_wear_os.dart';
 import '../infrastructure/login_service.dart';
 
 class LoginView extends StatefulWidget {
@@ -37,10 +38,10 @@ class _LoginViewState extends State<LoginView> {
       if (BaseUrl().BASE_URL == BaseUrl().AMARILLO) {
       final isValid = await _authService.isValidToken(token);
       if (isValid) {
-        // Navigator.pushReplacement(
-        //   context,
-        //   MaterialPageRoute(builder: (context) => const MainTabView()),
-        // );
+        Navigator.pushReplacement(
+          context,
+          MaterialPageRoute(builder: (context) => const OrdersListScreen()),
+        );
       }
     }
     // Navigator.pushReplacement(

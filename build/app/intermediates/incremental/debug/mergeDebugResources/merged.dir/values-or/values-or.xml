@@ -34,6 +34,10 @@
     <string msgid="6107532579223922871" name="call_notification_incoming_text">"ଇନକମିଂ କଲ୍"</string>
     <string msgid="8623827134497363134" name="call_notification_ongoing_text">"ଚାଲିଥିବା କଲ୍"</string>
     <string msgid="59049573811482460" name="call_notification_screening_text">"ଏକ ଇନକମିଂ କଲକୁ ସ୍କ୍ରିନ୍ କରୁଛି"</string>
+    <string msgid="6412144553299494336" name="confirmation_overlay_a11y_description_fail">"ବିଫଳ ହୋଇଛି"</string>
+    <string msgid="8809042819843332546" name="confirmation_overlay_a11y_description_phone">"ଆପଣଙ୍କ ଫୋନରେ ଖୋଲାଯାଇଛି"</string>
+    <string msgid="2936753235333429892" name="confirmation_overlay_a11y_description_success">"ସଫଳ ହୋଇଛି"</string>
+    <string msgid="4327971892987955014" name="confirmation_overlay_a11y_type_image">"ଛବି"</string>
     <string msgid="6083905920877235314" name="copy">"କପି କରନ୍ତୁ"</string>
     <string msgid="2427401033573778270" name="expand_button_title">"ଅଧିକ ଉନ୍ନତ"</string>
     <string msgid="6573031135582639649" name="not_set">"ସେଟ୍ ହୋଇନାହିଁ"</string>
@@ -43,4 +47,6 @@
     <string msgid="9167775378838880170" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
     <string msgid="3140233346420563315" name="v7_preference_off">"ବନ୍ଦ"</string>
     <string msgid="89551595707643515" name="v7_preference_on">"ଚାଲୁ ଅଛି"</string>
+    <string msgid="8863821639144537553" name="ws_action_drawer_content_description">"କାର୍ଯ୍ୟକାରୀ ପ୍ୟାନେଲ୍"</string>
+    <string msgid="777117228299084604" name="ws_navigation_drawer_content_description">"ନେଭିଗେଶନ୍ ପ୍ୟାନେଲ୍"</string>
 </resources>

@@ -1,0 +1,32 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\ASUS\AppData\Local\Pub\Cache\hosted\pub.dev\wear-1.1.0\android\src\main\AndroidManifest.xml:1:1-18:12
+INJECTED from C:\Users\ASUS\AppData\Local\Pub\Cache\hosted\pub.dev\wear-1.1.0\android\src\main\AndroidManifest.xml:1:1-18:12
+	package
+		INJECTED from C:\Users\ASUS\AppData\Local\Pub\Cache\hosted\pub.dev\wear-1.1.0\android\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\ASUS\AppData\Local\Pub\Cache\hosted\pub.dev\wear-1.1.0\android\src\main\AndroidManifest.xml:1:11-69
+application
+ADDED from C:\Users\ASUS\AppData\Local\Pub\Cache\hosted\pub.dev\wear-1.1.0\android\src\main\AndroidManifest.xml:5:2-10:16
+meta-data#com.google.android.wearable.standalone
+ADDED from C:\Users\ASUS\AppData\Local\Pub\Cache\hosted\pub.dev\wear-1.1.0\android\src\main\AndroidManifest.xml:6:3-9:6
+	android:value
+		ADDED from C:\Users\ASUS\AppData\Local\Pub\Cache\hosted\pub.dev\wear-1.1.0\android\src\main\AndroidManifest.xml:8:4-24
+	android:name
+		ADDED from C:\Users\ASUS\AppData\Local\Pub\Cache\hosted\pub.dev\wear-1.1.0\android\src\main\AndroidManifest.xml:7:4-57
+uses-feature#android.hardware.type.watch
+ADDED from C:\Users\ASUS\AppData\Local\Pub\Cache\hosted\pub.dev\wear-1.1.0\android\src\main\AndroidManifest.xml:13:2-61
+	android:name
+		ADDED from C:\Users\ASUS\AppData\Local\Pub\Cache\hosted\pub.dev\wear-1.1.0\android\src\main\AndroidManifest.xml:13:16-58
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\ASUS\AppData\Local\Pub\Cache\hosted\pub.dev\wear-1.1.0\android\src\main\AndroidManifest.xml:16:2-65
+	android:name
+		ADDED from C:\Users\ASUS\AppData\Local\Pub\Cache\hosted\pub.dev\wear-1.1.0\android\src\main\AndroidManifest.xml:16:19-62
+uses-sdk
+INJECTED from C:\Users\ASUS\AppData\Local\Pub\Cache\hosted\pub.dev\wear-1.1.0\android\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\ASUS\AppData\Local\Pub\Cache\hosted\pub.dev\wear-1.1.0\android\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ASUS\AppData\Local\Pub\Cache\hosted\pub.dev\wear-1.1.0\android\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\ASUS\AppData\Local\Pub\Cache\hosted\pub.dev\wear-1.1.0\android\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\ASUS\AppData\Local\Pub\Cache\hosted\pub.dev\wear-1.1.0\android\src\main\AndroidManifest.xml

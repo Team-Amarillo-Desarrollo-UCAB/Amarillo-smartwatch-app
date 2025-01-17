@@ -290,6 +290,12 @@
       "languageVersion": "3.3"
     },
     {
+      "name": "wear",
+      "rootUri": "file:///C:/Users/ASUS/AppData/Local/Pub/Cache/hosted/pub.dev/wear-1.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "web",
       "rootUri": "file:///C:/Users/ASUS/AppData/Local/Pub/Cache/hosted/pub.dev/web-1.1.0",
       "packageUri": "lib/",
@@ -308,7 +314,7 @@
       "languageVersion": "2.19"
     }
   ],
-  "generated": "2025-01-16T19:00:19.025006Z",
+  "generated": "2025-01-17T02:28:34.107684Z",
   "generator": "pub",
   "generatorVersion": "3.5.3",
   "flutterRoot": "file:///C:/Users/ASUS/Downloads/Aplicaciones/flutter",

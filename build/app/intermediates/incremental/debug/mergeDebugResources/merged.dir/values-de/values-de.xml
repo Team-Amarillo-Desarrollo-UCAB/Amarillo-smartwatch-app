@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="time_difference_short_days"><item quantity="one">%d d</item>
+<item quantity="other">%d d</item>
+</plurals>
+    <plurals name="time_difference_short_hours"><item quantity="one">%d h</item>
+<item quantity="other">%d h</item>
+</plurals>
+    <plurals name="time_difference_short_minutes"><item quantity="one">%d Min.</item>
+<item quantity="other">%d Min.</item>
+</plurals>
+    <plurals name="time_difference_words_days"><item quantity="one">%d Tag</item>
+<item quantity="other">%d Tage</item>
+</plurals>
+    <plurals name="time_difference_words_hours"><item quantity="one">%d Stunde</item>
+<item quantity="other">%d Stunden</item>
+</plurals>
+    <plurals name="time_difference_words_minutes"><item quantity="one">%d Minute</item>
+<item quantity="other">%d Minuten</item>
+</plurals>
+    <string name="a11y_no_data">Keine Daten</string>
+    <string name="a11y_no_permission">Keine Datenzugriffsberechtigung</string>
+    <string name="a11y_template_range">%1$f von %2$f</string>
     <string msgid="7903180715631665059" name="abc_action_bar_home_description">"Zur Startseite"</string>
     <string msgid="6794660482873516081" name="abc_action_bar_up_description">"Nach oben"</string>
     <string msgid="1155814932213556626" name="abc_action_menu_overflow_description">"Weitere Optionen"</string>
@@ -27,6 +48,34 @@
     <string msgid="2650565705514630347" name="abc_shareactionprovider_share_with">"Teilen mit"</string>
     <string msgid="9009661856846212431" name="abc_shareactionprovider_share_with_application">"Mit <ns1:g id="APPLICATION_NAME">%s</ns1:g> teilen"</string>
     <string msgid="6389460216547290468" name="abc_toolbar_collapse_description">"Minimieren"</string>
+    <string name="buttons_rect_bottom_center">Unten</string>
+    <string name="buttons_rect_bottom_left">Links unten</string>
+    <string name="buttons_rect_bottom_right">Rechts unten</string>
+    <string name="buttons_rect_left_bottom">Unten, linke Seite</string>
+    <string name="buttons_rect_left_center">Mitte links</string>
+    <string name="buttons_rect_left_top">Oben, linke Seite</string>
+    <string name="buttons_rect_right_bottom">Unten, rechte Seite</string>
+    <string name="buttons_rect_right_center">Mitte rechts</string>
+    <string name="buttons_rect_right_top">Oben, rechte Seite</string>
+    <string name="buttons_rect_top_center">Oben</string>
+    <string name="buttons_rect_top_left">Links oben</string>
+    <string name="buttons_rect_top_right">Rechts oben</string>
+    <string name="buttons_round_bottom_center">Unten</string>
+    <string name="buttons_round_bottom_left">Links unten</string>
+    <string name="buttons_round_bottom_left_lower">Links unten, unterer Teil</string>
+    <string name="buttons_round_bottom_left_upper">Links unten, oberer Teil</string>
+    <string name="buttons_round_bottom_right">Rechts unten</string>
+    <string name="buttons_round_bottom_right_lower">Rechts unten, unterer Teil</string>
+    <string name="buttons_round_bottom_right_upper">Rechts unten, oberer Teil</string>
+    <string name="buttons_round_center_left">Mitte links</string>
+    <string name="buttons_round_center_right">Mitte rechts</string>
+    <string name="buttons_round_top_center">Oben</string>
+    <string name="buttons_round_top_left">Links oben</string>
+    <string name="buttons_round_top_left_lower">Links oben, unterer Teil</string>
+    <string name="buttons_round_top_left_upper">Links oben, oberer Teil</string>
+    <string name="buttons_round_top_right">Rechts oben</string>
+    <string name="buttons_round_top_right_lower">Rechts oben, unterer Teil</string>
+    <string name="buttons_round_top_right_upper">Rechts oben, oberer Teil</string>
     <string msgid="881409763997275156" name="call_notification_answer_action">"Annehmen"</string>
     <string msgid="8793775615905189152" name="call_notification_answer_video_action">"Video"</string>
     <string msgid="3229508546291798546" name="call_notification_decline_action">"Ablehnen"</string>
@@ -34,13 +83,26 @@
     <string msgid="6107532579223922871" name="call_notification_incoming_text">"Eingehender Anruf"</string>
     <string msgid="8623827134497363134" name="call_notification_ongoing_text">"Aktueller Anruf"</string>
     <string msgid="59049573811482460" name="call_notification_screening_text">"Filter für eingehenden Anruf"</string>
+    <string msgid="6412144553299494336" name="confirmation_overlay_a11y_description_fail">"Fehler"</string>
+    <string msgid="8809042819843332546" name="confirmation_overlay_a11y_description_phone">"Wurde auf dem Smartphone geöffnet"</string>
+    <string msgid="2936753235333429892" name="confirmation_overlay_a11y_description_success">"Fertig"</string>
+    <string msgid="4327971892987955014" name="confirmation_overlay_a11y_type_image">"Bild"</string>
     <string msgid="6083905920877235314" name="copy">"Kopieren"</string>
+    <string name="dismiss_overlay_button_label">Beenden</string>
     <string msgid="2427401033573778270" name="expand_button_title">"Erweitert"</string>
+    <string name="generic_cancel">Abbrechen</string>
+    <string name="generic_yes">Ja</string>
+    <string name="navigation_drawer_content_description">Navigationsleiste</string>
     <string msgid="6573031135582639649" name="not_set">"Nicht festgelegt"</string>
     <string msgid="6685851473431805375" name="preference_copied">"\"<ns1:g id="SUMMARY">%1$s</ns1:g>\" in Zwischenablage kopiert."</string>
     <string msgid="730395136688082741" name="search_menu_title">"Suche"</string>
     <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
     <string msgid="9167775378838880170" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string name="time_difference_now">Jetzt</string>
+    <string name="time_difference_short_days_and_hours">%1$s %2$s﻿</string>
+    <string name="time_difference_short_hours_and_minutes">%1$s %2$s﻿</string>
     <string msgid="3140233346420563315" name="v7_preference_off">"AUS"</string>
     <string msgid="89551595707643515" name="v7_preference_on">"AN"</string>
+    <string msgid="8863821639144537553" name="ws_action_drawer_content_description">"Aktionsleiste"</string>
+    <string msgid="777117228299084604" name="ws_navigation_drawer_content_description">"Navigationsleiste"</string>
 </resources>

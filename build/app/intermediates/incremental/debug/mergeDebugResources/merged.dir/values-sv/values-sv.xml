@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="time_difference_short_days"><item quantity="one">%d d</item>
+<item quantity="other">%d d</item>
+</plurals>
+    <plurals name="time_difference_short_hours"><item quantity="one">%d tim.</item>
+<item quantity="other">%d tim.</item>
+</plurals>
+    <plurals name="time_difference_short_minutes"><item quantity="one">%d min</item>
+<item quantity="other">%d min</item>
+</plurals>
+    <plurals name="time_difference_words_days"><item quantity="one">%d dag</item>
+<item quantity="other">%d dagar</item>
+</plurals>
+    <plurals name="time_difference_words_hours"><item quantity="one">%d tim.</item>
+<item quantity="other">%d tim.</item>
+</plurals>
+    <plurals name="time_difference_words_minutes"><item quantity="one">%d min</item>
+<item quantity="other">%d min</item>
+</plurals>
+    <string name="a11y_no_data">Ingen data</string>
+    <string name="a11y_no_permission">Ingen åtkomst till data</string>
+    <string name="a11y_template_range">%1$f av %2$f</string>
     <string msgid="7903180715631665059" name="abc_action_bar_home_description">"Navigera hem"</string>
     <string msgid="6794660482873516081" name="abc_action_bar_up_description">"Navigera uppåt"</string>
     <string msgid="1155814932213556626" name="abc_action_menu_overflow_description">"Fler alternativ"</string>
@@ -27,6 +48,34 @@
     <string msgid="2650565705514630347" name="abc_shareactionprovider_share_with">"Dela med"</string>
     <string msgid="9009661856846212431" name="abc_shareactionprovider_share_with_application">"Dela med <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
     <string msgid="6389460216547290468" name="abc_toolbar_collapse_description">"Komprimera"</string>
+    <string name="buttons_rect_bottom_center">Längst ned</string>
+    <string name="buttons_rect_bottom_left">Längst ned till vänster</string>
+    <string name="buttons_rect_bottom_right">Längst ned till höger</string>
+    <string name="buttons_rect_left_bottom">Längst ned till vänster</string>
+    <string name="buttons_rect_left_center">I mitten till vänster</string>
+    <string name="buttons_rect_left_top">Högst upp till vänster</string>
+    <string name="buttons_rect_right_bottom">Längst ned till höger</string>
+    <string name="buttons_rect_right_center">I mitten till höger</string>
+    <string name="buttons_rect_right_top">Högst upp till höger</string>
+    <string name="buttons_rect_top_center">Högst upp</string>
+    <string name="buttons_rect_top_left">Högst upp till vänster</string>
+    <string name="buttons_rect_top_right">Högst upp till höger</string>
+    <string name="buttons_round_bottom_center">Längst ned</string>
+    <string name="buttons_round_bottom_left">Längst ned till vänster</string>
+    <string name="buttons_round_bottom_left_lower">Längst ned till vänster, lägre</string>
+    <string name="buttons_round_bottom_left_upper">Längst ned till vänster, övre</string>
+    <string name="buttons_round_bottom_right">Längst ned till höger</string>
+    <string name="buttons_round_bottom_right_lower">Längst ned till höger, lägre</string>
+    <string name="buttons_round_bottom_right_upper">Längst ned till höger, övre</string>
+    <string name="buttons_round_center_left">I mitten till vänster</string>
+    <string name="buttons_round_center_right">I mitten till höger</string>
+    <string name="buttons_round_top_center">Högst upp</string>
+    <string name="buttons_round_top_left">Högst upp till vänster</string>
+    <string name="buttons_round_top_left_lower">Högst upp till vänster, lägre</string>
+    <string name="buttons_round_top_left_upper">Högst upp till vänster, övre</string>
+    <string name="buttons_round_top_right">Högst upp till höger</string>
+    <string name="buttons_round_top_right_lower">Högst upp till höger, lägre</string>
+    <string name="buttons_round_top_right_upper">Högst upp till höger, övre</string>
     <string msgid="881409763997275156" name="call_notification_answer_action">"Svara"</string>
     <string msgid="8793775615905189152" name="call_notification_answer_video_action">"Video"</string>
     <string msgid="3229508546291798546" name="call_notification_decline_action">"Avvisa"</string>
@@ -34,13 +83,26 @@
     <string msgid="6107532579223922871" name="call_notification_incoming_text">"Inkommande samtal"</string>
     <string msgid="8623827134497363134" name="call_notification_ongoing_text">"Pågående samtal"</string>
     <string msgid="59049573811482460" name="call_notification_screening_text">"Ett inkommande samtal filtreras"</string>
+    <string msgid="6412144553299494336" name="confirmation_overlay_a11y_description_fail">"Fel"</string>
+    <string msgid="8809042819843332546" name="confirmation_overlay_a11y_description_phone">"Öppnades på telefonen"</string>
+    <string msgid="2936753235333429892" name="confirmation_overlay_a11y_description_success">"Klart"</string>
+    <string msgid="4327971892987955014" name="confirmation_overlay_a11y_type_image">"Bild"</string>
     <string msgid="6083905920877235314" name="copy">"Kopiera"</string>
+    <string name="dismiss_overlay_button_label">Avsluta</string>
     <string msgid="2427401033573778270" name="expand_button_title">"Avancerat"</string>
+    <string name="generic_cancel">Avbryt</string>
+    <string name="generic_yes">Ja</string>
+    <string name="navigation_drawer_content_description">Navigeringspanel</string>
     <string msgid="6573031135582639649" name="not_set">"Inte angett"</string>
     <string msgid="6685851473431805375" name="preference_copied">"<ns1:g id="SUMMARY">%1$s</ns1:g> har kopierats till Urklipp."</string>
     <string msgid="730395136688082741" name="search_menu_title">"Sök"</string>
     <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
     <string msgid="9167775378838880170" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string name="time_difference_now">Nu</string>
+    <string name="time_difference_short_days_and_hours">%1$s %2$s﻿</string>
+    <string name="time_difference_short_hours_and_minutes">%1$s %2$s﻿</string>
     <string msgid="3140233346420563315" name="v7_preference_off">"AV"</string>
     <string msgid="89551595707643515" name="v7_preference_on">"PÅ"</string>
+    <string msgid="8863821639144537553" name="ws_action_drawer_content_description">"Åtgärdspanel"</string>
+    <string msgid="777117228299084604" name="ws_navigation_drawer_content_description">"Navigeringspanel"</string>
 </resources>

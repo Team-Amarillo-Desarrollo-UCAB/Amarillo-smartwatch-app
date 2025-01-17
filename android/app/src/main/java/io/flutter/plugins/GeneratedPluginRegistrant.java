@@ -20,5 +20,10 @@ public final class GeneratedPluginRegistrant {
     } catch (Exception e) {
       Log.e(TAG, "Error registering plugin shared_preferences_android, io.flutter.plugins.sharedpreferences.SharedPreferencesPlugin", e);
     }
+    try {
+      flutterEngine.getPlugins().add(new com.mjohnsullivan.flutterwear.wear.WearPlugin());
+    } catch (Exception e) {
+      Log.e(TAG, "Error registering plugin wear, com.mjohnsullivan.flutterwear.wear.WearPlugin", e);
+    }
   }
 }
