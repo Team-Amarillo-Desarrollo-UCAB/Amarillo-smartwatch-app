@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/layout-watch-v20/abc_alert_dialog_button_bar_material.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-appcompat-1.1.0-23:/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/layout-watch-v20/abc_alert_dialog_title_material.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-appcompat-1.1.0-23:/layout-watch-v20/abc_alert_dialog_title_material.xml"
+    }
+]

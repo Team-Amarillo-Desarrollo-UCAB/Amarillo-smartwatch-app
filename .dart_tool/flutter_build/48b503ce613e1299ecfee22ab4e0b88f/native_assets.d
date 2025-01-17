@@ -1,0 +1,1 @@
+ C:\\Users\\ASUS\\Documents\\GitHub\\GoDely\\wear-os\\.dart_tool\\flutter_build\\48b503ce613e1299ecfee22ab4e0b88f\\native_assets.yaml: 

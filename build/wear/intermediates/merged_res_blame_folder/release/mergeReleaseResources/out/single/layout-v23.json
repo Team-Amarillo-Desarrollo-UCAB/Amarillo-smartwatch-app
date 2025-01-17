@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/layout-v23/wearable_drawer_view.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-jetified-wearable-2.8.1-9:/layout-v23/wearable_drawer_view.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/layout-v23/action_drawer_item_view.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-jetified-wearable-2.8.1-9:/layout-v23/action_drawer_item_view.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/layout-v23/action_drawer_peek_view.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-jetified-wearable-2.8.1-9:/layout-v23/action_drawer_peek_view.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/layout-v23/action_drawer_title_view.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-jetified-wearable-2.8.1-9:/layout-v23/action_drawer_title_view.xml"
+    }
+]

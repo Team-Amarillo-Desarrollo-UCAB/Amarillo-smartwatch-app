@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-appcompat-1.1.0-23:/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/color-v23/button_icon_color.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-jetified-wearable-2.8.1-9:/color-v23/button_icon_color.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/color-v23/abc_tint_switch_track.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-appcompat-1.1.0-23:/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/color-v23/abc_tint_edittext.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-appcompat-1.1.0-23:/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/color-v23/abc_tint_btn_checkable.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-appcompat-1.1.0-23:/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/color-v23/abc_btn_colored_text_material.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-appcompat-1.1.0-23:/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/color-v23/abc_tint_default.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-appcompat-1.1.0-23:/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/color-v23/abc_tint_seek_thumb.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-appcompat-1.1.0-23:/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/color-v23/abc_color_highlight_material.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-appcompat-1.1.0-23:/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/color-v23/abc_tint_spinner.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-appcompat-1.1.0-23:/color-v23/abc_tint_spinner.xml"
+    }
+]

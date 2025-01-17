@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/drawable-v21/ic_cc_clear.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-jetified-wearable-2.8.1-9:/drawable-v21/ic_cc_clear.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/drawable-v21/generic_confirmation_animation.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-jetified-wearable-2.8.1-9:/drawable-v21/generic_confirmation_animation.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/drawable-v21/preference_list_divider_material.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-preference-1.1.1-13:/drawable-v21/preference_list_divider_material.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/drawable-v21/ic_arrow_down_24dp.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-preference-1.1.1-13:/drawable-v21/ic_arrow_down_24dp.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/drawable-v21/accept_deny_dialog_negative_bg.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-jetified-wearable-2.8.1-9:/drawable-v21/accept_deny_dialog_negative_bg.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/drawable-v21/open_on_phone_animation.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-jetified-wearable-2.8.1-9:/drawable-v21/open_on_phone_animation.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/drawable-v21/ic_expand_more_white_22.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-jetified-wearable-2.8.1-9:/drawable-v21/ic_expand_more_white_22.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-appcompat-1.1.0-23:/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/drawable-v21/ic_cc_checkmark.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-jetified-wearable-2.8.1-9:/drawable-v21/ic_cc_checkmark.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/drawable-v21/abc_list_divider_material.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-appcompat-1.1.0-23:/drawable-v21/abc_list_divider_material.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/drawable-v21/abc_dialog_material_background.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-appcompat-1.1.0-23:/drawable-v21/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/drawable-v21/open_on_phone.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-jetified-wearable-2.8.1-9:/drawable-v21/open_on_phone.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/drawable-v21/generic_confirmation.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-jetified-wearable-2.8.1-9:/drawable-v21/generic_confirmation.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/drawable-v21/notification_action_background.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-core-1.13.1-26:/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/drawable-v21/abc_btn_colored_material.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-appcompat-1.1.0-23:/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/drawable-v21/accept_deny_dialog_positive_bg.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-jetified-wearable-2.8.1-9:/drawable-v21/accept_deny_dialog_positive_bg.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/drawable-v21/abc_edit_text_material.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-appcompat-1.1.0-23:/drawable-v21/abc_edit_text_material.xml"
+    }
+]

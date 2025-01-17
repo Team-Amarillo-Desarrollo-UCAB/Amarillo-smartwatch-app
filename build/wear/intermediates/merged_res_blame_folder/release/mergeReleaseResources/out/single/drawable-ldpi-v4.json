@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/drawable-ldpi-v4/ic_call_answer_low.png",
+        "source": "com.mjohnsullivan.flutterwear.wear-core-1.13.1-26:/drawable-ldpi-v4/ic_call_answer_low.png"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/drawable-ldpi-v4/ic_call_answer.png",
+        "source": "com.mjohnsullivan.flutterwear.wear-core-1.13.1-26:/drawable-ldpi-v4/ic_call_answer.png"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/drawable-ldpi-v4/ic_call_answer_video_low.png",
+        "source": "com.mjohnsullivan.flutterwear.wear-core-1.13.1-26:/drawable-ldpi-v4/ic_call_answer_video_low.png"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/drawable-ldpi-v4/ic_call_decline_low.png",
+        "source": "com.mjohnsullivan.flutterwear.wear-core-1.13.1-26:/drawable-ldpi-v4/ic_call_decline_low.png"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/drawable-ldpi-v4/ic_call_decline.png",
+        "source": "com.mjohnsullivan.flutterwear.wear-core-1.13.1-26:/drawable-ldpi-v4/ic_call_decline.png"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/drawable-ldpi-v4/ic_call_answer_video.png",
+        "source": "com.mjohnsullivan.flutterwear.wear-core-1.13.1-26:/drawable-ldpi-v4/ic_call_answer_video.png"
+    }
+]

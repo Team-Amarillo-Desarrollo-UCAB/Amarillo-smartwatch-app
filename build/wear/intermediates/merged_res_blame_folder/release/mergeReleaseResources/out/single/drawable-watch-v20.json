@@ -1,0 +1,6 @@
+[
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/drawable-watch-v20/abc_dialog_material_background.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-appcompat-1.1.0-23:/drawable-watch-v20/abc_dialog_material_background.xml"
+    }
+]

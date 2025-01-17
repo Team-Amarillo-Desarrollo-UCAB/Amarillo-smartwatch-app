@@ -1,0 +1,31 @@
+<variant
+    name="release"
+    package="com.mjohnsullivan.flutterwear.wear"
+    minSdkVersion="23"
+    targetSdkVersion="23"
+    mergedManifest="C:\Users\ASUS\Documents\GitHub\GoDely\wear-os\build\wear\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml"
+    proguardFiles="C:\Users\ASUS\Documents\GitHub\GoDely\wear-os\build\wear\intermediates\default_proguard_files\global\proguard-android.txt-8.4.0"
+    partialResultsDir="C:\Users\ASUS\Documents\GitHub\GoDely\wear-os\build\wear\intermediates\lint_vital_partial_results\release\lintVitalAnalyzeRelease\out"
+    desugaredMethodsFiles="C:\Users\ASUS\.gradle\caches\8.9\transforms\a0963d512d8354b8fd95dd80bea5074e\transformed\D8BackportedDesugaredMethods.txt">
+  <buildFeatures
+      namespacing="REQUIRED"/>
+  <sourceProviders>
+    <sourceProvider
+        manifests="src\main\AndroidManifest.xml"
+        javaDirectories="src\main\java;src\main\kotlin;src\release\java;src\release\kotlin"
+        resDirectories="src\main\res;src\release\res"
+        assetsDirectories="src\main\assets;src\release\assets"/>
+  </sourceProviders>
+  <testSourceProviders>
+  </testSourceProviders>
+  <testFixturesSourceProviders>
+  </testFixturesSourceProviders>
+  <artifact
+      classOutputs="C:\Users\ASUS\Documents\GitHub\GoDely\wear-os\build\wear\intermediates\javac\release\compileReleaseJavaWithJavac\classes;C:\Users\ASUS\Documents\GitHub\GoDely\wear-os\build\wear\tmp\kotlin-classes\release;C:\Users\ASUS\Documents\GitHub\GoDely\wear-os\build\wear\intermediates\compile_r_class_jar\release\generateReleaseRFile\R.jar"
+      type="MAIN"
+      applicationId="com.mjohnsullivan.flutterwear.wear"
+      generatedSourceFolders="C:\Users\ASUS\Documents\GitHub\GoDely\wear-os\build\wear\generated\ap_generated_sources\release\out"
+      generatedResourceFolders="C:\Users\ASUS\Documents\GitHub\GoDely\wear-os\build\wear\generated\res\resValues\release"
+      desugaredMethodsFiles="C:\Users\ASUS\.gradle\caches\8.9\transforms\a0963d512d8354b8fd95dd80bea5074e\transformed\D8BackportedDesugaredMethods.txt">
+  </artifact>
+</variant>

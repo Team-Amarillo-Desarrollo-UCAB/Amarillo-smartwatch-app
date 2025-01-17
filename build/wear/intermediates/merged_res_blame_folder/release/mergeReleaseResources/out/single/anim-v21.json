@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/anim-v21/generic_confirmation_generic_confirmation_animation.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-jetified-wearable-2.8.1-9:/anim-v21/generic_confirmation_generic_confirmation_animation.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/anim-v21/open_on_phone_arrow_animation.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-jetified-wearable-2.8.1-9:/anim-v21/open_on_phone_arrow_animation.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/anim-v21/fragment_fast_out_extra_slow_in.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-fragment-1.7.1-16:/anim-v21/fragment_fast_out_extra_slow_in.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/anim-v21/open_on_phone_path_1_animation.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-jetified-wearable-2.8.1-9:/anim-v21/open_on_phone_path_1_animation.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/anim-v21/open_on_phone_path_2_animation.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-jetified-wearable-2.8.1-9:/anim-v21/open_on_phone_path_2_animation.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/anim-v21/generic_confirmation_icon_animation.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-jetified-wearable-2.8.1-9:/anim-v21/generic_confirmation_icon_animation.xml"
+    }
+]

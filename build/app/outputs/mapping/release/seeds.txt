@@ -1,0 +1,1845 @@
+androidx.core.app.RemoteActionCompat
+androidx.preference.PreferenceGroup
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageTextureRegistryEntry
+io.flutter.embedding.engine.FlutterJNI
+androidx.preference.internal.PreferenceImageView
+com.mjohnsullivan.flutterwear.wear.R
+androidx.startup.InitializationProvider
+android.support.wearable.view.ObservableScrollView
+androidx.recyclerview.widget.RecyclerView
+androidx.appcompat.view.menu.ListMenuItemView
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper
+androidx.core.graphics.drawable.IconCompatParcelizer
+androidx.recyclerview.widget.LinearLayoutManager
+androidx.appcompat.widget.SearchView$SearchAutoComplete
+androidx.appcompat.widget.FitWindowsLinearLayout
+androidx.core.app.RemoteActionCompatParcelizer
+androidx.profileinstaller.ProfileInstallReceiver
+io.flutter.view.FlutterCallbackInformation
+androidx.appcompat.widget.Toolbar
+android.support.wearable.watchface.decomposition.NumberComponent$1
+io.flutter.view.TextureRegistry$SurfaceProducer
+android.support.v4.graphics.drawable.IconCompatParcelizer
+android.support.wearable.watchface.decomposition.ComplicationComponent$Builder
+android.support.wearable.watchface.decomposition.ImageComponent$1
+android.support.wearable.watchface.decomposition.WatchFaceDecomposition$Builder
+android.support.wearable.complications.TimeFormatText
+android.support.wearable.watchface.decomposition.FontComponent$1
+com.example.desarrollo_frontend.MainActivity
+android.support.wearable.watchface.decomposition.WatchFaceDecomposition$1
+com.mjohnsullivan.flutterwear.wear.WearPlugin$WearableAmbientCallback
+androidx.preference.SwitchPreference
+kotlin.coroutines.jvm.internal.BaseContinuationImpl
+androidx.appcompat.app.AlertController$RecycleListView
+androidx.window.extensions.core.util.function.Consumer
+android.support.wearable.watchface.decomposition.BaseComponent
+android.support.wearable.complications.rendering.ComplicationStyle$Builder
+androidx.preference.ListPreference
+androidx.appcompat.widget.ActionBarContextView
+androidx.window.extensions.core.util.function.Function
+android.support.wearable.watchface.decomposition.WatchFaceDecomposition$DrawnComponent
+androidx.appcompat.widget.ViewStubCompat
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback
+androidx.annotation.Keep
+io.flutter.plugins.GeneratedPluginRegistrant
+androidx.versionedparcelable.CustomVersionedParcelable
+androidx.window.area.reflectionguard.WindowAreaComponentApi2Requirements
+android.support.wearable.watchface.decomposition.FontComponent
+androidx.appcompat.widget.ActionMenuView
+android.support.wearable.complications.TimeDifferenceText
+androidx.window.area.reflectionguard.ExtensionWindowAreaPresentationRequirements
+android.support.wearable.watchface.decomposition.NumberComponent$Builder$1
+androidx.preference.CheckBoxPreference
+androidx.preference.Preference
+androidx.window.area.reflectionguard.WindowAreaComponentApi3Requirements
+androidx.window.area.reflectionguard.ExtensionWindowAreaStatusRequirements
+com.mjohnsullivan.flutterwear.wear.WearPlugin
+androidx.appcompat.widget.ButtonBarLayout
+androidx.lifecycle.ProcessLifecycleInitializer
+androidx.recyclerview.widget.StaggeredGridLayoutManager
+androidx.preference.EditTextPreference
+androidx.viewpager.widget.ViewPager
+androidx.percentlayout.widget.PercentRelativeLayout
+androidx.preference.MultiSelectListPreference
+androidx.preference.DropDownPreference
+androidx.appcompat.widget.ContentFrameLayout
+androidx.preference.SeekBarPreference
+androidx.appcompat.widget.DialogTitle
+androidx.wear.widget.CircledImageView
+android.support.wearable.watchface.decomposition.BaseComponent$BaseBuilder
+android.support.wearable.watchface.decomposition.ComplicationComponent$Builder$1
+androidx.window.extensions.core.util.function.Predicate
+android.support.wearable.watchface.decomposition.WatchFaceDecomposition$Component
+android.support.wearable.complications.rendering.ComplicationDrawable
+androidx.preference.SwitchPreferenceCompat
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack
+android.support.wearable.watchface.decomposition.NumberComponent
+androidx.appcompat.widget.AlertDialogLayout
+android.support.wearable.watchface.decomposition.BaseDrawnComponent
+androidx.core.app.CoreComponentFactory
+androidx.window.layout.adapter.sidecar.SidecarCompat$TranslatingCallback
+androidx.appcompat.widget.SwitchCompat
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$AnimationCallback
+android.support.wearable.watchface.decomposition.WatchFaceDecomposition
+androidx.appcompat.view.menu.ExpandedMenuView
+android.support.wearable.watchface.decomposition.ImageComponent$Builder$1
+androidx.preference.TwoStatePreference
+io.flutter.plugin.platform.SingleViewPresentation
+androidx.preference.DialogPreference
+androidx.profileinstaller.ProfileInstallerInitializer
+androidx.core.widget.NestedScrollView
+androidx.wear.widget.drawer.PageIndicatorView
+kotlinx.coroutines.internal.StackTraceRecoveryKt
+io.flutter.embedding.engine.FlutterOverlaySurface
+androidx.appcompat.widget.ActionBarContainer
+androidx.preference.PreferenceScreen
+android.support.wearable.watchface.decompositionface.DecompositionConfigView
+io.flutter.view.TextureRegistry$ImageConsumer
+io.flutter.view.AccessibilityViewEmbedder
+android.support.wearable.watchface.decomposition.NumberComponent$Builder
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer
+android.support.wearable.complications.TimeDependentText
+androidx.preference.PreferenceCategory
+android.support.wearable.watchface.decomposition.ComplicationComponent
+androidx.appcompat.widget.ActionBarOverlayLayout
+android.support.wearable.view.CircledImageView
+androidx.versionedparcelable.ParcelImpl
+androidx.window.layout.adapter.sidecar.DistinctElementSidecarCallback
+android.support.wearable.complications.ComplicationText
+androidx.window.layout.adapter.sidecar.SidecarCompat
+io.flutter.view.TextureRegistry$SurfaceTextureEntry
+android.support.wearable.watchface.decomposition.ImageComponent
+androidx.preference.UnPressableLinearLayout
+io.flutter.view.TextureRegistry$GLTextureConsumer
+android.support.wearable.watchface.decomposition.ComplicationComponent$1
+androidx.appcompat.widget.FitWindowsFrameLayout
+androidx.core.graphics.drawable.IconCompat
+androidx.appcompat.widget.SearchView
+kotlinx.coroutines.android.AndroidDispatcherFactory
+androidx.appcompat.view.menu.ActionMenuItemView
+android.support.wearable.watchface.decomposition.FontComponent$Builder$1
+android.support.wearable.complications.ComplicationData
+io.flutter.view.TextureRegistry$ImageTextureEntry
+android.support.wearable.view.WearableRecyclerView$ChildLayoutManager
+android.support.wearable.watchface.decomposition.ImageComponent$Builder
+androidx.appcompat.widget.ActivityChooserView$InnerLayout
+androidx.recyclerview.widget.GridLayoutManager
+android.support.wearable.watchface.decomposition.BaseComponent$ComponentFactory
+io.flutter.embedding.engine.plugins.lifecycle.HiddenLifecycleReference
+com.mjohnsullivan.flutterwear.wear.WearPlugin$Companion
+android.support.v4.app.RemoteActionCompatParcelizer
+android.support.wearable.view.CurvedChildLayoutManager
+androidx.wear.widget.WearableLinearLayoutManager
+android.support.wearable.watchface.decomposition.BaseDrawnComponent$BaseDrawnBuilder
+android.support.wearable.view.ActionPage
+android.support.wearable.view.drawer.PageIndicatorView
+android.support.wearable.watchface.decomposition.FontComponent$Builder
+io.flutter.view.AccessibilityViewEmbedder: io.flutter.view.AccessibilityViewEmbedder$ReflectionAccessors reflectionAccessors
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: android.graphics.Matrix finalMatrix
+com.mjohnsullivan.flutterwear.wear.WearPlugin$WearableAmbientCallback: com.mjohnsullivan.flutterwear.wear.WearPlugin this$0
+android.support.wearable.watchface.decomposition.ImageComponent: android.os.Parcelable$Creator CREATOR
+io.flutter.plugin.platform.SingleViewPresentation: java.lang.String TAG
+io.flutter.embedding.engine.plugins.lifecycle.HiddenLifecycleReference: androidx.lifecycle.Lifecycle lifecycle
+androidx.versionedparcelable.ParcelImpl: android.os.Parcelable$Creator CREATOR
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: java.lang.String TAG
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageTextureRegistryEntry: boolean released
+androidx.datastore.preferences.protobuf.GeneratedMessageLite: int UNINITIALIZED_SERIALIZED_SIZE
+kotlinx.coroutines.internal.ConcurrentLinkedListNode: java.lang.Object _next
+androidx.lifecycle.ProcessLifecycleOwner$attach$1: androidx.lifecycle.ProcessLifecycleOwner this$0
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: android.graphics.SurfaceTexture surfaceTexture
+io.flutter.embedding.engine.FlutterOverlaySurface: int id
+kotlinx.coroutines.internal.ResizableAtomicArray: java.util.concurrent.atomic.AtomicReferenceArray array
+android.support.wearable.complications.rendering.ComplicationDrawable: java.lang.String FIELD_RANGED_VALUE_PROGRESS_HIDDEN
+com.mjohnsullivan.flutterwear.wear.WearPlugin: java.lang.String BURN_IN_PROTECTION
+kotlinx.coroutines.JobSupport: java.lang.Object _state
+androidx.datastore.preferences.PreferencesProto$PreferenceMap: int PREFERENCES_FIELD_NUMBER
+kotlinx.coroutines.DefaultExecutor: java.lang.Thread _thread
+io.flutter.plugin.platform.SingleViewPresentation: int viewId
+android.support.wearable.complications.rendering.ComplicationDrawable: android.support.wearable.complications.rendering.ComplicationStyle$Builder mActiveStyleBuilder
+android.support.wearable.complications.rendering.ComplicationDrawable: int BORDER_STYLE_NONE
+android.support.wearable.watchface.decomposition.FontComponent: android.os.Parcelable$Creator CREATOR
+kotlinx.coroutines.CancellableContinuationImpl: java.lang.Object _parentHandle
+kotlinx.coroutines.internal.AtomicOp: java.lang.Object _consensus
+androidx.datastore.preferences.PreferencesProto$StringSet: androidx.datastore.preferences.protobuf.Internal$ProtobufList strings_
+androidx.concurrent.futures.AbstractResolvableFuture: androidx.concurrent.futures.AbstractResolvableFuture$Waiter waiters
+androidx.datastore.preferences.PreferencesProto$Value: int bitField0_
+androidx.datastore.preferences.PreferencesProto$Value: int STRING_FIELD_NUMBER
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: io.flutter.embedding.engine.renderer.FlutterRenderer this$0
+kotlinx.coroutines.channels.BufferedChannel: long completedExpandBuffersAndPauseFlag
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: java.lang.Runnable onFrameConsumed
+io.flutter.view.AccessibilityViewEmbedder: java.lang.String TAG
+androidx.datastore.preferences.protobuf.AbstractMessageLite: int memoizedHashCode
+android.support.wearable.complications.rendering.ComplicationDrawable: boolean mRangedValueProgressHidden
+android.support.wearable.complications.rendering.ComplicationDrawable: android.content.Context mContext
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_RESUME
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: java.lang.Object lock
+kotlinx.coroutines.InvokeOnCancelling: int _invoked
+kotlinx.coroutines.CancellableContinuationImpl: int _decisionAndIndex
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: int MAX_IMAGES
+android.support.wearable.complications.ComplicationText: android.os.Parcelable$Creator CREATOR
+androidx.lifecycle.ProcessLifecycleOwner$attach$1$onActivityPreCreated$1: androidx.lifecycle.ProcessLifecycleOwner this$0
+androidx.datastore.preferences.PreferencesProto$StringSet: androidx.datastore.preferences.PreferencesProto$StringSet DEFAULT_INSTANCE
+androidx.datastore.preferences.PreferencesProto$Value: int valueCase_
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: int deferredInsetTypes
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: boolean trimOnMemoryPressure
+androidx.datastore.preferences.protobuf.GeneratedMessageLite: int UNINITIALIZED_HASH_CODE
+androidx.datastore.preferences.PreferencesProto$StringSet: int STRINGS_FIELD_NUMBER
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: java.util.List mutators
+kotlinx.coroutines.JobSupport$Finishing: java.lang.Object _exceptionsHolder
+io.flutter.embedding.engine.FlutterJNI: float displayWidth
+androidx.appcompat.widget.Toolbar$SavedState: android.os.Parcelable$Creator CREATOR
+androidx.datastore.preferences.PreferencesProto$Value: java.lang.Object value_
+io.flutter.view.FlutterCallbackInformation: java.lang.String callbackLibraryPath
+android.support.wearable.watchface.decomposition.WatchFaceDecomposition: android.os.Parcelable$Creator CREATOR
+kotlinx.coroutines.channels.BufferedChannel: long bufferEnd
+kotlinx.coroutines.scheduling.WorkQueue: int blockingTasksInBuffer
+io.flutter.plugin.platform.SingleViewPresentation: io.flutter.plugin.platform.SingleViewPresentation$PresentationState state
+io.flutter.plugin.platform.SingleViewPresentation: android.content.Context outerContext
+kotlinx.coroutines.internal.ConcurrentLinkedListNode: java.lang.Object _prev
+io.flutter.plugin.platform.SingleViewPresentation: io.flutter.plugin.platform.SingleViewPresentation$AccessibilityDelegatingFrameLayout rootView
+io.flutter.view.FlutterCallbackInformation: java.lang.String callbackClassName
+com.mjohnsullivan.flutterwear.wear.WearPlugin: com.mjohnsullivan.flutterwear.wear.WearPlugin$Companion Companion
+io.flutter.plugin.platform.SingleViewPresentation: android.widget.FrameLayout container
+android.support.wearable.complications.rendering.ComplicationDrawable: android.support.wearable.complications.rendering.ComplicationRenderer mComplicationRenderer
+kotlinx.coroutines.channels.BufferedChannel: java.lang.Object _closeCause
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_STOP
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageTextureRegistryEntry: android.media.Image image
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: androidx.lifecycle.ReportFragment$LifecycleCallbacks$Companion Companion
+io.flutter.embedding.engine.FlutterJNI: io.flutter.plugin.platform.PlatformViewsController platformViewsController
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: boolean attached
+android.support.wearable.complications.TimeFormatText: android.os.Parcelable$Creator CREATOR
+kotlinx.coroutines.EventLoopImplBase$DelayedTask: java.lang.Object _heap
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: long lastDequeueTime
+android.support.wearable.complications.rendering.ComplicationDrawable: int BORDER_STYLE_SOLID
+io.flutter.embedding.engine.FlutterJNI: java.lang.String vmServiceUri
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event[] $VALUES
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: boolean released
+kotlinx.coroutines.channels.BufferedChannel: java.lang.Object sendSegment
+io.flutter.plugins.GeneratedPluginRegistrant: java.lang.String TAG
+androidx.datastore.preferences.PreferencesProto$Value: int DOUBLE_FIELD_NUMBER
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: long lastQueueTime
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: boolean needsSave
+kotlinx.coroutines.EventLoopImplBase: java.lang.Object _delayed
+io.flutter.embedding.engine.FlutterJNI: boolean prefetchDefaultFontManagerCalled
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageTextureRegistryEntry: long id
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event$Companion Companion
+kotlinx.coroutines.DispatchedCoroutine: int _decision
+android.support.wearable.complications.rendering.ComplicationDrawable: boolean mLowBitAmbient
+androidx.datastore.preferences.PreferencesProto$Value: int FLOAT_FIELD_NUMBER
+kotlinx.coroutines.channels.BufferedChannel: long receivers
+com.mjohnsullivan.flutterwear.wear.WearPlugin: java.lang.String LOW_BIT_AMBIENT
+kotlinx.coroutines.internal.LimitedDispatcher: int runningWorkers
+androidx.recyclerview.widget.RecyclerView$SavedState: android.os.Parcelable$Creator CREATOR
+androidx.recyclerview.widget.StaggeredGridLayoutManager$LazySpanLookup$FullSpanItem: android.os.Parcelable$Creator CREATOR
+androidx.datastore.preferences.PreferencesProto$Value: int LONG_FIELD_NUMBER
+io.flutter.embedding.engine.FlutterJNI: boolean loadLibraryCalled
+kotlinx.coroutines.internal.ThreadSafeHeap: int _size
+android.support.wearable.complications.ComplicationData: android.os.Parcelable$Creator CREATOR
+android.support.wearable.complications.rendering.ComplicationDrawable: java.lang.String FIELD_NO_DATA_TEXT
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: boolean VERBOSE_LOGS
+com.mjohnsullivan.flutterwear.wear.WearPlugin: com.mjohnsullivan.flutterwear.wear.WearPlugin$WearableAmbientCallback mAmbientCallback
+androidx.datastore.preferences.protobuf.GeneratedMessageLite: int memoizedSerializedSize
+kotlinx.coroutines.JobSupport: java.lang.Object _parentHandle
+io.flutter.embedding.engine.FlutterOverlaySurface: android.view.Surface surface
+android.support.wearable.complications.TimeDifferenceText: android.os.Parcelable$Creator CREATOR
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: java.util.ArrayDeque imageReaderQueue
+android.support.wearable.complications.rendering.ComplicationDrawable: boolean mAlreadyStyled
+kotlinx.coroutines.internal.LockFreeLinkedListNode: java.lang.Object _next
+kotlinx.coroutines.scheduling.WorkQueue: int consumerIndex
+android.support.wearable.complications.rendering.ComplicationDrawable: android.os.Parcelable$Creator CREATOR
+android.support.wearable.complications.rendering.ComplicationDrawable: java.lang.Runnable mUnhighlightRunnable
+io.flutter.embedding.engine.FlutterJNI: java.lang.Long nativeShellHolderId
+androidx.concurrent.futures.AbstractResolvableFuture: java.lang.Object value
+kotlinx.coroutines.JobSupport$Finishing: java.lang.Object _rootCause
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: int requestedHeight
+android.support.wearable.complications.rendering.ComplicationStyle$Builder: android.os.Parcelable$Creator CREATOR
+io.flutter.view.AccessibilityViewEmbedder: int nextFlutterId
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: boolean newFrameAvailable
+android.support.wearable.complications.rendering.ComplicationDrawable: java.lang.String FIELD_AMBIENT_STYLE_BUILDER
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: long lastScheduleTime
+io.flutter.embedding.engine.FlutterJNI: boolean initCalled
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.WindowInsets lastWindowInsets
+io.flutter.embedding.engine.FlutterJNI: android.os.Looper mainLooper
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: boolean ignoringFence
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: java.util.HashMap perImageReaders
+androidx.recyclerview.widget.StaggeredGridLayoutManager$SavedState: android.os.Parcelable$Creator CREATOR
+kotlinx.coroutines.EventLoopImplBase: int _isCompleted
+android.support.wearable.watchface.decomposition.ComplicationComponent: android.os.Parcelable$Creator CREATOR
+android.support.wearable.complications.rendering.ComplicationDrawable: long mCurrentTimeMillis
+kotlinx.coroutines.flow.StateFlowSlot: java.lang.Object _state
+kotlinx.coroutines.scheduling.WorkQueue: java.lang.Object lastScheduledTask
+io.flutter.embedding.engine.FlutterJNI: java.util.Set flutterUiDisplayListeners
+android.support.wearable.complications.rendering.ComplicationDrawable: boolean mIsInflatedFromXml
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$InsetsListener insetsListener
+kotlinx.coroutines.internal.DispatchedContinuation: java.lang.Object _reusableCancellableContinuation
+kotlinx.coroutines.channels.BufferedChannel: java.lang.Object receiveSegment
+androidx.datastore.preferences.protobuf.GeneratedMessageLite: int MUTABLE_FLAG_MASK
+kotlinx.coroutines.scheduling.CoroutineScheduler$Worker: java.lang.Object nextParkedWorker
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_PAUSE
+androidx.datastore.preferences.PreferencesProto$Value: androidx.datastore.preferences.protobuf.Parser PARSER
+android.support.wearable.complications.rendering.ComplicationDrawable: java.lang.CharSequence mNoDataText
+kotlinx.coroutines.sync.SemaphoreImpl: long enqIdx
+io.flutter.embedding.engine.FlutterJNI: io.flutter.embedding.engine.FlutterJNI$AccessibilityDelegate accessibilityDelegate
+kotlinx.coroutines.internal.LockFreeTaskQueueCore: java.lang.Object _next
+io.flutter.embedding.engine.FlutterJNI: java.util.Set engineLifecycleListeners
+androidx.datastore.preferences.protobuf.GeneratedMessageLite: androidx.datastore.preferences.protobuf.UnknownFieldSetLite unknownFields
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer$PerImageReader lastReaderDequeuedFrom
+io.flutter.plugin.platform.SingleViewPresentation: io.flutter.plugin.platform.AccessibilityEventsDelegate accessibilityEventsDelegate
+kotlinx.coroutines.scheduling.CoroutineScheduler$Worker: int workerCtl
+androidx.datastore.preferences.PreferencesProto$PreferenceMap: androidx.datastore.preferences.PreferencesProto$PreferenceMap DEFAULT_INSTANCE
+kotlinx.coroutines.internal.Segment: int cleanedAndPointers
+com.mjohnsullivan.flutterwear.wear.WearPlugin: java.lang.String TAG
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: java.util.List finalClippingPaths
+kotlinx.coroutines.android.AndroidExceptionPreHandler: java.lang.Object _preHandler
+io.flutter.embedding.engine.FlutterJNI: java.lang.String TAG
+androidx.datastore.preferences.PreferencesProto$Value: androidx.datastore.preferences.PreferencesProto$Value DEFAULT_INSTANCE
+android.support.wearable.complications.rendering.ComplicationDrawable: java.lang.String FIELD_ACTIVE_STYLE_BUILDER
+com.mjohnsullivan.flutterwear.wear.WearPlugin: com.google.android.wearable.compat.WearableActivityController mAmbientController
+androidx.datastore.preferences.PreferencesProto$Value: int STRING_SET_FIELD_NUMBER
+androidx.datastore.preferences.PreferencesProto$Value: int INTEGER_FIELD_NUMBER
+kotlinx.coroutines.sync.MutexImpl: java.lang.Object owner
+io.flutter.embedding.engine.FlutterJNI: io.flutter.embedding.engine.deferredcomponents.DeferredComponentManager deferredComponentManager
+io.flutter.view.AccessibilityViewEmbedder: java.util.Map embeddedViewToDisplayBounds
+android.support.wearable.complications.rendering.ComplicationDrawable: android.support.wearable.complications.rendering.ComplicationRenderer$OnInvalidateListener mRendererInvalidateListener
+kotlinx.coroutines.scheduling.WorkQueue: int producerIndex
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: boolean CLEANUP_ON_MEMORY_PRESSURE
+io.flutter.embedding.engine.FlutterJNI: io.flutter.embedding.engine.FlutterJNI$AsyncWaitForVsyncDelegate asyncWaitForVsyncDelegate
+io.flutter.view.AccessibilityViewEmbedder: android.util.SparseArray flutterIdToOrigin
+androidx.datastore.preferences.PreferencesProto$StringSet: androidx.datastore.preferences.protobuf.Parser PARSER
+io.flutter.embedding.engine.FlutterJNI: float refreshRateFPS
+kotlinx.coroutines.scheduling.CoroutineScheduler$Worker: int indexInArray
+android.support.wearable.complications.rendering.ComplicationDrawable: android.os.Handler mMainThreadHandler
+com.mjohnsullivan.flutterwear.wear.WearPlugin: io.flutter.plugin.common.MethodChannel mMethodChannel
+io.flutter.view.AccessibilityViewEmbedder: java.util.Map originToFlutterId
+kotlinx.coroutines.internal.LockFreeLinkedListNode: java.lang.Object _prev
+androidx.core.widget.NestedScrollView$SavedState: android.os.Parcelable$Creator CREATOR
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: boolean released
+androidx.viewpager.widget.ViewPager$SavedState: android.os.Parcelable$Creator CREATOR
+kotlinx.coroutines.scheduling.CoroutineScheduler: long parkedWorkersStack
+io.flutter.embedding.engine.FlutterJNI: io.flutter.plugin.localization.LocalizationPlugin localizationPlugin
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: long id
+androidx.appcompat.widget.SearchView$SavedState: android.os.Parcelable$Creator CREATOR
+kotlinx.coroutines.android.HandlerDispatcherKt: android.view.Choreographer choreographer
+kotlinx.coroutines.CancelledContinuation: int _resumed
+kotlinx.coroutines.scheduling.CoroutineScheduler: int _isTerminated
+kotlinx.coroutines.EventLoopImplBase: java.lang.Object _queue
+kotlinx.coroutines.internal.LockFreeTaskQueueCore: long _state
+android.support.wearable.complications.rendering.ComplicationDrawable: java.lang.String FIELD_HIGHLIGHT_DURATION
+kotlinx.coroutines.android.HandlerContext: kotlinx.coroutines.android.HandlerContext _immediate
+androidx.datastore.preferences.PreferencesProto$Value: int BYTES_FIELD_NUMBER
+androidx.concurrent.futures.AbstractResolvableFuture$Waiter: java.lang.Thread thread
+android.support.wearable.complications.rendering.ComplicationDrawable: boolean mBurnInProtection
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer$PerImage lastDequeuedImage
+kotlinx.coroutines.sync.SemaphoreImpl: int _availablePermits
+kotlinx.coroutines.channels.BufferedChannel: java.lang.Object closeHandler
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_ANY
+androidx.datastore.preferences.protobuf.GeneratedMessageLite: java.util.Map defaultInstanceMap
+kotlinx.coroutines.UndispatchedCoroutine: boolean threadLocalIsSet
+androidx.datastore.preferences.protobuf.GeneratedMessageLite: int MEMOIZED_SERIALIZED_SIZE_MASK
+androidx.datastore.preferences.PreferencesProto$PreferenceMap: androidx.datastore.preferences.protobuf.Parser PARSER
+io.flutter.view.AccessibilityViewEmbedder: android.view.View rootAccessibilityView
+android.support.wearable.complications.rendering.ComplicationDrawable: long mHighlightDuration
+kotlinx.coroutines.flow.StateFlowImpl: java.lang.Object _state
+kotlinx.coroutines.internal.LockFreeTaskQueue: java.lang.Object _cur
+android.support.wearable.watchface.decomposition.NumberComponent: android.os.Parcelable$Creator CREATOR
+kotlinx.coroutines.sync.SemaphoreImpl: long deqIdx
+android.support.wearable.complications.rendering.ComplicationDrawable: android.support.wearable.complications.rendering.ComplicationStyle$Builder mAmbientStyleBuilder
+kotlinx.coroutines.sync.SemaphoreImpl: java.lang.Object head
+androidx.concurrent.futures.AbstractResolvableFuture: androidx.concurrent.futures.AbstractResolvableFuture$Listener listeners
+kotlinx.coroutines.DefaultExecutor: int debugStatus
+kotlinx.coroutines.JobSupport$Finishing: int _isCompleting
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: boolean createNewReader
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageTextureRegistryEntry: boolean ignoringFence
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageTextureRegistryEntry: io.flutter.embedding.engine.renderer.FlutterRenderer this$0
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.View view
+androidx.customview.view.AbsSavedState: android.os.Parcelable$Creator CREATOR
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_CREATE
+androidx.recyclerview.widget.LinearLayoutManager$SavedState: android.os.Parcelable$Creator CREATOR
+androidx.concurrent.futures.AbstractResolvableFuture$Waiter: androidx.concurrent.futures.AbstractResolvableFuture$Waiter next
+kotlinx.coroutines.channels.BufferedChannel: java.lang.Object bufferEndSegment
+kotlinx.coroutines.CancellableContinuationImpl: java.lang.Object _state
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageTextureRegistryEntry: java.lang.String TAG
+kotlinx.coroutines.sync.SemaphoreImpl: java.lang.Object tail
+io.flutter.plugin.platform.SingleViewPresentation: boolean startFocused
+androidx.datastore.preferences.PreferencesProto$Value: int BOOLEAN_FIELD_NUMBER
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_DESTROY
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_START
+kotlinx.coroutines.scheduling.CoroutineScheduler: long controlState
+android.support.wearable.complications.rendering.ComplicationDrawable: boolean mIsStyleUpToDate
+android.support.wearable.complications.rendering.ComplicationDrawable: boolean mInAmbientMode
+android.support.wearable.complications.rendering.ComplicationDrawable: java.lang.String TAG
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$AnimationCallback animationCallback
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: io.flutter.view.TextureRegistry$SurfaceProducer$Callback callback
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$AnimationCallback: io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback this$0
+io.flutter.embedding.engine.FlutterJNI: java.util.concurrent.locks.ReentrantReadWriteLock shellHolderLock
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: int requestedWidth
+androidx.datastore.preferences.PreferencesProto$PreferenceMap: androidx.datastore.preferences.protobuf.MapFieldLite preferences_
+io.flutter.embedding.engine.FlutterJNI: io.flutter.embedding.engine.dart.PlatformMessageHandler platformMessageHandler
+io.flutter.embedding.engine.FlutterJNI: float displayHeight
+android.support.wearable.complications.rendering.ComplicationDrawable: int BORDER_STYLE_DASHED
+android.support.wearable.complications.rendering.ComplicationDrawable: java.lang.String FIELD_BOUNDS
+io.flutter.embedding.engine.FlutterJNI: float displayDensity
+io.flutter.view.FlutterCallbackInformation: java.lang.String callbackName
+kotlinx.coroutines.CompletedExceptionally: int _handled
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: boolean animating
+kotlinx.coroutines.internal.LockFreeLinkedListNode: java.lang.Object _removedRef
+android.support.wearable.complications.rendering.ComplicationDrawable: boolean mIsHighlighted
+io.flutter.plugin.platform.SingleViewPresentation: android.view.View$OnFocusChangeListener focusChangeListener
+com.mjohnsullivan.flutterwear.wear.WearPlugin: io.flutter.embedding.engine.plugins.activity.ActivityPluginBinding mActivityBinding
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: int numTrims
+kotlinx.coroutines.channels.BufferedChannel: long sendersAndCloseStatus
+android.support.wearable.complications.rendering.ComplicationDrawable: void draw(android.graphics.Canvas)
+io.flutter.embedding.engine.FlutterJNI: void setSemanticsEnabled(boolean)
+androidx.wear.widget.drawer.PageIndicatorView: float getDotSpacing()
+androidx.core.view.ViewCompat$Api26Impl: boolean isImportantForAutofill(android.view.View)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageTextureRegistryEntry: void finalize()
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: android.media.Image acquireLatestImage()
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VFullPath: float getFillAlpha()
+androidx.appcompat.widget.AppCompatTextView: android.graphics.PorterDuff$Mode getSupportCompoundDrawablesTintMode()
+android.support.wearable.view.drawer.PageIndicatorView: void setDotFadeOutDelay(int)
+androidx.viewpager.widget.ViewPager: int getCurrentItem()
+android.support.wearable.complications.rendering.ComplicationDrawable: void setRangedValueSecondaryColorActive(int)
+android.support.wearable.view.CircledImageView: float getCircleRadius()
+androidx.appcompat.widget.SwitchCompat: void setCustomSelectionActionModeCallback(android.view.ActionMode$Callback)
+android.support.wearable.watchface.decomposition.NumberComponent$Builder: NumberComponent$Builder()
+androidx.core.view.MenuItemCompat$Api26Impl: java.lang.CharSequence getTooltipText(android.view.MenuItem)
+androidx.lifecycle.ProcessLifecycleOwner$attach$1$onActivityPreCreated$1: ProcessLifecycleOwner$attach$1$onActivityPreCreated$1(androidx.lifecycle.ProcessLifecycleOwner)
+androidx.core.view.ViewCompat$Api26Impl: int getImportantForAutofill(android.view.View)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: android.media.ImageReader createImageReader()
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: int getHeight()
+android.support.wearable.complications.rendering.ComplicationDrawable: boolean isHighlighted()
+androidx.datastore.preferences.protobuf.FieldType$Collection: androidx.datastore.preferences.protobuf.FieldType$Collection[] values()
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event valueOf(java.lang.String)
+androidx.appcompat.widget.AppCompatTextView: int[] getAutoSizeTextAvailableSizes()
+androidx.appcompat.widget.SwitchCompat: void setThumbPosition(float)
+androidx.appcompat.widget.SwitchCompat: SwitchCompat(android.content.Context,android.util.AttributeSet)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageTextureRegistryEntry: android.media.Image acquireLatestImage()
+android.support.wearable.view.ActionPage: void setImageDrawable(android.graphics.drawable.Drawable)
+androidx.appcompat.widget.AppCompatImageView: android.content.res.ColorStateList getSupportImageTintList()
+android.support.wearable.complications.rendering.ComplicationDrawable: void writeToParcel(android.os.Parcel,int)
+androidx.appcompat.widget.SearchView: int getPreferredHeight()
+io.flutter.embedding.engine.FlutterJNI: void setRefreshRateFPS(float)
+kotlin.time.DurationUnit: kotlin.time.DurationUnit[] values()
+androidx.appcompat.widget.AppCompatAutoCompleteTextView: void setSupportBackgroundTintList(android.content.res.ColorStateList)
+androidx.recyclerview.widget.RecyclerView: void setViewCacheExtension(androidx.recyclerview.widget.RecyclerView$ViewCacheExtension)
+androidx.versionedparcelable.CustomVersionedParcelable: CustomVersionedParcelable()
+androidx.viewpager.widget.ViewPager: ViewPager(android.content.Context,android.util.AttributeSet)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: int numImages()
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: void releaseInternal()
+androidx.appcompat.widget.ViewStubCompat: void setVisibility(int)
+androidx.appcompat.view.menu.ListMenuItemView: void setIcon(android.graphics.drawable.Drawable)
+io.flutter.embedding.engine.systemchannels.LifecycleChannel$AppLifecycleState: io.flutter.embedding.engine.systemchannels.LifecycleChannel$AppLifecycleState[] values()
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer$PerImage dequeueImage()
+androidx.appcompat.widget.Toolbar: void setTitle(java.lang.CharSequence)
+androidx.core.view.WindowInsetsCompat$Impl28: WindowInsetsCompat$Impl28(androidx.core.view.WindowInsetsCompat,androidx.core.view.WindowInsetsCompat$Impl28)
+io.flutter.embedding.engine.renderer.FlutterRenderer$DisplayFeatureState: io.flutter.embedding.engine.renderer.FlutterRenderer$DisplayFeatureState valueOf(java.lang.String)
+androidx.core.view.ViewCompat$Api30Impl: int getImportantForContentCapture(android.view.View)
+androidx.wear.widget.drawer.PageIndicatorView: void setDotColor(int)
+androidx.appcompat.widget.Toolbar: void setCollapsible(boolean)
+io.flutter.view.AccessibilityBridge$Flag: io.flutter.view.AccessibilityBridge$Flag valueOf(java.lang.String)
+androidx.preference.PreferenceScreen: PreferenceScreen(android.content.Context,android.util.AttributeSet)
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api33Impl: boolean isTextSelectable(android.view.accessibility.AccessibilityNodeInfo)
+android.support.wearable.view.ActionLabel: void setTextColor(int)
+androidx.appcompat.widget.ActionBarOverlayLayout: ActionBarOverlayLayout(android.content.Context,android.util.AttributeSet)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VPathRenderer: void setRootAlpha(int)
+kotlinx.coroutines.android.AndroidDispatcherFactory: int getLoadPriority()
+io.flutter.embedding.engine.FlutterJNI: void nativeDispatchEmptyPlatformMessage(long,java.lang.String,int)
+android.support.wearable.view.ActionPage: ActionPage(android.content.Context,android.util.AttributeSet)
+androidx.appcompat.widget.ContentFrameLayout: android.util.TypedValue getFixedWidthMajor()
+io.flutter.embedding.engine.FlutterJNI: void onPreEngineRestart()
+io.flutter.view.AccessibilityViewEmbedder: void setFlutterNodeParent(android.view.accessibility.AccessibilityNodeInfo,android.view.View,android.view.accessibility.AccessibilityNodeInfo)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void registerIn(android.app.Activity)
+kotlinx.coroutines.android.AndroidExceptionPreHandler: void handleException(kotlin.coroutines.CoroutineContext,java.lang.Throwable)
+io.flutter.embedding.android.FlutterView: io.flutter.plugin.common.BinaryMessenger getBinaryMessenger()
+androidx.core.view.WindowInsetsCompat$Impl21: androidx.core.graphics.Insets getStableInsets()
+io.flutter.embedding.engine.FlutterJNI: void onFirstFrame()
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VGroup: float getScaleY()
+android.support.wearable.view.CircledImageView: void setColorChangeAnimationDuration(long)
+io.flutter.embedding.engine.FlutterJNI: void nativeInit(android.content.Context,java.lang.String[],java.lang.String,java.lang.String,java.lang.String,long)
+androidx.appcompat.widget.Toolbar: void setLogoDescription(java.lang.CharSequence)
+io.flutter.view.AccessibilityBridge$StringAttributeType: io.flutter.view.AccessibilityBridge$StringAttributeType valueOf(java.lang.String)
+androidx.appcompat.widget.LinearLayoutCompat: int getBaselineAlignedChildIndex()
+androidx.core.view.ViewParentCompat$Api21Impl: boolean onNestedPreFling(android.view.ViewParent,android.view.View,float,float)
+io.flutter.embedding.engine.systemchannels.PlatformChannel$SoundType: io.flutter.embedding.engine.systemchannels.PlatformChannel$SoundType valueOf(java.lang.String)
+androidx.appcompat.widget.LinearLayoutCompat: int getGravity()
+androidx.appcompat.widget.SearchView: void setSearchableInfo(android.app.SearchableInfo)
+androidx.appcompat.widget.ActionBarOverlayLayout: void setActionBarHideOffset(int)
+androidx.wear.widget.CircledImageView: void setImageHorizontalOffcenterPercentage(float)
+androidx.core.graphics.drawable.DrawableCompat$Api21Impl: void setTint(android.graphics.drawable.Drawable,int)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: android.view.Surface getSurface()
+android.support.wearable.view.ActionLabel: void setMinTextSize(float)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VFullPath: float getTrimPathStart()
+androidx.appcompat.widget.Toolbar: void setNavigationOnClickListener(android.view.View$OnClickListener)
+com.mjohnsullivan.flutterwear.wear.WearPlugin$Companion: WearPlugin$Companion()
+androidx.appcompat.widget.FitWindowsLinearLayout: FitWindowsLinearLayout(android.content.Context,android.util.AttributeSet)
+androidx.core.widget.NestedScrollView$Api21Impl: boolean getClipToPadding(android.view.ViewGroup)
+androidx.core.graphics.drawable.DrawableCompat$Api21Impl: void setHotspotBounds(android.graphics.drawable.Drawable,int,int,int,int)
+android.support.wearable.complications.rendering.ComplicationDrawable: void setBorderDashGapActive(int)
+androidx.appcompat.widget.SwitchCompat: void setTrackDrawable(android.graphics.drawable.Drawable)
+androidx.datastore.preferences.protobuf.GeneratedMessageLite$MethodToInvoke: androidx.datastore.preferences.protobuf.GeneratedMessageLite$MethodToInvoke[] values()
+android.support.wearable.complications.rendering.ComplicationDrawable: void setTitleColorActive(int)
+kotlin.coroutines.intrinsics.CoroutineSingletons: kotlin.coroutines.intrinsics.CoroutineSingletons[] values()
+android.support.wearable.complications.rendering.ComplicationDrawable: void setHighlightDuration(long)
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.graphics.Insets getSystemGestureInsets()
+androidx.core.view.ViewConfigurationCompat$Api28Impl: int getScaledHoverSlop(android.view.ViewConfiguration)
+androidx.profileinstaller.ProfileVerifier$Api33Impl: android.content.pm.PackageInfo getPackageInfo(android.content.pm.PackageManager,android.content.Context)
+androidx.appcompat.view.menu.ActionMenuItemView: androidx.appcompat.view.menu.MenuItemImpl getItemData()
+androidx.appcompat.widget.ViewStubCompat: void setOnInflateListener(androidx.appcompat.widget.ViewStubCompat$OnInflateListener)
+io.flutter.plugin.editing.TextInputPlugin$InputTarget$Type: io.flutter.plugin.editing.TextInputPlugin$InputTarget$Type[] values()
+io.flutter.embedding.engine.FlutterJNI: void nativeSetViewportMetrics(long,float,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int[],int[],int[])
+androidx.appcompat.widget.SearchView: int getImeOptions()
+androidx.lifecycle.EmptyActivityLifecycleCallbacks: void onActivityStarted(android.app.Activity)
+androidx.core.view.ViewCompat$Api29Impl: void setSystemGestureExclusionRects(android.view.View,java.util.List)
+kotlinx.coroutines.CoroutineStart: kotlinx.coroutines.CoroutineStart[] values()
+io.flutter.embedding.engine.FlutterJNI: void handlePlatformMessage(java.lang.String,java.nio.ByteBuffer,int,long)
+io.flutter.embedding.engine.FlutterJNI: void requestDartDeferredLibrary(int)
+androidx.appcompat.widget.Toolbar: void setLogo(int)
+io.flutter.embedding.engine.FlutterJNI: void nativeOnVsync(long,long,long)
+androidx.recyclerview.widget.RecyclerView: androidx.recyclerview.widget.RecyclerView$EdgeEffectFactory getEdgeEffectFactory()
+androidx.window.layout.adapter.sidecar.SidecarCompat$TranslatingCallback: void onWindowLayoutChanged(android.os.IBinder,androidx.window.sidecar.SidecarWindowLayoutInfo)
+io.flutter.view.TextureRegistry$GLTextureConsumer: android.graphics.SurfaceTexture getSurfaceTexture()
+android.support.wearable.complications.rendering.ComplicationDrawable: void setContext(android.content.Context)
+androidx.datastore.preferences.protobuf.ProtoSyntax: androidx.datastore.preferences.protobuf.ProtoSyntax valueOf(java.lang.String)
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: void release()
+android.support.wearable.view.CircledImageView: void setImageDrawable(android.graphics.drawable.Drawable)
+android.support.wearable.complications.rendering.ComplicationDrawable: void setTextTypefaceActive(android.graphics.Typeface)
+androidx.core.view.WindowInsetsCompat$Impl: int hashCode()
+androidx.core.view.ViewConfigurationCompat$Api34Impl: int getScaledMaximumFlingVelocity(android.view.ViewConfiguration,int,int,int)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VGroup: void setScaleY(float)
+android.support.wearable.view.drawer.PageIndicatorView: void setDotSpacing(int)
+androidx.wear.widget.drawer.PageIndicatorView: int getDotFadeInDuration()
+android.support.wearable.watchface.decompositionface.DecompositionConfigView: void setDecomposition(android.support.wearable.watchface.decomposition.WatchFaceDecomposition)
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.graphics.Insets getInsets(int)
+android.support.wearable.complications.rendering.ComplicationDrawable: void setHighlightColorActive(int)
+androidx.core.view.ViewParentCompat$Api21Impl: void onNestedScrollAccepted(android.view.ViewParent,android.view.View,android.view.View,int)
+androidx.profileinstaller.ProfileInstallReceiver: ProfileInstallReceiver()
+androidx.appcompat.widget.AppCompatTextView: void setSupportCompoundDrawablesTintList(android.content.res.ColorStateList)
+androidx.appcompat.widget.SearchView: int getSuggestionCommitIconResId()
+io.flutter.embedding.android.FlutterTextureView: void setRenderSurface(android.view.Surface)
+androidx.core.view.ViewCompat$Api28Impl: void setAccessibilityPaneTitle(android.view.View,java.lang.CharSequence)
+io.flutter.embedding.engine.FlutterJNI: void nativeRunBundleAndSnapshotFromLibrary(long,java.lang.String,java.lang.String,java.lang.String,android.content.res.AssetManager,java.util.List)
+androidx.core.view.ViewCompat$Api21Impl$1: android.view.WindowInsets onApplyWindowInsets(android.view.View,android.view.WindowInsets)
+androidx.core.view.ViewParentCompat$Api21Impl: void onNestedPreScroll(android.view.ViewParent,android.view.View,int,int,int[])
+androidx.core.view.ViewCompat$Api26Impl: void setImportantForAutofill(android.view.View,int)
+android.support.wearable.view.CircledImageView: void setImageResource(int)
+androidx.core.content.res.ResourcesCompat$Api23Impl: int getColor(android.content.res.Resources,int,android.content.res.Resources$Theme)
+androidx.appcompat.widget.AppCompatImageButton: void setImageBitmap(android.graphics.Bitmap)
+androidx.core.view.WindowInsetsCompat$BuilderImpl30: WindowInsetsCompat$BuilderImpl30(androidx.core.view.WindowInsetsCompat)
+android.support.wearable.complications.rendering.ComplicationDrawable: void updateStyleIfRequired()
+androidx.core.view.WindowInsetsCompat$Impl28: boolean equals(java.lang.Object)
+androidx.appcompat.widget.AppCompatImageButton: android.content.res.ColorStateList getSupportImageTintList()
+kotlinx.coroutines.selects.TrySelectDetailedResult: kotlinx.coroutines.selects.TrySelectDetailedResult valueOf(java.lang.String)
+androidx.wear.widget.drawer.PageIndicatorView: int getDotColor()
+io.flutter.embedding.engine.FlutterJNI: java.lang.String[] computePlatformResolvedLocale(java.lang.String[])
+io.flutter.embedding.android.TransparencyMode: io.flutter.embedding.android.TransparencyMode[] values()
+androidx.appcompat.widget.Toolbar: void setTitle(int)
+android.support.wearable.complications.rendering.ComplicationDrawable: android.support.wearable.complications.rendering.ComplicationStyle getAmbientStyle()
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: void waitOnFence(android.media.Image)
+io.flutter.embedding.engine.FlutterJNI: void dispatchSemanticsAction(int,io.flutter.view.AccessibilityBridge$Action,java.lang.Object)
+androidx.appcompat.widget.SwitchCompat: boolean getSplitTrack()
+androidx.appcompat.widget.Toolbar: int getPopupTheme()
+io.flutter.embedding.engine.systemchannels.TextInputChannel$TextInputType: io.flutter.embedding.engine.systemchannels.TextInputChannel$TextInputType valueOf(java.lang.String)
+androidx.wear.widget.CircledImageView: float getCircleRadiusPressedPercent()
+com.mjohnsullivan.flutterwear.wear.WearPlugin: void onPause()
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: java.util.List getFinalClippingPaths()
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: java.util.List getMutators()
+io.flutter.embedding.engine.FlutterJNI: long nativeAttach(io.flutter.embedding.engine.FlutterJNI)
+android.support.wearable.view.CircledImageView: float getCircleRadiusPressed()
+androidx.appcompat.widget.Toolbar: androidx.appcompat.widget.DecorToolbar getWrapper()
+androidx.core.view.WindowInsetsCompat$Impl28: WindowInsetsCompat$Impl28(androidx.core.view.WindowInsetsCompat,android.view.WindowInsets)
+io.flutter.embedding.engine.FlutterJNI: io.flutter.view.FlutterCallbackInformation nativeLookupCallbackInformation(long)
+android.support.wearable.complications.rendering.ComplicationDrawable: void setColorFilter(android.graphics.ColorFilter)
+androidx.appcompat.widget.LinearLayoutCompat: void setDividerPadding(int)
+androidx.appcompat.widget.SwitchCompat: int getSwitchPadding()
+androidx.appcompat.widget.AppCompatAutoCompleteTextView: android.graphics.PorterDuff$Mode getSupportBackgroundTintMode()
+io.flutter.embedding.engine.systemchannels.PlatformViewsChannel$PlatformViewCreationRequest$RequestedDisplayMode: io.flutter.embedding.engine.systemchannels.PlatformViewsChannel$PlatformViewCreationRequest$RequestedDisplayMode valueOf(java.lang.String)
+androidx.appcompat.widget.ActionBarContextView: int getAnimatedVisibility()
+androidx.appcompat.widget.AppCompatImageButton: void setSupportImageTintList(android.content.res.ColorStateList)
+io.flutter.embedding.engine.systemchannels.PlatformChannel$Brightness: io.flutter.embedding.engine.systemchannels.PlatformChannel$Brightness valueOf(java.lang.String)
+androidx.lifecycle.ProcessLifecycleOwner$attach$1$onActivityPreCreated$1: void onActivityPostStarted(android.app.Activity)
+androidx.preference.internal.PreferenceImageView: PreferenceImageView(android.content.Context,android.util.AttributeSet)
+androidx.preference.MultiSelectListPreference: MultiSelectListPreference(android.content.Context,android.util.AttributeSet)
+androidx.core.widget.TextViewCompat$Api23Impl: void setHyphenationFrequency(android.widget.TextView,int)
+androidx.appcompat.widget.ViewStubCompat: void setLayoutInflater(android.view.LayoutInflater)
+androidx.core.view.MenuItemCompat$Api26Impl: android.view.MenuItem setAlphabeticShortcut(android.view.MenuItem,char,int)
+androidx.window.extensions.core.util.function.Predicate: boolean test(java.lang.Object)
+androidx.appcompat.view.menu.ActionMenuItemView: void setCheckable(boolean)
+androidx.appcompat.widget.Toolbar: int getCurrentContentInsetRight()
+androidx.appcompat.widget.AppCompatImageView: void setSupportBackgroundTintMode(android.graphics.PorterDuff$Mode)
+android.support.wearable.view.ActionLabel: void setTypeface(android.graphics.Typeface)
+io.flutter.embedding.engine.FlutterJNI: void nativeSetSemanticsEnabled(long,boolean)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$AnimationCallback: void onPrepare(android.view.WindowInsetsAnimation)
+io.flutter.embedding.engine.systemchannels.TextInputChannel$TextCapitalization: io.flutter.embedding.engine.systemchannels.TextInputChannel$TextCapitalization[] values()
+androidx.appcompat.widget.LinearLayoutCompat: void setBaselineAligned(boolean)
+androidx.core.view.WindowInsetsCompat$BuilderImpl20: WindowInsetsCompat$BuilderImpl20(androidx.core.view.WindowInsetsCompat)
+androidx.core.view.WindowInsetsCompat$Impl21: WindowInsetsCompat$Impl21(androidx.core.view.WindowInsetsCompat,android.view.WindowInsets)
+androidx.core.graphics.drawable.DrawableCompat$Api23Impl: int getLayoutDirection(android.graphics.drawable.Drawable)
+androidx.appcompat.widget.ActionBarOverlayLayout: int getActionBarHideOffset()
+androidx.core.view.WindowInsetsCompat$Impl29: WindowInsetsCompat$Impl29(androidx.core.view.WindowInsetsCompat,androidx.core.view.WindowInsetsCompat$Impl29)
+androidx.core.view.WindowInsetsCompat$Impl: void setOverriddenInsets(androidx.core.graphics.Insets[])
+androidx.appcompat.view.menu.ActionMenuItemView: void setChecked(boolean)
+android.support.wearable.watchface.decompositionface.DecompositionConfigView: void setDisplayTime(long)
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api33Impl: void setTextSelectable(android.view.accessibility.AccessibilityNodeInfo,boolean)
+androidx.core.view.WindowInsetsCompat$Impl20: void loadReflectionField()
+androidx.appcompat.widget.Toolbar: void setTitleTextColor(android.content.res.ColorStateList)
+io.flutter.embedding.engine.FlutterJNI: void init(android.content.Context,java.lang.String[],java.lang.String,java.lang.String,java.lang.String,long)
+android.support.wearable.complications.rendering.ComplicationDrawable: void setTextColorActive(int)
+io.flutter.embedding.engine.FlutterJNI: void prefetchDefaultFontManager()
+androidx.recyclerview.widget.RecyclerView: void setItemAnimator(androidx.recyclerview.widget.RecyclerView$ItemAnimator)
+androidx.appcompat.widget.Toolbar: void setLogo(android.graphics.drawable.Drawable)
+io.flutter.embedding.engine.FlutterJNI: void onRenderingStopped()
+androidx.preference.DialogPreference: DialogPreference(android.content.Context,android.util.AttributeSet)
+io.flutter.embedding.engine.FlutterJNI: void loadDartDeferredLibrary(int,java.lang.String[])
+androidx.preference.SwitchPreferenceCompat: SwitchPreferenceCompat(android.content.Context,android.util.AttributeSet)
+androidx.appcompat.widget.AlertDialogLayout: AlertDialogLayout(android.content.Context,android.util.AttributeSet)
+io.flutter.embedding.android.FlutterView$ZeroSides: io.flutter.embedding.android.FlutterView$ZeroSides[] values()
+android.support.wearable.complications.rendering.ComplicationDrawable: void setLowBitAmbient(boolean)
+androidx.appcompat.widget.AppCompatImageButton: void setImageDrawable(android.graphics.drawable.Drawable)
+androidx.appcompat.widget.SearchView: void setQueryRefinementEnabled(boolean)
+androidx.appcompat.widget.AppCompatImageButton: void setImageResource(int)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityStopped(android.app.Activity)
+androidx.core.view.ViewCompat$Api21Impl: void setBackgroundTintMode(android.view.View,android.graphics.PorterDuff$Mode)
+android.support.wearable.complications.rendering.ComplicationDrawable: int getOpacity()
+android.support.wearable.complications.rendering.ComplicationDrawable: void setBackgroundColorAmbient(int)
+androidx.core.widget.NestedScrollView: int getNestedScrollAxes()
+android.support.wearable.watchface.decomposition.ComplicationComponent$Builder: ComplicationComponent$Builder()
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VGroup: float getRotation()
+androidx.recyclerview.widget.GridLayoutManager: GridLayoutManager(android.content.Context,android.util.AttributeSet,int,int)
+io.flutter.embedding.engine.systemchannels.PlatformChannel$DeviceOrientation: io.flutter.embedding.engine.systemchannels.PlatformChannel$DeviceOrientation valueOf(java.lang.String)
+androidx.core.view.ViewCompat$Api21Impl: void setNestedScrollingEnabled(android.view.View,boolean)
+androidx.appcompat.widget.ActionBarContainer: void setVisibility(int)
+androidx.preference.internal.PreferenceImageView: int getMaxWidth()
+androidx.wear.widget.CircledImageView: void setColorChangeAnimationDuration(long)
+android.support.wearable.complications.rendering.ComplicationDrawable: ComplicationDrawable()
+android.support.wearable.complications.rendering.ComplicationDrawable: void setBorderStyleActive(int)
+io.flutter.view.AccessibilityViewEmbedder: void setFlutterNodesTranslateBounds(android.view.accessibility.AccessibilityNodeInfo,android.graphics.Rect,android.view.accessibility.AccessibilityNodeInfo)
+io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiOverlay: io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiOverlay valueOf(java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: void onSurfaceChanged(int,int)
+androidx.core.view.ViewCompat$Api26Impl: boolean isKeyboardNavigationCluster(android.view.View)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPostStarted(android.app.Activity)
+androidx.core.view.ViewCompat$Api21Impl: boolean hasNestedScrollingParent(android.view.View)
+androidx.appcompat.widget.Toolbar: void setCollapseContentDescription(java.lang.CharSequence)
+androidx.window.area.reflectionguard.WindowAreaComponentApi3Requirements: void addRearDisplayPresentationStatusListener(androidx.window.extensions.core.util.function.Consumer)
+io.flutter.embedding.engine.renderer.FlutterRenderer$DisplayFeatureType: io.flutter.embedding.engine.renderer.FlutterRenderer$DisplayFeatureType valueOf(java.lang.String)
+androidx.appcompat.widget.SwitchCompat: void setSplitTrack(boolean)
+io.flutter.embedding.engine.FlutterJNI: android.graphics.Bitmap decodeImage(java.nio.ByteBuffer,long)
+androidx.appcompat.widget.AppCompatTextView: android.content.res.ColorStateList getSupportBackgroundTintList()
+androidx.wear.widget.drawer.PageIndicatorView: void setDotShadowRadius(float)
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api30Impl: java.lang.CharSequence getStateDescription(android.view.accessibility.AccessibilityNodeInfo)
+io.flutter.embedding.engine.FlutterJNI: void nativeMarkTextureFrameAvailable(long,long)
+androidx.recyclerview.widget.RecyclerView: RecyclerView(android.content.Context,android.util.AttributeSet)
+io.flutter.embedding.engine.FlutterJNI: void destroyOverlaySurfaces()
+android.support.wearable.view.drawer.PageIndicatorView: void setDotShadowColor(int)
+androidx.appcompat.widget.SwitchCompat: void setSwitchPadding(int)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VFullPath: void setTrimPathOffset(float)
+androidx.wear.widget.drawer.PageIndicatorView: void setDotShadowColor(int)
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.view.WindowInsetsCompat consumeStableInsets()
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: io.flutter.view.TextureRegistry$SurfaceProducer$Callback access$200(io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer)
+androidx.appcompat.widget.LinearLayoutCompat: void setBaselineAlignedChildIndex(int)
+androidx.appcompat.widget.AppCompatTextView: void setFirstBaselineToTopHeight(int)
+androidx.datastore.preferences.protobuf.WireFormat$JavaType: androidx.datastore.preferences.protobuf.WireFormat$JavaType[] values()
+io.flutter.embedding.engine.FlutterJNI: void nativeInvokePlatformMessageResponseCallback(long,int,java.nio.ByteBuffer,int)
+androidx.viewpager.widget.ViewPager: androidx.viewpager.widget.PagerAdapter getAdapter()
+androidx.appcompat.widget.SearchView: int getPreferredWidth()
+io.flutter.embedding.android.FlutterTextureView: io.flutter.embedding.engine.renderer.FlutterRenderer getAttachedRenderer()
+androidx.wear.widget.drawer.PageIndicatorView: int getDotColorSelected()
+android.support.wearable.view.drawer.PageIndicatorView: int getDotColorSelected()
+androidx.core.view.MenuItemCompat$Api26Impl: android.view.MenuItem setShortcut(android.view.MenuItem,char,char,int,int)
+androidx.window.layout.adapter.sidecar.SidecarCompat$TranslatingCallback: void onDeviceStateChanged(androidx.window.sidecar.SidecarDeviceState)
+androidx.appcompat.widget.Toolbar: java.lang.CharSequence getSubtitle()
+androidx.datastore.preferences.protobuf.WireFormat$FieldType: androidx.datastore.preferences.protobuf.WireFormat$FieldType[] values()
+androidx.core.view.WindowInsetsCompat$Impl20: androidx.core.graphics.Insets getSystemWindowInsets()
+androidx.core.view.MenuItemCompat$Api26Impl: android.view.MenuItem setIconTintList(android.view.MenuItem,android.content.res.ColorStateList)
+androidx.appcompat.widget.AppCompatAutoCompleteTextView: void setDropDownBackgroundResource(int)
+io.flutter.embedding.engine.FlutterJNI: void nativeRegisterImageTexture(long,long,java.lang.ref.WeakReference)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: android.media.ImageReader createImageReader29()
+androidx.appcompat.widget.AppCompatImageView: void setSupportImageTintList(android.content.res.ColorStateList)
+android.support.wearable.complications.rendering.ComplicationDrawable: void setAlpha(int)
+com.mjohnsullivan.flutterwear.wear.WearPlugin: void onMethodCall(io.flutter.plugin.common.MethodCall,io.flutter.plugin.common.MethodChannel$Result)
+androidx.appcompat.widget.SearchView: int getSuggestionRowLayout()
+androidx.appcompat.widget.Toolbar: void setTitleMarginEnd(int)
+android.support.wearable.view.ActionPage: void setImageScaleMode(int)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$AnimationCallback: android.view.WindowInsets onProgress(android.view.WindowInsets,java.util.List)
+androidx.appcompat.widget.AppCompatTextView: void setPrecomputedText(androidx.core.text.PrecomputedTextCompat)
+android.support.wearable.complications.rendering.ComplicationDrawable: void inflateStyle(boolean,android.content.res.Resources,org.xmlpull.v1.XmlPullParser)
+androidx.window.area.reflectionguard.WindowAreaComponentApi2Requirements: void startRearDisplaySession(android.app.Activity,androidx.window.extensions.core.util.function.Consumer)
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api33Impl: java.lang.String getCollectionItemColumnTitle(java.lang.Object)
+io.flutter.embedding.engine.FlutterJNI: void nativeDestroy(long)
+io.flutter.embedding.engine.systemchannels.PlatformChannel$SoundType: io.flutter.embedding.engine.systemchannels.PlatformChannel$SoundType[] values()
+androidx.core.view.WindowInsetsCompat$Impl30: WindowInsetsCompat$Impl30(androidx.core.view.WindowInsetsCompat,android.view.WindowInsets)
+android.support.wearable.complications.rendering.ComplicationDrawable: ComplicationDrawable(android.os.Parcel,android.support.wearable.complications.rendering.ComplicationDrawable$1)
+io.flutter.view.AccessibilityViewEmbedder: android.view.accessibility.AccessibilityNodeInfo convertToFlutterNode(android.view.accessibility.AccessibilityNodeInfo,int,android.view.View)
+androidx.core.view.WindowInsetsCompat$TypeImpl30: int toPlatformType(int)
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: void pushClipRect(int,int,int,int)
+android.support.wearable.view.ActionPage: android.support.wearable.view.CircularButton getButton()
+androidx.core.view.MenuItemCompat$Api26Impl: android.view.MenuItem setIconTintMode(android.view.MenuItem,android.graphics.PorterDuff$Mode)
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api33Impl: androidx.core.view.accessibility.AccessibilityNodeInfoCompat$CollectionItemInfoCompat buildCollectionItemInfoCompat(boolean,int,int,int,int,boolean,java.lang.String,java.lang.String)
+android.support.wearable.watchface.decomposition.ImageComponent$1: ImageComponent$1()
+androidx.core.view.WindowInsetsCompat$Impl20: androidx.core.graphics.Insets getInsets(int,boolean)
+io.flutter.embedding.engine.FlutterJNI: java.lang.String getObservatoryUri()
+androidx.appcompat.view.menu.ActionMenuItemView: ActionMenuItemView(android.content.Context,android.util.AttributeSet)
+androidx.datastore.preferences.PreferencesProto$Value$ValueCase: androidx.datastore.preferences.PreferencesProto$Value$ValueCase[] values()
+android.support.wearable.complications.rendering.ComplicationDrawable: android.support.wearable.complications.rendering.ComplicationStyle$Builder getComplicationStyleBuilder(boolean)
+android.support.wearable.complications.rendering.ComplicationDrawable: ComplicationDrawable(android.content.Context)
+androidx.appcompat.widget.ContentFrameLayout: android.util.TypedValue getMinWidthMajor()
+android.support.wearable.view.CircularButton: void setPressedTranslationZ(float)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VPath: java.lang.String getPathName()
+io.flutter.embedding.engine.renderer.FlutterRenderer$DisplayFeatureState: io.flutter.embedding.engine.renderer.FlutterRenderer$DisplayFeatureState[] values()
+io.flutter.embedding.engine.FlutterJNI: void nativeNotifyLowMemoryWarning(long)
+android.support.wearable.view.drawer.PageIndicatorView: int getDotColor()
+androidx.core.widget.NestedScrollView: void setFillViewport(boolean)
+androidx.preference.CheckBoxPreference: CheckBoxPreference(android.content.Context,android.util.AttributeSet)
+androidx.core.view.WindowInsetsCompat$BuilderImpl: void setTappableElementInsets(androidx.core.graphics.Insets)
+androidx.wear.widget.CircledImageView: void setCircleBorderWidth(float)
+androidx.appcompat.widget.DropDownListView: void setListSelectionHidden(boolean)
+com.mjohnsullivan.flutterwear.wear.WearPlugin: WearPlugin()
+androidx.core.view.WindowInsetsCompat$BuilderImpl: void setMandatorySystemGestureInsets(androidx.core.graphics.Insets)
+androidx.core.view.WindowInsetsCompat$Impl20: androidx.core.graphics.Insets getInsets(int)
+io.flutter.embedding.engine.FlutterJNI: void nativeSurfaceCreated(long,android.view.Surface)
+io.flutter.view.TextureRegistry$SurfaceProducer: void setCallback(io.flutter.view.TextureRegistry$SurfaceProducer$Callback)
+io.flutter.embedding.engine.FlutterJNI: boolean isCodePointVariantSelector(int)
+androidx.window.extensions.core.util.function.Consumer: void accept(java.lang.Object)
+io.flutter.embedding.engine.FlutterJNI: void nativeSurfaceWindowChanged(long,android.view.Surface)
+androidx.appcompat.widget.Toolbar: void setPopupTheme(int)
+com.mjohnsullivan.flutterwear.wear.WearPlugin$WearableAmbientCallback: void onUpdateAmbient()
+androidx.recyclerview.widget.RecyclerView: void setPreserveFocusAfterLayout(boolean)
+androidx.appcompat.widget.AppCompatAutoCompleteTextView: void setBackgroundDrawable(android.graphics.drawable.Drawable)
+android.support.wearable.watchface.decomposition.ImageComponent$Builder$1: ImageComponent$Builder$1()
+androidx.appcompat.widget.LinearLayoutCompat: android.graphics.drawable.Drawable getDividerDrawable()
+android.support.wearable.watchface.decomposition.WatchFaceDecomposition$1: WatchFaceDecomposition$1()
+androidx.core.view.WindowInsetsCompat$Impl: boolean equals(java.lang.Object)
+androidx.core.view.WindowInsetsCompat$Impl: void setRootWindowInsets(androidx.core.view.WindowInsetsCompat)
+com.mjohnsullivan.flutterwear.wear.WearPlugin$WearableAmbientCallback: void onExitAmbient()
+androidx.core.graphics.drawable.DrawableCompat$Api21Impl: void inflate(android.graphics.drawable.Drawable,android.content.res.Resources,org.xmlpull.v1.XmlPullParser,android.util.AttributeSet,android.content.res.Resources$Theme)
+android.support.wearable.view.drawer.PageIndicatorView: void setDotShadowRadius(float)
+androidx.datastore.preferences.PreferencesProto$Value$ValueCase: androidx.datastore.preferences.PreferencesProto$Value$ValueCase valueOf(java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: void invokePlatformMessageResponseCallback(int,java.nio.ByteBuffer,int)
+androidx.appcompat.widget.SearchView: void setOnCloseListener(androidx.appcompat.widget.SearchView$OnCloseListener)
+androidx.core.view.MenuItemCompat$Api26Impl: android.graphics.PorterDuff$Mode getIconTintMode(android.view.MenuItem)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$AnimationCallback: void onEnd(android.view.WindowInsetsAnimation)
+io.flutter.embedding.engine.FlutterJNI: void nativePrefetchDefaultFontManager()
+androidx.core.view.ViewCompat$Api26Impl: void setKeyboardNavigationCluster(android.view.View,boolean)
+android.support.wearable.complications.rendering.ComplicationDrawable: void setBorderColorAmbient(int)
+androidx.core.view.ViewCompat$Api23Impl: androidx.core.view.WindowInsetsCompat getRootWindowInsets(android.view.View)
+androidx.datastore.preferences.protobuf.FieldType$Collection: androidx.datastore.preferences.protobuf.FieldType$Collection valueOf(java.lang.String)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: void scheduleFrame()
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VFullPath: float getStrokeWidth()
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.graphics.Insets getSystemWindowInsets()
+androidx.wear.widget.CircledImageView: float getInitialCircleRadius()
+androidx.appcompat.widget.Toolbar: void setCollapseIcon(android.graphics.drawable.Drawable)
+androidx.core.view.WindowInsetsCompat$Impl20: boolean equals(java.lang.Object)
+androidx.core.graphics.drawable.DrawableCompat$Api21Impl: android.graphics.ColorFilter getColorFilter(android.graphics.drawable.Drawable)
+androidx.appcompat.widget.Toolbar: int getContentInsetRight()
+androidx.core.view.WindowInsetsCompat$Impl28: int hashCode()
+android.support.wearable.watchface.decomposition.WatchFaceDecomposition$Builder: WatchFaceDecomposition$Builder()
+androidx.appcompat.widget.AppCompatImageButton: void setBackgroundResource(int)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$AnimationCallback: ImeSyncDeferringInsetsCallback$AnimationCallback(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPreDestroyed(android.app.Activity)
+androidx.viewpager.widget.ViewPager: void setPageMarginDrawable(android.graphics.drawable.Drawable)
+androidx.datastore.preferences.protobuf.WireFormat$FieldType: androidx.datastore.preferences.protobuf.WireFormat$FieldType valueOf(java.lang.String)
+androidx.core.view.VelocityTrackerCompat$Api34Impl: boolean isAxisSupported(android.view.VelocityTracker,int)
+androidx.core.view.ViewCompat$Api21Impl: boolean isImportantForAccessibility(android.view.View)
+kotlinx.coroutines.android.AndroidExceptionPreHandler: AndroidExceptionPreHandler()
+androidx.appcompat.widget.LinearLayoutCompat: int getDividerPadding()
+com.mjohnsullivan.flutterwear.wear.WearPlugin: void onReattachedToActivityForConfigChanges(io.flutter.embedding.engine.plugins.activity.ActivityPluginBinding)
+androidx.core.graphics.drawable.IconCompatParcelizer: IconCompatParcelizer()
+androidx.lifecycle.ProcessLifecycleOwner$attach$1: void onActivityStopped(android.app.Activity)
+com.mjohnsullivan.flutterwear.wear.WearPlugin: void onDetachedFromActivityForConfigChanges()
+androidx.window.area.reflectionguard.WindowAreaComponentApi3Requirements: void endRearDisplayPresentationSession()
+io.flutter.view.AccessibilityBridge$TextDirection: io.flutter.view.AccessibilityBridge$TextDirection valueOf(java.lang.String)
+androidx.core.view.WindowInsetsCompat$BuilderImpl20: void setSystemWindowInsets(androidx.core.graphics.Insets)
+androidx.preference.DropDownPreference: DropDownPreference(android.content.Context,android.util.AttributeSet)
+com.mjohnsullivan.flutterwear.wear.WearPlugin: void onDetachedFromActivity()
+android.support.wearable.watchface.decomposition.ComplicationComponent$Builder$1: ComplicationComponent$Builder$1()
+io.flutter.embedding.engine.FlutterJNI: void nativeScheduleFrame(long)
+io.flutter.embedding.engine.systemchannels.TextInputChannel$TextCapitalization: io.flutter.embedding.engine.systemchannels.TextInputChannel$TextCapitalization valueOf(java.lang.String)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageTextureRegistryEntry: void maybeWaitOnFence(android.media.Image)
+androidx.wear.widget.drawer.PageIndicatorView: void setPagerAdapter(androidx.viewpager.widget.PagerAdapter)
+androidx.appcompat.widget.Toolbar: int getContentInsetEnd()
+androidx.lifecycle.EmptyActivityLifecycleCallbacks: void onActivitySaveInstanceState(android.app.Activity,android.os.Bundle)
+io.flutter.view.TextureRegistry$SurfaceTextureEntry: void setOnFrameConsumedListener(io.flutter.view.TextureRegistry$OnFrameConsumedListener)
+io.flutter.view.TextureRegistry$SurfaceTextureEntry$-CC: void $default$setOnFrameConsumedListener(io.flutter.view.TextureRegistry$SurfaceTextureEntry,io.flutter.view.TextureRegistry$OnFrameConsumedListener)
+androidx.appcompat.widget.AppCompatImageView: void setImageResource(int)
+kotlin.random.Random: Random()
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.view.DisplayCutoutCompat getDisplayCutout()
+androidx.appcompat.widget.SwitchCompat: android.graphics.PorterDuff$Mode getThumbTintMode()
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VFullPath: float getTrimPathOffset()
+io.flutter.view.AccessibilityBridge$Action: io.flutter.view.AccessibilityBridge$Action[] values()
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageTextureRegistryEntry: void waitOnFence(android.media.Image)
+io.flutter.view.AccessibilityViewEmbedder: java.lang.Integer getRecordFlutterId(android.view.View,android.view.accessibility.AccessibilityRecord)
+androidx.appcompat.widget.AppCompatTextView: void setAutoSizeTextTypeWithDefaults(int)
+androidx.appcompat.widget.AppCompatAutoCompleteTextView: void setCustomSelectionActionModeCallback(android.view.ActionMode$Callback)
+androidx.core.view.ViewCompat$Api29Impl: android.view.contentcapture.ContentCaptureSession getContentCaptureSession(android.view.View)
+androidx.appcompat.widget.AppCompatTextView: int getAutoSizeMaxTextSize()
+androidx.appcompat.widget.AppCompatImageView: void setImageBitmap(android.graphics.Bitmap)
+androidx.appcompat.widget.SwitchCompat: int getCompoundPaddingLeft()
+io.flutter.embedding.engine.FlutterJNI: void onDisplayPlatformView(int,int,int,int,int,int,int,io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack)
+io.flutter.embedding.engine.FlutterJNI: io.flutter.embedding.engine.FlutterJNI spawn(java.lang.String,java.lang.String,java.lang.String,java.util.List)
+androidx.core.graphics.drawable.IconCompat$Api23Impl: android.graphics.drawable.Drawable loadDrawable(android.graphics.drawable.Icon,android.content.Context)
+kotlinx.coroutines.channels.BufferOverflow: kotlinx.coroutines.channels.BufferOverflow[] values()
+kotlinx.coroutines.channels.BufferOverflow: kotlinx.coroutines.channels.BufferOverflow valueOf(java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: void updateJavaAssetManager(android.content.res.AssetManager,java.lang.String)
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api30Impl: java.lang.Object createRangeInfo(int,float,float,float)
+androidx.appcompat.widget.Toolbar: int getCurrentContentInsetEnd()
+io.flutter.view.TextureRegistry$SurfaceProducer: android.view.Surface getSurface()
+io.flutter.view.TextureRegistry$SurfaceProducer: void scheduleFrame()
+androidx.appcompat.view.menu.ActionMenuItemView: void setIcon(android.graphics.drawable.Drawable)
+androidx.core.view.ViewConfigurationCompat$Api34Impl: int getScaledMinimumFlingVelocity(android.view.ViewConfiguration,int,int,int)
+androidx.core.widget.EdgeEffectCompat$Api21Impl: void onPull(android.widget.EdgeEffect,float,float)
+androidx.appcompat.widget.Toolbar: android.widget.TextView getTitleTextView()
+kotlinx.coroutines.scheduling.CoroutineScheduler$WorkerState: kotlinx.coroutines.scheduling.CoroutineScheduler$WorkerState valueOf(java.lang.String)
+androidx.appcompat.widget.SwitchCompat: void setThumbResource(int)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VFullPath: float getStrokeAlpha()
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack$FlutterMutatorType: io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack$FlutterMutatorType valueOf(java.lang.String)
+io.flutter.plugin.platform.SingleViewPresentation: io.flutter.plugin.platform.PlatformView getView()
+io.flutter.embedding.android.FlutterView: void setVisibility(int)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: long id()
+android.support.wearable.complications.rendering.ComplicationDrawable: void setBorderRadiusAmbient(int)
+androidx.core.view.MenuItemCompat$Api26Impl: android.view.MenuItem setContentDescription(android.view.MenuItem,java.lang.CharSequence)
+androidx.core.view.WindowInsetsCompat$BuilderImpl30: WindowInsetsCompat$BuilderImpl30()
+androidx.lifecycle.EmptyActivityLifecycleCallbacks: void onActivityPaused(android.app.Activity)
+androidx.appcompat.widget.Toolbar: void setOnMenuItemClickListener(androidx.appcompat.widget.Toolbar$OnMenuItemClickListener)
+android.support.wearable.complications.rendering.ComplicationDrawable: void setComplicationData(android.support.wearable.complications.ComplicationData)
+androidx.appcompat.widget.SwitchCompat: android.content.res.ColorStateList getTrackTintList()
+android.support.wearable.complications.rendering.ComplicationDrawable: void setBackgroundColorActive(int)
+io.flutter.view.AccessibilityViewEmbedder: android.view.accessibility.AccessibilityNodeInfo getRootNode(android.view.View,int,android.graphics.Rect)
+androidx.core.view.ViewCompat$Api26Impl: void setTooltipText(android.view.View,java.lang.CharSequence)
+androidx.appcompat.widget.SwitchCompat: int getThumbTextPadding()
+androidx.recyclerview.widget.RecyclerView: void setItemViewCacheSize(int)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityResumed(android.app.Activity)
+io.flutter.view.TextureRegistry$SurfaceProducer: void setSize(int,int)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: boolean access$800(io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer)
+io.flutter.embedding.engine.FlutterJNI: void removeIsDisplayingFlutterUiListener(io.flutter.embedding.engine.renderer.FlutterUiDisplayListener)
+androidx.appcompat.widget.ActionBarContextView: void setContentHeight(int)
+androidx.appcompat.widget.Toolbar: android.graphics.drawable.Drawable getLogo()
+android.support.wearable.watchface.decomposition.FontComponent$Builder$1: FontComponent$Builder$1()
+androidx.wear.widget.CircledImageView: void setImageTint(int)
+android.support.wearable.view.CircledImageView: void setCircleColor(int)
+io.flutter.embedding.engine.systemchannels.PlatformChannel$ClipboardContentFormat: io.flutter.embedding.engine.systemchannels.PlatformChannel$ClipboardContentFormat[] values()
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: void updateTexImage()
+com.mjohnsullivan.flutterwear.wear.WearPlugin$Companion: WearPlugin$Companion(kotlin.jvm.internal.DefaultConstructorMarker)
+androidx.appcompat.widget.ActionMenuView: void setPopupTheme(int)
+androidx.appcompat.widget.LinearLayoutCompat: void setOrientation(int)
+androidx.wear.widget.CircledImageView: void setCircleRadiusPressedPercent(float)
+io.flutter.embedding.android.FlutterView$ZeroSides: io.flutter.embedding.android.FlutterView$ZeroSides valueOf(java.lang.String)
+androidx.appcompat.widget.ActionBarOverlayLayout: java.lang.CharSequence getTitle()
+androidx.core.view.ViewCompat$Api21Impl: android.content.res.ColorStateList getBackgroundTintList(android.view.View)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.WindowInsets access$502(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback,android.view.WindowInsets)
+androidx.appcompat.widget.FitWindowsFrameLayout: void setOnFitSystemWindowsListener(androidx.appcompat.widget.FitWindowsViewGroup$OnFitSystemWindowsListener)
+androidx.core.view.DisplayCutoutCompat$Api28Impl: int getSafeInsetRight(android.view.DisplayCutout)
+androidx.recyclerview.widget.RecyclerView: int getItemDecorationCount()
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.View$OnApplyWindowInsetsListener getInsetsListener()
+androidx.core.view.WindowInsetsCompat$Impl: void setRootViewData(androidx.core.graphics.Insets)
+android.support.wearable.view.CircledImageView: void setCircleBorderColor(int)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: boolean access$102(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback,boolean)
+io.flutter.plugin.platform.PlatformViewWrapper: int getRenderTargetWidth()
+androidx.core.widget.ImageViewCompat$Api21Impl: android.content.res.ColorStateList getImageTintList(android.widget.ImageView)
+io.flutter.embedding.engine.FlutterJNI: void setViewportMetrics(float,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int[],int[],int[])
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityDestroyed(android.app.Activity)
+androidx.recyclerview.widget.RecyclerView: androidx.recyclerview.widget.RecyclerView$RecycledViewPool getRecycledViewPool()
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.view.WindowInsetsCompat consumeDisplayCutout()
+androidx.appcompat.widget.SwitchCompat: void setThumbTextPadding(int)
+io.flutter.embedding.engine.FlutterJNI: boolean nativeFlutterTextUtilsIsEmoji(int)
+androidx.core.widget.NestedScrollView: int getScrollRange()
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageTextureRegistryEntry: void pushImage(android.media.Image)
+io.flutter.embedding.engine.FlutterJNI: void setAsyncWaitForVsyncDelegate(io.flutter.embedding.engine.FlutterJNI$AsyncWaitForVsyncDelegate)
+androidx.appcompat.widget.SearchView: void setImeOptions(int)
+io.flutter.embedding.engine.FlutterJNI: void nativeUpdateJavaAssetManager(long,android.content.res.AssetManager,java.lang.String)
+androidx.appcompat.widget.SearchView: SearchView(android.content.Context,android.util.AttributeSet)
+androidx.core.view.ViewCompat$Api28Impl: java.lang.Object requireViewById(android.view.View,int)
+androidx.core.view.WindowInsetsCompat$BuilderImpl: androidx.core.view.WindowInsetsCompat build()
+android.support.wearable.watchface.decomposition.ComplicationComponent$1: ComplicationComponent$1()
+io.flutter.embedding.engine.FlutterJNI: void nativeSurfaceChanged(long,int,int)
+io.flutter.view.AccessibilityBridge$Action: io.flutter.view.AccessibilityBridge$Action valueOf(java.lang.String)
+androidx.core.graphics.drawable.IconCompat$Api28Impl: java.lang.String getResPackage(java.lang.Object)
+androidx.appcompat.widget.Toolbar: int getTitleMarginEnd()
+androidx.appcompat.widget.ActionBarOverlayLayout: void setLogo(int)
+android.support.wearable.complications.rendering.ComplicationDrawable: void setTextSizeAmbient(int)
+androidx.appcompat.widget.Toolbar: void setOverflowIcon(android.graphics.drawable.Drawable)
+androidx.lifecycle.Lifecycle$State: androidx.lifecycle.Lifecycle$State valueOf(java.lang.String)
+io.flutter.embedding.engine.systemchannels.PlatformChannel$Brightness: io.flutter.embedding.engine.systemchannels.PlatformChannel$Brightness[] values()
+android.support.wearable.view.ActionPage: android.support.wearable.view.ActionLabel getLabel()
+androidx.core.view.ViewConfigurationCompat$Api26Impl: float getScaledVerticalScrollFactor(android.view.ViewConfiguration)
+androidx.core.view.ViewCompat$Api28Impl: boolean isAccessibilityHeading(android.view.View)
+android.support.wearable.view.drawer.PageIndicatorView: int getDotShadowColor()
+androidx.appcompat.widget.SwitchCompat: java.lang.CharSequence getTextOn()
+android.support.wearable.complications.rendering.ComplicationDrawable: void setBackgroundDrawableActive(android.graphics.drawable.Drawable)
+android.support.wearable.view.drawer.PageIndicatorView: void setPager(androidx.viewpager.widget.ViewPager)
+androidx.appcompat.widget.ViewStubCompat: void setLayoutResource(int)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityCreated(android.app.Activity,android.os.Bundle)
+androidx.appcompat.widget.AppCompatTextView: int getFirstBaselineToTopHeight()
+androidx.appcompat.widget.Toolbar: void setNavigationContentDescription(java.lang.CharSequence)
+androidx.appcompat.widget.ActionBarContextView: void setTitle(java.lang.CharSequence)
+android.support.wearable.complications.rendering.ComplicationDrawable: void setBackgroundDrawableAmbient(android.graphics.drawable.Drawable)
+androidx.core.view.WindowInsetsCompat$Impl: void copyRootViewBounds(android.view.View)
+android.support.wearable.view.CircularButton: void setImageScaleMode(int)
+androidx.datastore.preferences.protobuf.FieldType: androidx.datastore.preferences.protobuf.FieldType[] values()
+androidx.recyclerview.widget.RecyclerView: androidx.core.view.NestedScrollingChildHelper getScrollingChildHelper()
+androidx.appcompat.widget.LinearLayoutCompat: void setShowDividers(int)
+androidx.appcompat.widget.AppCompatTextView: android.view.textclassifier.TextClassifier getTextClassifier()
+androidx.core.view.ViewCompat$Api21Impl: boolean dispatchNestedScroll(android.view.View,int,int,int,int,int[])
+android.support.wearable.view.CircularButton: void setImageResource(int)
+androidx.core.view.VelocityTrackerCompat$Api34Impl: float getAxisVelocity(android.view.VelocityTracker,int,int)
+androidx.appcompat.widget.AppCompatTextView: void setTextMetricsParamsCompat(androidx.core.text.PrecomputedTextCompat$Params)
+androidx.appcompat.widget.AppCompatImageView: void setBackgroundDrawable(android.graphics.drawable.Drawable)
+com.mjohnsullivan.flutterwear.wear.WearPlugin$WearableAmbientCallback: WearPlugin$WearableAmbientCallback(com.mjohnsullivan.flutterwear.wear.WearPlugin)
+androidx.wear.widget.CircledImageView: void setCircleHidden(boolean)
+androidx.recyclerview.widget.RecyclerView: void setAdapter(androidx.recyclerview.widget.RecyclerView$Adapter)
+androidx.core.app.RemoteActionCompatParcelizer: void write(androidx.core.app.RemoteActionCompat,androidx.versionedparcelable.VersionedParcel)
+android.support.wearable.view.ObservableScrollView: ObservableScrollView(android.content.Context,android.util.AttributeSet)
+android.support.wearable.view.ActionLabel: android.text.Layout$Alignment getLayoutAlignment()
+androidx.window.area.reflectionguard.WindowAreaComponentApi2Requirements: void endRearDisplaySession()
+io.flutter.embedding.engine.FlutterJNI: void onSurfaceWindowChanged(android.view.Surface)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VFullPath: float getTrimPathEnd()
+io.flutter.embedding.engine.FlutterJNI: boolean nativeGetIsSoftwareRenderingEnabled()
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: android.graphics.Matrix getFinalMatrix()
+androidx.appcompat.widget.AppCompatTextView: int getLastBaselineToBottomHeight()
+androidx.window.area.reflectionguard.ExtensionWindowAreaPresentationRequirements: android.content.Context getPresentationContext()
+io.flutter.embedding.engine.FlutterJNI: void nativeUpdateRefreshRate(float)
+androidx.appcompat.widget.SwitchCompat: void setSwitchTypeface(android.graphics.Typeface)
+androidx.appcompat.widget.ActionMenuView: android.graphics.drawable.Drawable getOverflowIcon()
+androidx.appcompat.widget.AppCompatTextView: int getAutoSizeTextType()
+androidx.wear.widget.CircledImageView: void setCircleRadius(float)
+android.support.wearable.view.drawer.PageIndicatorView: void setDotRadiusSelected(int)
+android.support.wearable.view.drawer.PageIndicatorView: void setDotShadowDy(float)
+io.flutter.embedding.engine.FlutterJNI: void addEngineLifecycleListener(io.flutter.embedding.engine.FlutterEngine$EngineLifecycleListener)
+android.support.wearable.view.drawer.PageIndicatorView: int getDotFadeOutDelay()
+io.flutter.embedding.android.FlutterImageView$SurfaceKind: io.flutter.embedding.android.FlutterImageView$SurfaceKind valueOf(java.lang.String)
+androidx.core.widget.NestedScrollView: void setSmoothScrollingEnabled(boolean)
+androidx.recyclerview.widget.RecyclerView: void setLayoutFrozen(boolean)
+android.support.wearable.complications.rendering.ComplicationDrawable: void setBorderStyleAmbient(int)
+android.support.wearable.view.ActionLabel: void setGravity(int)
+androidx.appcompat.widget.Toolbar: android.content.Context getPopupContext()
+androidx.appcompat.widget.ActionMenuView: void setOverflowReserved(boolean)
+androidx.appcompat.widget.SwitchCompat: int getThumbOffset()
+androidx.appcompat.widget.SearchView: SearchView(android.content.Context)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer$PerImageReader getActiveReader()
+androidx.preference.PreferenceCategory: PreferenceCategory(android.content.Context,android.util.AttributeSet)
+io.flutter.view.TextureRegistry$SurfaceProducer: int getWidth()
+androidx.appcompat.view.menu.ListMenuItemView: android.view.LayoutInflater getInflater()
+androidx.appcompat.widget.MenuPopupWindow$MenuDropDownListView: void setHoverListener(androidx.appcompat.widget.MenuItemHoverListener)
+androidx.percentlayout.widget.PercentRelativeLayout: PercentRelativeLayout(android.content.Context,android.util.AttributeSet)
+androidx.wear.widget.CircledImageView: android.graphics.drawable.Drawable getImageDrawable()
+android.support.wearable.complications.rendering.ComplicationDrawable: void setRangedValuePrimaryColorActive(int)
+androidx.appcompat.widget.AppCompatTextView: void setSupportCompoundDrawablesTintMode(android.graphics.PorterDuff$Mode)
+androidx.appcompat.widget.AppCompatImageView: void setImageURI(android.net.Uri)
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: SurfaceTextureWrapper(android.graphics.SurfaceTexture)
+androidx.wear.widget.drawer.PageIndicatorView: void setDotSpacing(int)
+io.flutter.embedding.android.RenderMode: io.flutter.embedding.android.RenderMode[] values()
+io.flutter.embedding.android.FlutterView: io.flutter.embedding.android.FlutterImageView getCurrentImageSurface()
+androidx.core.view.ViewCompat$Api30Impl: boolean isImportantForContentCapture(android.view.View)
+android.support.wearable.complications.rendering.ComplicationDrawable: android.support.wearable.complications.rendering.ComplicationRenderer getComplicationRenderer()
+androidx.appcompat.widget.DialogTitle: DialogTitle(android.content.Context,android.util.AttributeSet)
+androidx.core.view.ViewCompat$Api21Impl: void setOnApplyWindowInsetsListener(android.view.View,androidx.core.view.OnApplyWindowInsetsListener)
+androidx.appcompat.widget.AppCompatTextView: androidx.core.text.PrecomputedTextCompat$Params getTextMetricsParamsCompat()
+io.flutter.view.AccessibilityViewEmbedder: android.view.View platformViewOfNode(int)
+androidx.core.graphics.drawable.DrawableCompat$Api21Impl: void setHotspot(android.graphics.drawable.Drawable,float,float)
+androidx.core.view.DisplayCutoutCompat$Api28Impl: int getSafeInsetLeft(android.view.DisplayCutout)
+android.support.wearable.view.CircledImageView: void setImageTint(int)
+androidx.appcompat.widget.FitWindowsLinearLayout: void setOnFitSystemWindowsListener(androidx.appcompat.widget.FitWindowsViewGroup$OnFitSystemWindowsListener)
+io.flutter.embedding.engine.FlutterJNI: void nativeDispatchPlatformMessage(long,java.lang.String,java.nio.ByteBuffer,int,int)
+androidx.appcompat.widget.Toolbar: java.lang.CharSequence getLogoDescription()
+androidx.appcompat.widget.SwitchCompat: int getCompoundPaddingRight()
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VPath: void setPathData(androidx.core.graphics.PathParser$PathDataNode[])
+androidx.core.view.ViewCompat$Api29Impl: void setContentCaptureSession(android.view.View,androidx.core.view.contentcapture.ContentCaptureSessionCompat)
+io.flutter.embedding.engine.FlutterJNI: void updateDisplayMetrics(int,float,float,float)
+androidx.core.view.MenuItemCompat$Api26Impl: int getAlphabeticModifiers(android.view.MenuItem)
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api34Impl: long getMinDurationBetweenContentChangeMillis(android.view.accessibility.AccessibilityNodeInfo)
+io.flutter.embedding.engine.FlutterJNI: void nativeSurfaceDestroyed(long)
+androidx.appcompat.widget.ButtonBarLayout: void setAllowStacking(boolean)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: void install()
+androidx.core.view.ViewCompat$Api21Impl: androidx.core.view.WindowInsetsCompat computeSystemWindowInsets(android.view.View,androidx.core.view.WindowInsetsCompat,android.graphics.Rect)
+androidx.recyclerview.widget.RecyclerView: java.lang.CharSequence getAccessibilityClassName()
+com.mjohnsullivan.flutterwear.wear.WearPlugin: void onStop()
+androidx.core.view.MenuItemCompat$Api26Impl: int getNumericModifiers(android.view.MenuItem)
+io.flutter.embedding.engine.FlutterJNI: long performNativeAttach(io.flutter.embedding.engine.FlutterJNI)
+androidx.recyclerview.widget.RecyclerView: boolean getPreserveFocusAfterLayout()
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.graphics.Insets getStableInsets()
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api34Impl: java.lang.CharSequence getContainerTitle(android.view.accessibility.AccessibilityNodeInfo)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: ReportFragment$LifecycleCallbacks()
+androidx.appcompat.widget.AppCompatTextView: int getAutoSizeMinTextSize()
+androidx.appcompat.widget.Toolbar: void setContentInsetStartWithNavigation(int)
+androidx.appcompat.widget.SearchView: void setOnQueryTextFocusChangeListener(android.view.View$OnFocusChangeListener)
+androidx.wear.widget.CircledImageView: long getColorChangeAnimationDuration()
+androidx.core.view.ViewCompat$Api26Impl: boolean restoreDefaultFocus(android.view.View)
+androidx.appcompat.widget.ViewStubCompat: int getLayoutResource()
+io.flutter.embedding.engine.FlutterJNI: void attachToNative()
+androidx.appcompat.widget.SwitchCompat: android.graphics.drawable.Drawable getTrackDrawable()
+android.support.wearable.watchface.decomposition.NumberComponent$Builder$1: NumberComponent$Builder$1()
+androidx.core.view.WindowInsetsCompat$Impl29: androidx.core.graphics.Insets getMandatorySystemGestureInsets()
+androidx.core.view.WindowInsetsCompat$BuilderImpl: void applyInsetTypes()
+android.support.wearable.complications.rendering.ComplicationDrawable: void setTextSizeActive(int)
+androidx.appcompat.widget.AppCompatImageButton: android.graphics.PorterDuff$Mode getSupportImageTintMode()
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: void disableFenceForTest()
+androidx.appcompat.widget.Toolbar: int getContentInsetStart()
+androidx.appcompat.view.menu.ListMenuItemView: void setForceShowIcon(boolean)
+androidx.core.view.ViewCompat$Api29Impl: java.util.List getSystemGestureExclusionRects(android.view.View)
+android.support.wearable.watchface.decomposition.FontComponent$1: FontComponent$1()
+io.flutter.embedding.engine.FlutterJNI: void setPlatformViewsController(io.flutter.plugin.platform.PlatformViewsController)
+com.mjohnsullivan.flutterwear.wear.WearPlugin: void onDetachedFromEngine(io.flutter.embedding.engine.plugins.FlutterPlugin$FlutterPluginBinding)
+android.support.wearable.complications.rendering.ComplicationDrawable: long getHighlightDuration()
+androidx.core.view.ViewCompat$Api21Impl: java.lang.String getTransitionName(android.view.View)
+io.flutter.embedding.engine.FlutterOverlaySurface: int getId()
+androidx.core.graphics.drawable.IconCompat$Api23Impl: android.net.Uri getUri(java.lang.Object)
+androidx.core.widget.TextViewCompat$Api23Impl: void setCompoundDrawableTintList(android.widget.TextView,android.content.res.ColorStateList)
+androidx.recyclerview.widget.RecyclerView: void setRecycledViewPool(androidx.recyclerview.widget.RecyclerView$RecycledViewPool)
+androidx.core.view.ViewCompat$Api21Impl: float getZ(android.view.View)
+android.support.wearable.view.ActionLabel: void setMaxTextSize(float)
+androidx.core.widget.TextViewCompat$Api28Impl: java.lang.CharSequence castToCharSequence(android.text.PrecomputedText)
+androidx.core.view.ViewCompat$Api21Impl: void callCompatInsetAnimationCallback(android.view.WindowInsets,android.view.View)
+androidx.core.view.ViewCompat$Api23Impl: void setScrollIndicators(android.view.View,int)
+androidx.core.view.WindowInsetsCompat$BuilderImpl29: void setSystemGestureInsets(androidx.core.graphics.Insets)
+io.flutter.embedding.engine.FlutterJNI: float getScaledFontSize(float,int)
+com.mjohnsullivan.flutterwear.wear.WearPlugin: void attachAmbientController(io.flutter.embedding.engine.plugins.activity.ActivityPluginBinding)
+androidx.core.view.WindowInsetsCompat$Impl21: void setStableInsets(androidx.core.graphics.Insets)
+androidx.core.view.WindowInsetsCompat$Impl: void copyWindowDataInto(androidx.core.view.WindowInsetsCompat)
+io.flutter.embedding.engine.FlutterJNI: void ensureRunningOnMainThread()
+androidx.appcompat.widget.AppCompatAutoCompleteTextView: void setSupportBackgroundTintMode(android.graphics.PorterDuff$Mode)
+androidx.core.view.ViewCompat$Api21Impl: void stopNestedScroll(android.view.View)
+android.support.wearable.view.drawer.PageIndicatorView: float getDotRadiusSelected()
+io.flutter.view.AccessibilityViewEmbedder: void copyAccessibilityFields(android.view.accessibility.AccessibilityNodeInfo,android.view.accessibility.AccessibilityNodeInfo)
+androidx.datastore.preferences.protobuf.Writer$FieldOrder: androidx.datastore.preferences.protobuf.Writer$FieldOrder[] values()
+androidx.core.view.ViewCompat$Api21Impl: void setBackgroundTintList(android.view.View,android.content.res.ColorStateList)
+androidx.wear.widget.drawer.PageIndicatorView: void setDotRadiusSelected(int)
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.graphics.Insets getMandatorySystemGestureInsets()
+androidx.core.view.ViewConfigurationCompat$Api26Impl: float getScaledHorizontalScrollFactor(android.view.ViewConfiguration)
+io.flutter.embedding.android.FlutterView: void setWindowInfoListenerDisplayFeatures(androidx.window.layout.WindowLayoutInfo)
+io.flutter.plugins.GeneratedPluginRegistrant: void registerWith(io.flutter.embedding.engine.FlutterEngine)
+androidx.core.view.ViewCompat$Api20Impl: void requestApplyInsets(android.view.View)
+android.support.wearable.complications.rendering.ComplicationDrawable: void setBorderWidthAmbient(int)
+android.support.wearable.view.CircledImageView: void setPressed(boolean)
+androidx.core.widget.NestedScrollView: void setOnScrollChangeListener(androidx.core.widget.NestedScrollView$OnScrollChangeListener)
+io.flutter.embedding.android.FlutterImageView$SurfaceKind: io.flutter.embedding.android.FlutterImageView$SurfaceKind[] values()
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api33Impl: java.lang.String getUniqueId(android.view.accessibility.AccessibilityNodeInfo)
+android.support.wearable.view.CircledImageView: android.graphics.drawable.Drawable getImageDrawable()
+io.flutter.embedding.android.FlutterImageView: android.view.Surface getSurface()
+android.support.wearable.complications.rendering.ComplicationDrawable: ComplicationDrawable(android.os.Parcel)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VGroup: float getScaleX()
+io.flutter.plugin.platform.PlatformViewWrapper: void setTouchProcessor(io.flutter.embedding.android.AndroidTouchProcessor)
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api34Impl: void setContainerTitle(android.view.accessibility.AccessibilityNodeInfo,java.lang.CharSequence)
+android.support.wearable.view.ActionLabel: void setMaxLines(int)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageTextureRegistryEntry: FlutterRenderer$ImageTextureRegistryEntry(io.flutter.embedding.engine.renderer.FlutterRenderer,long)
+android.support.wearable.complications.rendering.ComplicationDrawable: boolean onTap(int,int,long)
+androidx.appcompat.view.menu.ActionMenuItemView: void setPopupCallback(androidx.appcompat.view.menu.ActionMenuItemView$PopupCallback)
+androidx.core.view.WindowInsetsCompat$Impl28: androidx.core.view.WindowInsetsCompat consumeDisplayCutout()
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: void pushClipRRect(int,int,int,int,float[])
+android.support.wearable.complications.rendering.ComplicationDrawable: void setRangedValueRingWidthAmbient(int)
+androidx.appcompat.widget.SwitchCompat: void setTrackTintList(android.content.res.ColorStateList)
+android.support.wearable.view.drawer.PageIndicatorView: float getDotSpacing()
+androidx.appcompat.widget.Toolbar: void setNavigationIcon(android.graphics.drawable.Drawable)
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api34Impl: void setMinDurationBetweenContentChangeMillis(android.view.accessibility.AccessibilityNodeInfo,long)
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api30Impl: void setStateDescription(android.view.accessibility.AccessibilityNodeInfo,java.lang.CharSequence)
+android.support.wearable.view.drawer.PageIndicatorView: int getDotFadeInDuration()
+kotlinx.coroutines.android.AndroidDispatcherFactory: AndroidDispatcherFactory()
+io.flutter.embedding.engine.FlutterJNI: void updateRefreshRate()
+androidx.profileinstaller.ProfileInstallerInitializer$Handler28Impl: android.os.Handler createAsync(android.os.Looper)
+androidx.recyclerview.widget.RecyclerView: void setAccessibilityDelegateCompat(androidx.recyclerview.widget.RecyclerViewAccessibilityDelegate)
+androidx.core.view.DisplayCutoutCompat$Api28Impl: java.util.List getBoundingRects(android.view.DisplayCutout)
+io.flutter.embedding.engine.FlutterJNI: io.flutter.embedding.engine.FlutterOverlaySurface createOverlaySurface()
+io.flutter.view.AccessibilityViewEmbedder: boolean performAction(int,int,android.os.Bundle)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: boolean access$300(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback)
+androidx.appcompat.widget.Toolbar: int getCurrentContentInsetLeft()
+androidx.core.graphics.drawable.IconCompat$Api23Impl: android.graphics.drawable.Icon toIcon(androidx.core.graphics.drawable.IconCompat,android.content.Context)
+androidx.appcompat.widget.SwitchCompat: void setTextOn(java.lang.CharSequence)
+io.flutter.embedding.engine.FlutterJNI: boolean nativeFlutterTextUtilsIsEmojiModifier(int)
+androidx.core.graphics.drawable.DrawableCompat$Api21Impl: boolean canApplyTheme(android.graphics.drawable.Drawable)
+android.support.wearable.complications.rendering.ComplicationDrawable: java.lang.CharSequence getNoDataText()
+androidx.appcompat.widget.Toolbar: void setCollapseIcon(int)
+io.flutter.embedding.engine.systemchannels.PlatformChannel$HapticFeedbackType: io.flutter.embedding.engine.systemchannels.PlatformChannel$HapticFeedbackType[] values()
+android.support.wearable.complications.rendering.ComplicationDrawable: void assertInitialized()
+android.support.wearable.view.CircularButton: int getImageScaleMode()
+android.support.wearable.view.ActionLabel: int getMaxLines()
+androidx.core.view.WindowInsetsCompat$Impl: boolean isRound()
+androidx.core.view.WindowInsetsCompat$BuilderImpl20: android.view.WindowInsets createWindowInsetsInstance()
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: int access$200(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback)
+android.support.wearable.complications.rendering.ComplicationDrawable: void setStyleToDefaultValues(android.support.wearable.complications.rendering.ComplicationStyle$Builder,android.content.res.Resources)
+androidx.recyclerview.widget.RecyclerView: androidx.recyclerview.widget.RecyclerView$OnFlingListener getOnFlingListener()
+kotlinx.coroutines.selects.TrySelectDetailedResult: kotlinx.coroutines.selects.TrySelectDetailedResult[] values()
+io.flutter.embedding.engine.FlutterJNI: java.lang.String getVMServiceUri()
+androidx.appcompat.widget.SearchView: void setQuery(java.lang.CharSequence)
+androidx.appcompat.widget.LinearLayoutCompat: int getShowDividers()
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VPathRenderer: float getAlpha()
+androidx.appcompat.widget.LinearLayoutCompat: void setDividerDrawable(android.graphics.drawable.Drawable)
+androidx.appcompat.widget.LinearLayoutCompat: int getDividerWidth()
+androidx.appcompat.widget.SearchView: SearchView(android.content.Context,android.util.AttributeSet,int)
+androidx.appcompat.widget.ActionBarContextView: ActionBarContextView(android.content.Context,android.util.AttributeSet)
+androidx.core.view.WindowInsetsCompat$BuilderImpl20: WindowInsetsCompat$BuilderImpl20()
+androidx.appcompat.view.menu.ListMenuItemView: void setCheckable(boolean)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VectorDrawableDelegateState: int getChangingConfigurations()
+androidx.core.widget.PopupWindowCompat$Api23Impl: boolean getOverlapAnchor(android.widget.PopupWindow)
+androidx.appcompat.widget.Toolbar: void setContentInsetEndWithActions(int)
+androidx.core.view.WindowInsetsCompat$Impl20: void setOverriddenInsets(androidx.core.graphics.Insets[])
+androidx.recyclerview.widget.RecyclerView: int getMinFlingVelocity()
+androidx.viewpager.widget.ViewPager: int getPageMargin()
+androidx.appcompat.widget.ActionBarContextView: void setVisibility(int)
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api33Impl: androidx.core.view.accessibility.AccessibilityNodeInfoCompat getParent(android.view.accessibility.AccessibilityNodeInfo,int)
+io.flutter.embedding.android.KeyData$Type: io.flutter.embedding.android.KeyData$Type valueOf(java.lang.String)
+androidx.wear.widget.CircledImageView: CircledImageView(android.content.Context,android.util.AttributeSet)
+androidx.recyclerview.widget.RecyclerView: void setLayoutTransition(android.animation.LayoutTransition)
+android.support.wearable.complications.rendering.ComplicationDrawable: void setNoDataText(java.lang.CharSequence)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: boolean access$100(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback)
+androidx.core.view.ViewCompat$Api29Impl: android.view.View$AccessibilityDelegate getAccessibilityDelegate(android.view.View)
+io.flutter.embedding.engine.FlutterJNI: void dispatchSemanticsAction(int,int,java.nio.ByteBuffer,int)
+androidx.core.view.WindowInsetsCompat$Impl30: androidx.core.graphics.Insets getInsets(int)
+androidx.recyclerview.widget.LinearLayoutManager: LinearLayoutManager(android.content.Context,android.util.AttributeSet,int,int)
+androidx.lifecycle.Lifecycle$State: androidx.lifecycle.Lifecycle$State[] values()
+androidx.wear.widget.drawer.PageIndicatorView: float getDotShadowDy()
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api34Impl: void getBoundsInWindow(android.view.accessibility.AccessibilityNodeInfo,android.graphics.Rect)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: double deltaMillis(long)
+androidx.core.view.ViewCompat$Api28Impl: void setScreenReaderFocusable(android.view.View,boolean)
+androidx.core.content.res.ResourcesCompat$Api23Impl: android.content.res.ColorStateList getColorStateList(android.content.res.Resources,int,android.content.res.Resources$Theme)
+androidx.core.view.ViewCompat$Api28Impl: void removeOnUnhandledKeyEventListener(android.view.View,androidx.core.view.ViewCompat$OnUnhandledKeyEventListenerCompat)
+androidx.window.area.reflectionguard.ExtensionWindowAreaPresentationRequirements: void setPresentationView(android.view.View)
+android.support.wearable.view.CircledImageView: float getInitialCircleRadius()
+androidx.core.view.DisplayCutoutCompat$Api28Impl: android.view.DisplayCutout createDisplayCutout(android.graphics.Rect,java.util.List)
+androidx.appcompat.widget.ActionBarContextView: void setCustomView(android.view.View)
+androidx.appcompat.widget.Toolbar: void setTitleMarginBottom(int)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VGroup: void setTranslateY(float)
+android.support.wearable.view.CircledImageView: void setCircleRadiusPercent(float)
+com.mjohnsullivan.flutterwear.wear.WearPlugin: io.flutter.plugin.common.MethodChannel access$getMMethodChannel$p(com.mjohnsullivan.flutterwear.wear.WearPlugin)
+android.support.wearable.view.ActionLabel: float getLineSpacingExtra()
+androidx.appcompat.widget.AppCompatImageView: android.graphics.PorterDuff$Mode getSupportImageTintMode()
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPreStopped(android.app.Activity)
+androidx.viewpager.widget.ViewPager: void setOffscreenPageLimit(int)
+androidx.appcompat.widget.ButtonBarLayout: int getMinimumHeight()
+io.flutter.embedding.engine.FlutterJNI: boolean nativeFlutterTextUtilsIsVariationSelector(int)
+androidx.core.widget.TextViewCompat$Api23Impl: android.content.res.ColorStateList getCompoundDrawableTintList(android.widget.TextView)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPostCreated(android.app.Activity,android.os.Bundle)
+androidx.appcompat.widget.Toolbar: int getContentInsetLeft()
+android.support.wearable.complications.rendering.ComplicationDrawable: void setTextColorAmbient(int)
+androidx.appcompat.widget.AppCompatAutoCompleteTextView: android.content.res.ColorStateList getSupportBackgroundTintList()
+android.support.wearable.view.CircledImageView: void setCircleRadiusPressed(float)
+android.support.wearable.complications.rendering.ComplicationDrawable: void setRangedValueRingWidthActive(int)
+androidx.appcompat.view.menu.ExpandedMenuView: ExpandedMenuView(android.content.Context,android.util.AttributeSet)
+io.flutter.embedding.android.FlutterActivityLaunchConfigs$BackgroundMode: io.flutter.embedding.android.FlutterActivityLaunchConfigs$BackgroundMode valueOf(java.lang.String)
+androidx.appcompat.widget.Toolbar: void setCollapseContentDescription(int)
+androidx.appcompat.view.menu.ListMenuItemView: ListMenuItemView(android.content.Context,android.util.AttributeSet)
+androidx.recyclerview.widget.RecyclerView: void setLayoutManager(androidx.recyclerview.widget.RecyclerView$LayoutManager)
+androidx.wear.widget.CircledImageView: void setCircleColorStateList(android.content.res.ColorStateList)
+com.mjohnsullivan.flutterwear.wear.WearPlugin: void onDestroy()
+android.support.wearable.complications.rendering.ComplicationDrawable: void setBorderDashWidthAmbient(int)
+android.support.wearable.view.CircledImageView: long getColorChangeAnimationDuration()
+androidx.core.view.WindowInsetsCompat$BuilderImpl29: WindowInsetsCompat$BuilderImpl29()
+io.flutter.embedding.engine.FlutterJNI: void nativeDispatchSemanticsAction(long,int,int,java.nio.ByteBuffer,int)
+androidx.recyclerview.widget.RecyclerView: void setClipToPadding(boolean)
+androidx.core.view.ViewCompat$Api26Impl: void addKeyboardNavigationClusters(android.view.View,java.util.Collection,int)
+androidx.core.content.res.FontResourcesParserCompat$Api21Impl: int getType(android.content.res.TypedArray,int)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPrePaused(android.app.Activity)
+io.flutter.view.AccessibilityViewEmbedder: void cacheVirtualIdMappings(android.view.View,int,int)
+androidx.core.graphics.drawable.IconCompat: IconCompat()
+androidx.recyclerview.widget.RecyclerView: androidx.recyclerview.widget.RecyclerViewAccessibilityDelegate getCompatAccessibilityDelegate()
+androidx.profileinstaller.FileSectionType: androidx.profileinstaller.FileSectionType[] values()
+androidx.core.widget.NestedScrollView: NestedScrollView(android.content.Context,android.util.AttributeSet)
+com.mjohnsullivan.flutterwear.wear.WearPlugin: void detachAmbientController()
+androidx.core.view.WindowInsetsCompat$BuilderImpl20: androidx.core.view.WindowInsetsCompat build()
+androidx.core.view.ViewCompat$Api26Impl: void setAutofillHints(android.view.View,java.lang.String[])
+androidx.appcompat.widget.AppCompatTextView: void setTextFuture(java.util.concurrent.Future)
+androidx.appcompat.widget.SwitchCompat: android.content.res.ColorStateList getThumbTintList()
+androidx.appcompat.widget.Toolbar: void setTitleTextColor(int)
+androidx.preference.UnPressableLinearLayout: UnPressableLinearLayout(android.content.Context,android.util.AttributeSet)
+androidx.viewpager.widget.ViewPager: void setScrollingCacheEnabled(boolean)
+androidx.wear.widget.drawer.PageIndicatorView: int getDotFadeOutDelay()
+androidx.core.view.WindowInsetsCompat$BuilderImpl29: void setSystemWindowInsets(androidx.core.graphics.Insets)
+io.flutter.view.TextureRegistry$ImageTextureEntry: void pushImage(android.media.Image)
+androidx.core.view.ViewCompat$Api23Impl: void setScrollIndicators(android.view.View,int,int)
+androidx.appcompat.widget.SwitchCompat: boolean getShowText()
+androidx.wear.widget.CircledImageView: int getDefaultCircleColor()
+android.support.wearable.view.CircledImageView: void setShadowVisibility(float)
+android.support.wearable.complications.rendering.ComplicationDrawable: void setTitleTypefaceAmbient(android.graphics.Typeface)
+androidx.core.graphics.drawable.DrawableCompat$Api23Impl: boolean setLayoutDirection(android.graphics.drawable.Drawable,int)
+androidx.appcompat.widget.Toolbar: int getTitleMarginTop()
+io.flutter.embedding.engine.FlutterJNI: void dispatchSemanticsAction(int,io.flutter.view.AccessibilityBridge$Action)
+io.flutter.embedding.android.KeyData$DeviceType: io.flutter.embedding.android.KeyData$DeviceType[] values()
+io.flutter.embedding.engine.plugins.lifecycle.HiddenLifecycleReference: HiddenLifecycleReference(androidx.lifecycle.Lifecycle)
+android.support.wearable.watchface.decompositionface.DecompositionConfigView: int[] getWatchFaceComplicationIds()
+androidx.appcompat.widget.Toolbar: void setNavigationContentDescription(int)
+androidx.core.view.ViewCompat$Api21Impl: android.graphics.PorterDuff$Mode getBackgroundTintMode(android.view.View)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: void setCallback(io.flutter.view.TextureRegistry$SurfaceProducer$Callback)
+io.flutter.embedding.engine.FlutterJNI: void detachFromNativeAndReleaseResources()
+android.support.v4.app.RemoteActionCompatParcelizer: androidx.core.app.RemoteActionCompat read(androidx.versionedparcelable.VersionedParcel)
+androidx.window.extensions.core.util.function.Function: java.lang.Object apply(java.lang.Object)
+androidx.recyclerview.widget.RecyclerView: int getBaseline()
+androidx.lifecycle.LifecycleDispatcher$DispatcherActivityCallback: void onActivityCreated(android.app.Activity,android.os.Bundle)
+androidx.appcompat.widget.ButtonBarLayout: ButtonBarLayout(android.content.Context,android.util.AttributeSet)
+androidx.appcompat.widget.AppCompatImageView: android.content.res.ColorStateList getSupportBackgroundTintList()
+io.flutter.embedding.engine.FlutterJNI: void nativeLoadDartDeferredLibrary(long,int,java.lang.String[])
+androidx.appcompat.widget.SearchView: void setSuggestionsAdapter(androidx.cursoradapter.widget.CursorAdapter)
+androidx.wear.widget.CircledImageView: float getCircleRadiusPressed()
+androidx.core.view.WindowInsetsCompat$Impl: void setStableInsets(androidx.core.graphics.Insets)
+androidx.appcompat.view.menu.ListMenuItemView: void setChecked(boolean)
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api34Impl: boolean isAccessibilityDataSensitive(android.view.accessibility.AccessibilityNodeInfo)
+io.flutter.embedding.engine.FlutterJNI: void onVsync(long,long,long)
+androidx.window.layout.util.ContextCompatHelperApi30: androidx.core.view.WindowInsetsCompat currentWindowInsets(android.content.Context)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPostResumed(android.app.Activity)
+androidx.window.area.reflectionguard.WindowAreaComponentApi3Requirements: void removeRearDisplayPresentationStatusListener(androidx.window.extensions.core.util.function.Consumer)
+androidx.appcompat.widget.ActivityChooserView$InnerLayout: ActivityChooserView$InnerLayout(android.content.Context,android.util.AttributeSet)
+androidx.appcompat.widget.SwitchCompat: void setThumbTintList(android.content.res.ColorStateList)
+androidx.preference.Preference: Preference(android.content.Context,android.util.AttributeSet)
+io.flutter.view.AccessibilityViewEmbedder: boolean onAccessibilityHoverEvent(int,android.view.MotionEvent)
+androidx.recyclerview.widget.RecyclerView: int getScrollState()
+androidx.preference.internal.PreferenceImageView: int getMaxHeight()
+androidx.appcompat.widget.AppCompatImageButton: void setBackgroundDrawable(android.graphics.drawable.Drawable)
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: SurfaceTextureWrapper(android.graphics.SurfaceTexture,java.lang.Runnable)
+io.flutter.embedding.engine.FlutterJNI: void nativeImageHeaderCallback(long,int,int)
+androidx.appcompat.widget.AppCompatImageButton: void setSupportBackgroundTintList(android.content.res.ColorStateList)
+androidx.appcompat.widget.SearchView$SearchAutoComplete: void setImeVisibility(boolean)
+android.support.wearable.view.drawer.PageIndicatorView: boolean getDotFadeWhenIdle()
+androidx.window.area.reflectionguard.WindowAreaComponentApi3Requirements: android.util.DisplayMetrics getRearDisplayMetrics()
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: void cleanup()
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: android.media.ImageReader createImageReader33()
+androidx.core.view.ViewCompat$Api21Impl$1: ViewCompat$Api21Impl$1(android.view.View,androidx.core.view.OnApplyWindowInsetsListener)
+android.support.wearable.watchface.decomposition.FontComponent$Builder: FontComponent$Builder()
+android.support.wearable.complications.rendering.ComplicationDrawable: void setRangedValuePrimaryColorAmbient(int)
+kotlinx.coroutines.android.AndroidDispatcherFactory: java.lang.String hintOnError()
+io.flutter.view.TextureRegistry$ImageConsumer: android.media.Image acquireLatestImage()
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api33Impl: void setUniqueId(android.view.accessibility.AccessibilityNodeInfo,java.lang.String)
+android.support.wearable.view.ActionLabel: float getLineSpacingMultiplier()
+androidx.lifecycle.ProcessLifecycleOwner$attach$1: void onActivityPaused(android.app.Activity)
+androidx.recyclerview.widget.RecyclerView: androidx.recyclerview.widget.RecyclerView$Adapter getAdapter()
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VGroup: float getPivotY()
+androidx.core.widget.TextViewCompat$Api28Impl: android.text.PrecomputedText$Params getTextMetricsParams(android.widget.TextView)
+io.flutter.embedding.engine.FlutterJNI: void markTextureFrameAvailable(long)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: void finalize()
+androidx.appcompat.widget.AppCompatImageView: void setSupportImageTintMode(android.graphics.PorterDuff$Mode)
+androidx.core.view.WindowInsetsCompat$Impl20: WindowInsetsCompat$Impl20(androidx.core.view.WindowInsetsCompat,androidx.core.view.WindowInsetsCompat$Impl20)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageTextureRegistryEntry: void release()
+io.flutter.embedding.engine.FlutterJNI: android.graphics.Bitmap nativeGetBitmap(long)
+io.flutter.embedding.engine.plugins.lifecycle.HiddenLifecycleReference: androidx.lifecycle.Lifecycle getLifecycle()
+androidx.core.view.WindowInsetsCompat$Impl20: void copyRootViewBounds(android.view.View)
+androidx.appcompat.widget.SearchView: void setOnQueryTextListener(androidx.appcompat.widget.SearchView$OnQueryTextListener)
+android.support.wearable.view.CircularButton: void setColor(android.content.res.ColorStateList)
+androidx.core.view.ViewCompat$Api21Impl: void setElevation(android.view.View,float)
+android.support.wearable.complications.rendering.ComplicationDrawable: void setBorderDashWidthActive(int)
+androidx.appcompat.widget.ActionBarContextView: void setSubtitle(java.lang.CharSequence)
+androidx.appcompat.widget.LinearLayoutCompat: float getWeightSum()
+io.flutter.view.TextureRegistry$SurfaceProducer: int getHeight()
+androidx.core.view.WindowInsetsCompat$Impl21: boolean isConsumed()
+androidx.core.view.WindowInsetsCompat$BuilderImpl20: void setStableInsets(androidx.core.graphics.Insets)
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: void detachFromGLContext()
+androidx.core.content.ContextCompat$Api21Impl: android.graphics.drawable.Drawable getDrawable(android.content.Context,int)
+androidx.wear.widget.drawer.PageIndicatorView: void setDotColorSelected(int)
+com.mjohnsullivan.flutterwear.wear.WearPlugin: void onCreate()
+androidx.core.view.WindowInsetsCompat$Impl29: void setStableInsets(androidx.core.graphics.Insets)
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorView: android.graphics.Matrix getPlatformViewMatrix()
+io.flutter.embedding.engine.FlutterJNI: void registerImageTexture(long,io.flutter.view.TextureRegistry$ImageConsumer)
+androidx.appcompat.widget.AppCompatTextView: void setTextClassifier(android.view.textclassifier.TextClassifier)
+androidx.core.view.WindowInsetsCompat$Impl20: WindowInsetsCompat$Impl20(androidx.core.view.WindowInsetsCompat,android.view.WindowInsets)
+androidx.window.layout.adapter.sidecar.DistinctElementSidecarCallback: void onDeviceStateChanged(androidx.window.sidecar.SidecarDeviceState)
+androidx.wear.widget.CircledImageView: void setImageResource(int)
+androidx.core.graphics.drawable.IconCompat$Api26Impl: android.graphics.drawable.Drawable createAdaptiveIconDrawable(android.graphics.drawable.Drawable,android.graphics.drawable.Drawable)
+androidx.appcompat.widget.ContentFrameLayout: android.util.TypedValue getFixedHeightMinor()
+android.support.wearable.complications.rendering.ComplicationDrawable: void setBorderWidthActive(int)
+androidx.appcompat.widget.AppCompatImageButton: void setSupportImageTintMode(android.graphics.PorterDuff$Mode)
+androidx.core.view.WindowInsetsCompat$Impl21: androidx.core.view.WindowInsetsCompat consumeSystemWindowInsets()
+androidx.core.view.ViewCompat$Api21Impl: void setTranslationZ(android.view.View,float)
+androidx.appcompat.widget.ActionMenuView: ActionMenuView(android.content.Context,android.util.AttributeSet)
+androidx.appcompat.widget.SearchView: java.lang.CharSequence getQuery()
+android.support.wearable.view.drawer.PageIndicatorView: int getDotFadeOutDuration()
+androidx.recyclerview.widget.RecyclerView: void setOnScrollListener(androidx.recyclerview.widget.RecyclerView$OnScrollListener)
+androidx.core.widget.PopupWindowCompat$Api23Impl: int getWindowLayoutType(android.widget.PopupWindow)
+androidx.appcompat.view.menu.ListMenuItemView: void setGroupDividerEnabled(boolean)
+io.flutter.embedding.engine.FlutterJNI: void removeEngineLifecycleListener(io.flutter.embedding.engine.FlutterEngine$EngineLifecycleListener)
+android.support.wearable.complications.rendering.ComplicationDrawable: void setTitleColorAmbient(int)
+androidx.appcompat.widget.Toolbar: void setSubtitle(int)
+androidx.appcompat.widget.Toolbar: void setLogoDescription(int)
+androidx.core.view.WindowInsetsCompat$BuilderImpl29: WindowInsetsCompat$BuilderImpl29(androidx.core.view.WindowInsetsCompat)
+androidx.core.view.WindowInsetsCompat$Impl20: void copyWindowDataInto(androidx.core.view.WindowInsetsCompat)
+androidx.appcompat.widget.Toolbar: android.graphics.drawable.Drawable getOverflowIcon()
+androidx.core.widget.TextViewCompat$Api23Impl: int getBreakStrategy(android.widget.TextView)
+io.flutter.embedding.android.FlutterActivityLaunchConfigs$BackgroundMode: io.flutter.embedding.android.FlutterActivityLaunchConfigs$BackgroundMode[] values()
+androidx.datastore.preferences.protobuf.JavaType: androidx.datastore.preferences.protobuf.JavaType[] values()
+io.flutter.plugin.platform.SingleViewPresentation: io.flutter.plugin.platform.SingleViewPresentation$PresentationState detachState()
+androidx.core.app.RemoteActionCompat: RemoteActionCompat()
+androidx.core.view.ViewCompat$Api26Impl: boolean isFocusedByDefault(android.view.View)
+androidx.datastore.preferences.protobuf.JavaType: androidx.datastore.preferences.protobuf.JavaType valueOf(java.lang.String)
+io.flutter.view.TextureRegistry$SurfaceTextureEntry: android.graphics.SurfaceTexture surfaceTexture()
+io.flutter.embedding.engine.FlutterJNI: void scheduleFrame()
+io.flutter.embedding.engine.systemchannels.LifecycleChannel$AppLifecycleState: io.flutter.embedding.engine.systemchannels.LifecycleChannel$AppLifecycleState valueOf(java.lang.String)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: void maybeWaitOnFence(android.media.Image)
+io.flutter.embedding.engine.FlutterJNI: boolean isCodePointRegionalIndicator(int)
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack$FlutterMutatorType: io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack$FlutterMutatorType[] values()
+android.support.wearable.complications.rendering.ComplicationDrawable: void setTitleSizeAmbient(int)
+io.flutter.embedding.engine.FlutterJNI: void updateCustomAccessibilityActions(java.nio.ByteBuffer,java.lang.String[])
+android.support.wearable.view.ActionPage: void setStateListAnimator(android.animation.StateListAnimator)
+io.flutter.embedding.engine.FlutterJNI: void onSurfaceDestroyed()
+androidx.appcompat.view.menu.ListMenuItemView: void setSubMenuArrowVisible(boolean)
+androidx.core.view.ViewCompat$Api21Impl: boolean isNestedScrollingEnabled(android.view.View)
+io.flutter.plugin.platform.SingleViewPresentation: SingleViewPresentation(android.content.Context,android.view.Display,io.flutter.plugin.platform.AccessibilityEventsDelegate,io.flutter.plugin.platform.SingleViewPresentation$PresentationState,android.view.View$OnFocusChangeListener,boolean)
+io.flutter.embedding.engine.FlutterJNI: void addIsDisplayingFlutterUiListener(io.flutter.embedding.engine.renderer.FlutterUiDisplayListener)
+androidx.viewpager.widget.ViewPager: void setPageMarginDrawable(int)
+io.flutter.embedding.engine.FlutterJNI: void setAccessibilityDelegate(io.flutter.embedding.engine.FlutterJNI$AccessibilityDelegate)
+io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiMode: io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiMode valueOf(java.lang.String)
+io.flutter.plugin.platform.SingleViewPresentation: SingleViewPresentation(android.content.Context,android.view.Display,io.flutter.plugin.platform.PlatformView,io.flutter.plugin.platform.AccessibilityEventsDelegate,int,android.view.View$OnFocusChangeListener)
+android.support.wearable.complications.rendering.ComplicationDrawable: int describeContents()
+android.support.wearable.complications.rendering.ComplicationDrawable: void setTextTypefaceAmbient(android.graphics.Typeface)
+android.support.wearable.view.CircledImageView: void setProgress(float)
+io.flutter.view.TextureRegistry$SurfaceTextureEntry: void setOnTrimMemoryListener(io.flutter.view.TextureRegistry$OnTrimMemoryListener)
+androidx.appcompat.widget.SwitchCompat: void setThumbTintMode(android.graphics.PorterDuff$Mode)
+android.support.wearable.complications.rendering.ComplicationDrawable: ComplicationDrawable(android.support.wearable.complications.rendering.ComplicationDrawable)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: int numTrims()
+android.support.wearable.view.CircledImageView: void setCircleHidden(boolean)
+io.flutter.embedding.engine.FlutterJNI: void setAccessibilityFeatures(int)
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event[] values()
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api34Impl: void setRequestInitialAccessibilityFocus(android.view.accessibility.AccessibilityNodeInfo,boolean)
+io.flutter.view.TextureRegistry$SurfaceTextureEntry: long id()
+android.support.wearable.complications.rendering.ComplicationDrawable: void setImageColorFilterAmbient(android.graphics.ColorFilter)
+androidx.profileinstaller.ProfileInstallerInitializer$Choreographer16Impl: void postFrameCallback(java.lang.Runnable)
+io.flutter.embedding.engine.FlutterJNI: void notifyLowMemoryWarning()
+android.support.wearable.view.CircledImageView: android.content.res.ColorStateList getCircleColorStateList()
+androidx.core.view.WindowInsetsCompat$BuilderImpl: void setSystemWindowInsets(androidx.core.graphics.Insets)
+androidx.appcompat.widget.AppCompatImageButton: android.content.res.ColorStateList getSupportBackgroundTintList()
+io.flutter.embedding.android.FlutterImageView: android.media.ImageReader getImageReader()
+androidx.appcompat.widget.ActionBarContextView: java.lang.CharSequence getTitle()
+androidx.recyclerview.widget.RecyclerView: void setRecyclerListener(androidx.recyclerview.widget.RecyclerView$RecyclerListener)
+io.flutter.embedding.engine.FlutterJNI: FlutterJNI()
+io.flutter.embedding.engine.FlutterJNI: void onBeginFrame()
+io.flutter.embedding.engine.FlutterJNI: void dispatchPointerDataPacket(java.nio.ByteBuffer,int)
+androidx.core.widget.NestedScrollView: int getMaxScrollAmount()
+androidx.core.content.ContextCompat$Api21Impl: java.io.File getNoBackupFilesDir(android.content.Context)
+android.support.wearable.view.CircledImageView: void setCircleBorderWidth(float)
+androidx.recyclerview.widget.RecyclerView: androidx.recyclerview.widget.RecyclerView$LayoutManager getLayoutManager()
+androidx.core.content.res.ResourcesCompat$Api21Impl: android.graphics.drawable.Drawable getDrawable(android.content.res.Resources,int,android.content.res.Resources$Theme)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VGroup: void setPivotX(float)
+io.flutter.embedding.engine.FlutterJNI: void onDisplayOverlaySurface(int,int,int,int,int)
+androidx.core.view.WindowInsetsCompat$Impl29: WindowInsetsCompat$Impl29(androidx.core.view.WindowInsetsCompat,android.view.WindowInsets)
+android.support.v4.graphics.drawable.IconCompatParcelizer: void write(androidx.core.graphics.drawable.IconCompat,androidx.versionedparcelable.VersionedParcel)
+androidx.window.area.reflectionguard.WindowAreaComponentApi2Requirements: void removeRearDisplayStatusListener(androidx.window.extensions.core.util.function.Consumer)
+androidx.core.view.ViewCompat$Api21Impl: void setTransitionName(android.view.View,java.lang.String)
+io.flutter.embedding.engine.systemchannels.SettingsChannel$PlatformBrightness: io.flutter.embedding.engine.systemchannels.SettingsChannel$PlatformBrightness[] values()
+androidx.startup.InitializationProvider: InitializationProvider()
+androidx.recyclerview.widget.RecyclerView: androidx.recyclerview.widget.RecyclerView$ItemAnimator getItemAnimator()
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api33Impl: java.lang.String getCollectionItemRowTitle(java.lang.Object)
+io.flutter.view.FlutterCallbackInformation: io.flutter.view.FlutterCallbackInformation lookupCallbackInformation(long)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: int getWidth()
+androidx.appcompat.widget.ActionBarOverlayLayout: void setWindowTitle(java.lang.CharSequence)
+androidx.datastore.preferences.protobuf.ProtoSyntax: androidx.datastore.preferences.protobuf.ProtoSyntax[] values()
+io.flutter.embedding.engine.FlutterJNI: void ensureNotAttachedToNative()
+io.flutter.embedding.engine.FlutterJNI: void registerTexture(long,io.flutter.embedding.engine.renderer.SurfaceTextureWrapper)
+androidx.core.view.ViewCompat$Api26Impl: android.view.autofill.AutofillId getAutofillId(android.view.View)
+androidx.viewpager.widget.ViewPager: void setScrollState(int)
+androidx.viewpager.widget.ViewPager: void setCurrentItem(int)
+kotlinx.coroutines.flow.SharingCommand: kotlinx.coroutines.flow.SharingCommand[] values()
+androidx.appcompat.widget.Toolbar: void setSubtitleTextColor(android.content.res.ColorStateList)
+androidx.core.view.WindowInsetsCompat$BuilderImpl: void setStableInsets(androidx.core.graphics.Insets)
+io.flutter.plugins.GeneratedPluginRegistrant: GeneratedPluginRegistrant()
+io.flutter.view.TextureRegistry$SurfaceTextureEntry$-CC: void $default$setOnTrimMemoryListener(io.flutter.view.TextureRegistry$SurfaceTextureEntry,io.flutter.view.TextureRegistry$OnTrimMemoryListener)
+androidx.core.widget.PopupWindowCompat$Api23Impl: void setOverlapAnchor(android.widget.PopupWindow,boolean)
+androidx.appcompat.widget.Toolbar: android.view.Menu getMenu()
+io.flutter.view.FlutterCallbackInformation: FlutterCallbackInformation(java.lang.String,java.lang.String,java.lang.String)
+androidx.appcompat.view.menu.ActionMenuItemView: void setItemInvoker(androidx.appcompat.view.menu.MenuBuilder$ItemInvoker)
+android.support.wearable.complications.rendering.ComplicationDrawable: void setIconColorActive(int)
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: void pushTransform(float[])
+androidx.appcompat.widget.AppCompatTextView: int getAutoSizeStepGranularity()
+io.flutter.embedding.engine.FlutterJNI: void handlePlatformMessageResponse(int,java.nio.ByteBuffer)
+androidx.appcompat.widget.AppCompatTextView: void setLineHeight(int)
+androidx.core.widget.ImageViewCompat$Api21Impl: void setImageTintMode(android.widget.ImageView,android.graphics.PorterDuff$Mode)
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: FlutterMutatorsStack()
+io.flutter.embedding.engine.systemchannels.PlatformChannel$HapticFeedbackType: io.flutter.embedding.engine.systemchannels.PlatformChannel$HapticFeedbackType valueOf(java.lang.String)
+android.support.wearable.complications.rendering.ComplicationDrawable: void inflate(android.content.res.Resources,org.xmlpull.v1.XmlPullParser,android.util.AttributeSet,android.content.res.Resources$Theme)
+androidx.core.widget.TextViewCompat$Api23Impl: int getHyphenationFrequency(android.widget.TextView)
+io.flutter.embedding.engine.FlutterOverlaySurface: android.view.Surface getSurface()
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: android.graphics.SurfaceTexture surfaceTexture()
+android.support.wearable.view.ActionLabel: int getGravity()
+androidx.appcompat.widget.LinearLayoutCompat: int getVirtualChildCount()
+androidx.appcompat.widget.ActionBarContainer: void setSplitBackground(android.graphics.drawable.Drawable)
+androidx.core.view.ViewCompat$Api30Impl: void setImportantForContentCapture(android.view.View,int)
+androidx.core.view.DisplayCutoutCompat$Api28Impl: int getSafeInsetBottom(android.view.DisplayCutout)
+androidx.appcompat.widget.Toolbar: void setTitleMarginStart(int)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: void setSize(int,int)
+androidx.appcompat.widget.AppCompatTextView: android.graphics.PorterDuff$Mode getSupportBackgroundTintMode()
+androidx.appcompat.widget.SwitchCompat: java.lang.CharSequence getTextOff()
+io.flutter.embedding.engine.systemchannels.PlatformChannel$DeviceOrientation: io.flutter.embedding.engine.systemchannels.PlatformChannel$DeviceOrientation[] values()
+androidx.core.widget.EdgeEffectCompat$Api31Impl: android.widget.EdgeEffect create(android.content.Context,android.util.AttributeSet)
+androidx.preference.SeekBarPreference: SeekBarPreference(android.content.Context,android.util.AttributeSet)
+androidx.core.view.MenuItemCompat$Api26Impl: android.view.MenuItem setTooltipText(android.view.MenuItem,java.lang.CharSequence)
+androidx.wear.widget.CircledImageView: android.content.res.ColorStateList getCircleColorStateList()
+androidx.core.view.WindowInsetsCompat$Impl: WindowInsetsCompat$Impl(androidx.core.view.WindowInsetsCompat)
+io.flutter.embedding.engine.FlutterJNI: void setDeferredComponentManager(io.flutter.embedding.engine.deferredcomponents.DeferredComponentManager)
+androidx.appcompat.widget.AppCompatTextView: void setBackgroundDrawable(android.graphics.drawable.Drawable)
+androidx.wear.widget.drawer.PageIndicatorView: void setDotFadeWhenIdle(boolean)
+androidx.lifecycle.EmptyActivityLifecycleCallbacks: void onActivityDestroyed(android.app.Activity)
+androidx.appcompat.widget.ActionMenuView: void setOverflowIcon(android.graphics.drawable.Drawable)
+androidx.wear.widget.CircledImageView: void setCircleRadiusPercent(float)
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api34Impl: android.view.accessibility.AccessibilityNodeInfo$AccessibilityAction getActionScrollInDirection()
+androidx.core.view.ViewCompat$Api28Impl: boolean isScreenReaderFocusable(android.view.View)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VFullPath: void setTrimPathStart(float)
+androidx.wear.widget.drawer.PageIndicatorView: int getDotFadeOutDuration()
+androidx.appcompat.widget.SwitchCompat: void setSwitchMinWidth(int)
+io.flutter.embedding.engine.systemchannels.SettingsChannel$PlatformBrightness: io.flutter.embedding.engine.systemchannels.SettingsChannel$PlatformBrightness valueOf(java.lang.String)
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api34Impl: boolean hasRequestInitialAccessibilityFocus(android.view.accessibility.AccessibilityNodeInfo)
+androidx.appcompat.view.menu.ActionMenuItemView: void setExpandedFormat(boolean)
+androidx.core.view.MenuItemCompat$Api26Impl: android.content.res.ColorStateList getIconTintList(android.view.MenuItem)
+androidx.wear.widget.drawer.PageIndicatorView: PageIndicatorView(android.content.Context,android.util.AttributeSet)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VGroup: void setRotation(float)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VPathRenderer: void setAlpha(float)
+androidx.appcompat.widget.ActionMenuView: int getWindowAnimations()
+androidx.core.widget.NestedScrollView: void setNestedScrollingEnabled(boolean)
+androidx.lifecycle.ProcessLifecycleOwner$attach$1$onActivityPreCreated$1: void onActivityPostResumed(android.app.Activity)
+androidx.core.widget.ImageViewCompat$Api21Impl: android.graphics.PorterDuff$Mode getImageTintMode(android.widget.ImageView)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer$PerImageReader access$700(io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.WindowInsetsAnimation$Callback getAnimationCallback()
+android.support.wearable.view.ActionPage: void setColor(int)
+io.flutter.view.AccessibilityBridge$TextDirection: io.flutter.view.AccessibilityBridge$TextDirection[] values()
+io.flutter.plugin.platform.SingleViewPresentation: void onCreate(android.os.Bundle)
+androidx.appcompat.widget.Toolbar: android.graphics.drawable.Drawable getNavigationIcon()
+android.support.wearable.complications.rendering.ComplicationDrawable: void setIsHighlighted(boolean)
+io.flutter.embedding.engine.systemchannels.PlatformViewsChannel$PlatformViewCreationRequest$RequestedDisplayMode: io.flutter.embedding.engine.systemchannels.PlatformViewsChannel$PlatformViewCreationRequest$RequestedDisplayMode[] values()
+android.support.v4.graphics.drawable.IconCompatParcelizer: IconCompatParcelizer()
+androidx.viewpager.widget.ViewPager: void setOnPageChangeListener(androidx.viewpager.widget.ViewPager$OnPageChangeListener)
+io.flutter.embedding.engine.FlutterJNI: boolean getIsSoftwareRenderingEnabled()
+android.support.wearable.view.CircularButton: void setBackgroundDrawable(android.graphics.drawable.Drawable)
+io.flutter.embedding.engine.FlutterJNI: boolean nativeFlutterTextUtilsIsEmojiModifierBase(int)
+androidx.appcompat.widget.LinearLayoutCompat: void setVerticalGravity(int)
+io.flutter.embedding.android.FlutterView: io.flutter.embedding.engine.FlutterEngine getAttachedFlutterEngine()
+android.support.wearable.complications.rendering.ComplicationDrawable: void onBoundsChange(android.graphics.Rect)
+androidx.appcompat.widget.ViewStubCompat: void setInflatedId(int)
+android.support.wearable.view.CircularButton: android.graphics.drawable.Drawable getImageDrawable()
+io.flutter.embedding.engine.FlutterJNI: void dispatchEmptyPlatformMessage(java.lang.String,int)
+android.support.wearable.view.drawer.PageIndicatorView: PageIndicatorView(android.content.Context,android.util.AttributeSet)
+androidx.appcompat.widget.ActionBarContainer: void setTabContainer(androidx.appcompat.widget.ScrollingTabContainerView)
+androidx.appcompat.widget.Toolbar: int getContentInsetEndWithActions()
+android.support.wearable.view.CircledImageView: void setCircleColorStateList(android.content.res.ColorStateList)
+androidx.core.view.ViewCompat$Api28Impl: java.lang.CharSequence getAccessibilityPaneTitle(android.view.View)
+kotlin.collections.AbstractList: AbstractList()
+androidx.datastore.preferences.protobuf.GeneratedMessageLite$MethodToInvoke: androidx.datastore.preferences.protobuf.GeneratedMessageLite$MethodToInvoke valueOf(java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: void deferredComponentInstallFailure(int,java.lang.String,boolean)
+kotlinx.coroutines.flow.SharingCommand: kotlinx.coroutines.flow.SharingCommand valueOf(java.lang.String)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: void onTrimMemory(int)
+androidx.datastore.preferences.protobuf.WireFormat$JavaType: androidx.datastore.preferences.protobuf.WireFormat$JavaType valueOf(java.lang.String)
+androidx.core.view.ViewCompat$Api21Impl: boolean startNestedScroll(android.view.View,int)
+androidx.appcompat.widget.ActionBarOverlayLayout: void setHasNonEmbeddedTabs(boolean)
+androidx.wear.widget.drawer.PageIndicatorView: void setDotRadius(int)
+android.support.wearable.complications.rendering.ComplicationDrawable: void setRangedValueSecondaryColorAmbient(int)
+androidx.appcompat.widget.Toolbar: android.view.MenuInflater getMenuInflater()
+androidx.appcompat.widget.ActionBarOverlayLayout: void setIcon(android.graphics.drawable.Drawable)
+android.support.wearable.view.ActionPage: void setText(java.lang.CharSequence)
+androidx.appcompat.widget.ActionBarOverlayLayout: void setOverlayMode(boolean)
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: void getTransformMatrix(float[])
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: boolean access$302(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback,boolean)
+android.support.wearable.view.ActionLabel: void setTextColor(android.content.res.ColorStateList)
+androidx.core.graphics.drawable.IconCompat$Api28Impl: android.net.Uri getUri(java.lang.Object)
+android.support.wearable.view.CircledImageView: float getCircleRadiusPressedPercent()
+io.flutter.view.AccessibilityBridge$AccessibilityFeature: io.flutter.view.AccessibilityBridge$AccessibilityFeature valueOf(java.lang.String)
+androidx.appcompat.widget.MenuPopupWindow$MenuDropDownListView: void setSelector(android.graphics.drawable.Drawable)
+androidx.window.layout.adapter.sidecar.DistinctElementSidecarCallback: void onWindowLayoutChanged(android.os.IBinder,androidx.window.sidecar.SidecarWindowLayoutInfo)
+androidx.appcompat.widget.Toolbar: int getContentInsetStartWithNavigation()
+androidx.core.view.ViewCompat$Api28Impl: void setAutofillId(android.view.View,androidx.core.view.autofill.AutofillIdCompat)
+androidx.core.view.WindowInsetsCompat$Impl30: void copyRootViewBounds(android.view.View)
+android.support.wearable.view.drawer.PageIndicatorView: void setDotColorSelected(int)
+kotlinx.coroutines.scheduling.CoroutineScheduler$WorkerState: kotlinx.coroutines.scheduling.CoroutineScheduler$WorkerState[] values()
+androidx.appcompat.widget.AppCompatTextView: java.lang.CharSequence getText()
+androidx.lifecycle.ProcessLifecycleInitializer: ProcessLifecycleInitializer()
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VGroup: float getPivotX()
+kotlin.collections.AbstractMutableList: AbstractMutableList()
+io.flutter.view.AccessibilityViewEmbedder: AccessibilityViewEmbedder(android.view.View,int)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VFullPath: int getFillColor()
+androidx.appcompat.widget.SearchView: java.lang.CharSequence getQueryHint()
+androidx.core.graphics.drawable.DrawableCompat$Api21Impl: void applyTheme(android.graphics.drawable.Drawable,android.content.res.Resources$Theme)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.View access$402(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback,android.view.View)
+androidx.appcompat.view.menu.ExpandedMenuView: int getWindowAnimations()
+io.flutter.embedding.android.FlutterImageView: io.flutter.embedding.engine.renderer.FlutterRenderer getAttachedRenderer()
+androidx.core.widget.NestedScrollView: float getBottomFadingEdgeStrength()
+androidx.core.widget.TextViewCompat$Api23Impl: void setCompoundDrawableTintMode(android.widget.TextView,android.graphics.PorterDuff$Mode)
+androidx.appcompat.widget.SearchView: void setAppSearchData(android.os.Bundle)
+androidx.core.view.WindowInsetsCompat$BuilderImpl: WindowInsetsCompat$BuilderImpl()
+androidx.recyclerview.widget.RecyclerView: boolean getClipToPadding()
+android.support.wearable.complications.rendering.ComplicationDrawable: void setImageColorFilterActive(android.graphics.ColorFilter)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VFullPath: void setStrokeColor(int)
+androidx.wear.widget.drawer.PageIndicatorView: int getDotShadowColor()
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageTextureRegistryEntry: long id()
+androidx.core.graphics.drawable.IconCompat$Api26Impl: android.graphics.drawable.Icon createWithAdaptiveBitmap(android.graphics.Bitmap)
+androidx.core.widget.NestedScrollView: float getTopFadingEdgeStrength()
+io.flutter.embedding.engine.renderer.FlutterRenderer$DisplayFeatureType: io.flutter.embedding.engine.renderer.FlutterRenderer$DisplayFeatureType[] values()
+androidx.appcompat.widget.ActionBarContextView: int getContentHeight()
+androidx.appcompat.view.menu.ListMenuItemView: void setTitle(java.lang.CharSequence)
+androidx.appcompat.widget.Toolbar: int getTitleMarginBottom()
+android.support.wearable.complications.rendering.ComplicationDrawable: void setBurnInProtection(boolean)
+io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiOverlay: io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiOverlay[] values()
+androidx.appcompat.widget.Toolbar: int getTitleMarginStart()
+io.flutter.plugin.platform.PlatformViewWrapper: android.view.ViewTreeObserver$OnGlobalFocusChangeListener getActiveFocusListener()
+android.support.wearable.view.CircledImageView: float getCircleRadiusPercent()
+androidx.tracing.TraceApi29Impl: boolean isEnabled()
+androidx.core.graphics.Insets$Api29Impl: android.graphics.Insets of(int,int,int,int)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: FlutterRenderer$ImageReaderSurfaceProducer(io.flutter.embedding.engine.renderer.FlutterRenderer,long)
+androidx.appcompat.widget.SearchView$SearchAutoComplete: SearchView$SearchAutoComplete(android.content.Context,android.util.AttributeSet)
+androidx.core.widget.TextViewCompat$Api23Impl: void setBreakStrategy(android.widget.TextView,int)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VGroup: float getTranslateX()
+androidx.appcompat.widget.AppCompatTextView: void setLastBaselineToBottomHeight(int)
+androidx.appcompat.widget.ContentFrameLayout: android.util.TypedValue getFixedHeightMajor()
+androidx.core.view.ViewCompat$Api21Impl: boolean dispatchNestedFling(android.view.View,float,float,boolean)
+androidx.appcompat.widget.Toolbar: int getCurrentContentInsetStart()
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: ImeSyncDeferringInsetsCallback(android.view.View)
+io.flutter.embedding.engine.FlutterJNI: boolean nativeFlutterTextUtilsIsRegionalIndicator(int)
+io.flutter.view.AccessibilityBridge$StringAttributeType: io.flutter.view.AccessibilityBridge$StringAttributeType[] values()
+androidx.appcompat.widget.ViewStubCompat: int getInflatedId()
+androidx.core.view.WindowInsetsCompat$BuilderImpl: WindowInsetsCompat$BuilderImpl(androidx.core.view.WindowInsetsCompat)
+androidx.appcompat.widget.ActionBarContainer: void setTransitioning(boolean)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VFullPath: void setTrimPathEnd(float)
+io.flutter.embedding.engine.FlutterJNI: void cleanupMessageData(long)
+androidx.appcompat.widget.AppCompatTextView: void setCustomSelectionActionModeCallback(android.view.ActionMode$Callback)
+androidx.wear.widget.drawer.PageIndicatorView: boolean getDotFadeWhenIdle()
+androidx.recyclerview.widget.RecyclerView: void setOnFlingListener(androidx.recyclerview.widget.RecyclerView$OnFlingListener)
+io.flutter.view.AccessibilityViewEmbedder: android.view.accessibility.AccessibilityNodeInfo createAccessibilityNodeInfo(int)
+io.flutter.embedding.engine.FlutterJNI: void nativeCleanupMessageData(long)
+io.flutter.embedding.engine.FlutterJNI: void dispatchPlatformMessage(java.lang.String,java.nio.ByteBuffer,int,int)
+androidx.core.view.ViewCompat$Api26Impl: int getNextClusterForwardId(android.view.View)
+androidx.recyclerview.widget.RecyclerView: void setEdgeEffectFactory(androidx.recyclerview.widget.RecyclerView$EdgeEffectFactory)
+androidx.appcompat.widget.SearchView$SearchAutoComplete: void setSearchView(androidx.appcompat.widget.SearchView)
+android.support.wearable.view.drawer.PageIndicatorView: void setPagerAdapter(androidx.viewpager.widget.PagerAdapter)
+androidx.appcompat.widget.AppCompatAutoCompleteTextView: void setBackgroundResource(int)
+androidx.core.view.ViewParentCompat$Api21Impl: boolean onNestedFling(android.view.ViewParent,android.view.View,float,float,boolean)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VGroup: android.graphics.Matrix getLocalMatrix()
+androidx.wear.widget.drawer.PageIndicatorView: float getDotShadowDx()
+androidx.appcompat.widget.AppCompatImageButton: void setImageURI(android.net.Uri)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VFullPath: int getStrokeColor()
+android.support.wearable.view.CircledImageView: void setCircleBorderCap(android.graphics.Paint$Cap)
+androidx.core.view.ViewParentCompat$Api21Impl: void onStopNestedScroll(android.view.ViewParent,android.view.View)
+androidx.appcompat.widget.ActionMenuView: int getPopupTheme()
+io.flutter.view.AccessibilityViewEmbedder: boolean requestSendAccessibilityEvent(android.view.View,android.view.View,android.view.accessibility.AccessibilityEvent)
+androidx.wear.widget.CircledImageView: void setShadowVisibility(float)
+androidx.appcompat.widget.SwitchCompat: void setTrackResource(int)
+androidx.recyclerview.widget.RecyclerView: int getMaxFlingVelocity()
+androidx.core.graphics.drawable.IconCompatParcelizer: androidx.core.graphics.drawable.IconCompat read(androidx.versionedparcelable.VersionedParcel)
+androidx.core.widget.TextViewCompat$Api24Impl: android.icu.text.DecimalFormatSymbols getInstance(java.util.Locale)
+androidx.viewpager.widget.ViewPager: void setAdapter(androidx.viewpager.widget.PagerAdapter)
+androidx.wear.widget.CircledImageView: void setPressed(boolean)
+io.flutter.view.AccessibilityBridge$AccessibilityFeature: io.flutter.view.AccessibilityBridge$AccessibilityFeature[] values()
+androidx.core.content.ContextCompat$Api28Impl: java.util.concurrent.Executor getMainExecutor(android.content.Context)
+androidx.wear.widget.CircledImageView: void setImageCirclePercentage(float)
+androidx.core.view.WindowInsetsCompat$Impl20: androidx.core.graphics.Insets getInsetsForType(int,boolean)
+io.flutter.embedding.engine.FlutterJNI: void setLocalizationPlugin(io.flutter.plugin.localization.LocalizationPlugin)
+io.flutter.embedding.engine.FlutterJNI: io.flutter.embedding.engine.FlutterJNI nativeSpawn(long,java.lang.String,java.lang.String,java.lang.String,java.util.List)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: void remove()
+androidx.appcompat.widget.ContentFrameLayout: android.util.TypedValue getFixedWidthMinor()
+io.flutter.embedding.android.KeyData$Type: io.flutter.embedding.android.KeyData$Type[] values()
+io.flutter.view.TextureRegistry$SurfaceProducer: long id()
+androidx.wear.widget.CircledImageView: void setCircleBorderCap(android.graphics.Paint$Cap)
+io.flutter.embedding.engine.FlutterJNI: void nativeRegisterTexture(long,long,java.lang.ref.WeakReference)
+kotlin.time.DurationUnit: kotlin.time.DurationUnit valueOf(java.lang.String)
+io.flutter.embedding.android.FlutterSurfaceView: io.flutter.embedding.engine.renderer.FlutterRenderer getAttachedRenderer()
+android.support.wearable.view.drawer.PageIndicatorView: float getDotShadowDx()
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api33Impl: android.view.accessibility.AccessibilityNodeInfo$ExtraRenderingInfo getExtraRenderingInfo(android.view.accessibility.AccessibilityNodeInfo)
+androidx.core.graphics.drawable.IconCompat$Api28Impl: int getType(java.lang.Object)
+io.flutter.embedding.engine.FlutterJNI: void nativeDeferredComponentInstallFailure(int,java.lang.String,boolean)
+androidx.appcompat.widget.AppCompatTextView: android.content.res.ColorStateList getSupportCompoundDrawablesTintList()
+androidx.preference.PreferenceGroup: PreferenceGroup(android.content.Context,android.util.AttributeSet)
+androidx.appcompat.widget.ActionBarOverlayLayout: int getNestedScrollAxes()
+androidx.core.content.res.ResourcesCompat$Api21Impl: android.graphics.drawable.Drawable getDrawableForDensity(android.content.res.Resources,int,int,android.content.res.Resources$Theme)
+androidx.core.view.ViewCompat$Api28Impl: void setAccessibilityHeading(android.view.View,boolean)
+androidx.wear.widget.CircledImageView: float getCircleRadiusPercent()
+androidx.preference.EditTextPreference: EditTextPreference(android.content.Context,android.util.AttributeSet)
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: void attachToGLContext(int)
+android.support.wearable.complications.rendering.ComplicationDrawable: void draw(android.graphics.Canvas,long)
+androidx.wear.widget.drawer.PageIndicatorView: void setPager(androidx.viewpager.widget.ViewPager)
+android.support.wearable.view.drawer.PageIndicatorView: float getDotShadowRadius()
+androidx.appcompat.widget.ActionMenuView: void setOnMenuItemClickListener(androidx.appcompat.widget.ActionMenuView$OnMenuItemClickListener)
+androidx.wear.widget.drawer.PageIndicatorView: void setDotShadowDx(float)
+androidx.appcompat.widget.Toolbar: androidx.appcompat.widget.ActionMenuPresenter getOuterActionMenuPresenter()
+androidx.wear.widget.CircledImageView: void setCircleColor(int)
+androidx.core.view.ViewCompat$Api26Impl: void setFocusedByDefault(android.view.View,boolean)
+androidx.appcompat.widget.Toolbar: void setNavigationIcon(int)
+android.support.wearable.view.ActionLabel: android.graphics.Typeface getTypeface()
+io.flutter.view.TextureRegistry$ImageTextureEntry: long id()
+androidx.appcompat.widget.SearchView: androidx.cursoradapter.widget.CursorAdapter getSuggestionsAdapter()
+androidx.appcompat.widget.ActionBarOverlayLayout: void setUiOptions(int)
+androidx.appcompat.widget.SwitchCompat: int getThumbScrollRange()
+androidx.core.view.ViewCompat$Api28Impl: void addOnUnhandledKeyEventListener(android.view.View,androidx.core.view.ViewCompat$OnUnhandledKeyEventListenerCompat)
+android.support.wearable.view.CircledImageView: void setImageCirclePercentage(float)
+androidx.window.area.reflectionguard.WindowAreaComponentApi2Requirements: void addRearDisplayStatusListener(androidx.window.extensions.core.util.function.Consumer)
+androidx.core.view.ViewCompat$Api30Impl: java.lang.CharSequence getStateDescription(android.view.View)
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.view.WindowInsetsCompat consumeSystemWindowInsets()
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api34Impl: void setBoundsInWindow(android.view.accessibility.AccessibilityNodeInfo,android.graphics.Rect)
+androidx.core.view.WindowInsetsCompat$Impl28: androidx.core.view.DisplayCutoutCompat getDisplayCutout()
+androidx.appcompat.widget.Toolbar: void setTitleMarginTop(int)
+androidx.appcompat.widget.SwitchCompat: android.graphics.drawable.Drawable getThumbDrawable()
+kotlin.coroutines.intrinsics.CoroutineSingletons: kotlin.coroutines.intrinsics.CoroutineSingletons valueOf(java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: void nativeUpdateDisplayMetrics(long)
+androidx.core.app.RemoteActionCompatParcelizer: RemoteActionCompatParcelizer()
+android.support.wearable.complications.rendering.ComplicationDrawable: boolean isRangedValueProgressHidden()
+androidx.wear.widget.CircledImageView: void setCircleRadiusPressed(float)
+io.flutter.embedding.engine.FlutterJNI: void onSurfaceCreated(android.view.Surface)
+androidx.core.view.ViewCompat$Api23Impl: int getScrollIndicators(android.view.View)
+androidx.core.view.WindowInsetsCompat$Impl30: WindowInsetsCompat$Impl30(androidx.core.view.WindowInsetsCompat,androidx.core.view.WindowInsetsCompat$Impl30)
+androidx.window.layout.adapter.sidecar.SidecarCompat: void setExtensionCallback(androidx.window.layout.adapter.sidecar.ExtensionInterfaceCompat$ExtensionCallbackInterface)
+androidx.core.widget.PopupWindowCompat$Api23Impl: void setWindowLayoutType(android.widget.PopupWindow,int)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: int numImageReaders()
+io.flutter.embedding.engine.FlutterJNI: void nativeDispatchPointerDataPacket(long,java.nio.ByteBuffer,int)
+android.support.wearable.view.ActionPage: void setImageResource(int)
+androidx.window.core.VerificationMode: androidx.window.core.VerificationMode[] values()
+androidx.appcompat.widget.ActionBarContextView: void setTitleOptional(boolean)
+androidx.datastore.preferences.protobuf.FieldType: androidx.datastore.preferences.protobuf.FieldType valueOf(java.lang.String)
+androidx.core.widget.NestedScrollView: float getVerticalScrollFactorCompat()
+android.support.wearable.view.ObservableScrollView: void setOnScrollListener(android.support.wearable.view.ObservableScrollView$OnScrollListener)
+androidx.core.widget.TextViewCompat$Api23Impl: android.graphics.PorterDuff$Mode getCompoundDrawableTintMode(android.widget.TextView)
+androidx.appcompat.widget.ActionMenuView: void setPresenter(androidx.appcompat.widget.ActionMenuPresenter)
+androidx.core.view.ViewConfigurationCompat$Api28Impl: boolean shouldShowMenuShortcutsWhenKeyboardPresent(android.view.ViewConfiguration)
+androidx.appcompat.widget.ActionBarOverlayLayout: void setHideOnContentScrollEnabled(boolean)
+io.flutter.embedding.engine.FlutterJNI: void setPlatformMessageHandler(io.flutter.embedding.engine.dart.PlatformMessageHandler)
+android.support.v4.graphics.drawable.IconCompatParcelizer: androidx.core.graphics.drawable.IconCompat read(androidx.versionedparcelable.VersionedParcel)
+androidx.appcompat.widget.SearchView: void setMaxWidth(int)
+androidx.core.widget.TextViewCompat$Api28Impl: void setFirstBaselineToTopHeight(android.widget.TextView,int)
+androidx.core.view.ViewCompat$Api30Impl: void setStateDescription(android.view.View,java.lang.CharSequence)
+android.support.wearable.complications.rendering.ComplicationDrawable: void setCurrentTimeMillis(long)
+android.support.wearable.view.ActionLabel: android.content.res.ColorStateList getTextColors()
+androidx.recyclerview.widget.StaggeredGridLayoutManager: StaggeredGridLayoutManager(android.content.Context,android.util.AttributeSet,int,int)
+android.support.wearable.view.ActionLabel: void setText(java.lang.CharSequence)
+androidx.core.content.ContextCompat$Api21Impl: java.io.File getCodeCacheDir(android.content.Context)
+androidx.lifecycle.ProcessLifecycleOwner$attach$1: void onActivityCreated(android.app.Activity,android.os.Bundle)
+android.support.wearable.view.drawer.PageIndicatorView: void setDotFadeWhenIdle(boolean)
+androidx.core.view.ViewCompat$Api26Impl: void setNextClusterForwardId(android.view.View,int)
+androidx.core.view.ViewParentCompat$Api21Impl: void onNestedScroll(android.view.ViewParent,android.view.View,int,int,int,int)
+android.support.wearable.view.ActionPage: void setOnClickListener(android.view.View$OnClickListener)
+androidx.core.graphics.drawable.IconCompat$Api28Impl: int getResId(java.lang.Object)
+androidx.preference.SwitchPreference: SwitchPreference(android.content.Context,android.util.AttributeSet)
+androidx.appcompat.widget.SearchView: void setSubmitButtonEnabled(boolean)
+androidx.recyclerview.widget.RecyclerView: void setScrollingTouchSlop(int)
+androidx.wear.widget.drawer.PageIndicatorView: float getDotRadius()
+androidx.appcompat.app.AlertController$RecycleListView: AlertController$RecycleListView(android.content.Context,android.util.AttributeSet)
+androidx.appcompat.widget.LinearLayoutCompat: void setWeightSum(float)
+io.flutter.plugin.platform.PlatformViewWrapper: void setOnDescendantFocusChangeListener(android.view.View$OnFocusChangeListener)
+androidx.appcompat.widget.SearchView: void setQueryHint(java.lang.CharSequence)
+android.support.wearable.view.CircledImageView: int getDefaultCircleColor()
+androidx.lifecycle.ReportFragment: ReportFragment()
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api34Impl: void setAccessibilityDataSensitive(android.view.accessibility.AccessibilityNodeInfo,boolean)
+androidx.appcompat.widget.Toolbar: void setSubtitleTextColor(int)
+androidx.appcompat.widget.SearchView: int getInputType()
+androidx.recyclerview.widget.RecyclerView: boolean isLayoutSuppressed()
+androidx.core.widget.ImageViewCompat$Api21Impl: void setImageTintList(android.widget.ImageView,android.content.res.ColorStateList)
+android.support.wearable.watchface.decomposition.NumberComponent$1: NumberComponent$1()
+androidx.appcompat.widget.SearchView: void setIconified(boolean)
+androidx.appcompat.widget.ActionMenuView: android.view.Menu getMenu()
+android.support.wearable.view.CircledImageView: void setCircleRadiusPressedPercent(float)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VPath: androidx.core.graphics.PathParser$PathDataNode[] getPathData()
+io.flutter.embedding.engine.systemchannels.PlatformChannel$ClipboardContentFormat: io.flutter.embedding.engine.systemchannels.PlatformChannel$ClipboardContentFormat valueOf(java.lang.String)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VGroup: void setTranslateX(float)
+android.support.wearable.complications.rendering.ComplicationDrawable: void setInAmbientMode(boolean)
+android.support.wearable.complications.rendering.ComplicationDrawable: void setBorderColorActive(int)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityStarted(android.app.Activity)
+androidx.appcompat.widget.ActionMenuView: void setExpandedActionViewsExclusive(boolean)
+androidx.appcompat.widget.AppCompatImageView: void setImageDrawable(android.graphics.drawable.Drawable)
+android.support.wearable.complications.rendering.ComplicationStyle$Builder: ComplicationStyle$Builder()
+androidx.preference.ListPreference: ListPreference(android.content.Context,android.util.AttributeSet)
+androidx.core.view.MenuItemCompat$Api26Impl: java.lang.CharSequence getContentDescription(android.view.MenuItem)
+androidx.wear.widget.drawer.PageIndicatorView: void setDotFadeOutDelay(int)
+com.mjohnsullivan.flutterwear.wear.WearPlugin$WearableAmbientCallback: void onEnterAmbient(android.os.Bundle)
+io.flutter.embedding.engine.FlutterJNI: boolean isAttached()
+androidx.appcompat.widget.LinearLayoutCompat: int getOrientation()
+androidx.appcompat.widget.ActionBarOverlayLayout: void setIcon(int)
+android.support.wearable.view.CircularButton: void setRippleColor(int)
+io.flutter.view.TextureRegistry$SurfaceTextureEntry: void release()
+androidx.core.widget.EdgeEffectCompat$Api31Impl: float getDistance(android.widget.EdgeEffect)
+androidx.lifecycle.EmptyActivityLifecycleCallbacks: void onActivityStopped(android.app.Activity)
+androidx.appcompat.widget.LinearLayoutCompat: int getBaseline()
+androidx.appcompat.widget.Toolbar: java.lang.CharSequence getTitle()
+androidx.appcompat.widget.ContentFrameLayout: void setAttachListener(androidx.appcompat.widget.ContentFrameLayout$OnAttachListener)
+androidx.appcompat.widget.SearchView: int getMaxWidth()
+androidx.wear.widget.CircledImageView: void setProgress(float)
+androidx.core.view.ViewCompat$Api29Impl: void saveAttributeDataForStyleable(android.view.View,android.content.Context,int[],android.util.AttributeSet,android.content.res.TypedArray,int,int)
+android.support.wearable.complications.rendering.ComplicationDrawable: void setTitleSizeActive(int)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VFullPath: void setFillAlpha(float)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: void pruneImageReaderQueue()
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: void onImage(android.media.ImageReader,android.media.Image)
+androidx.appcompat.widget.SwitchCompat: void setThumbDrawable(android.graphics.drawable.Drawable)
+androidx.appcompat.widget.ActionBarContainer: android.view.View getTabContainer()
+androidx.core.view.ViewCompat$Api21Impl: float getTranslationZ(android.view.View)
+com.mjohnsullivan.flutterwear.wear.WearPlugin$WearableAmbientCallback: void onInvalidateAmbientOffload()
+android.support.wearable.watchface.decomposition.ImageComponent$Builder: ImageComponent$Builder()
+androidx.appcompat.widget.ActionBarContainer: void setPrimaryBackground(android.graphics.drawable.Drawable)
+android.support.wearable.complications.rendering.ComplicationDrawable: void setBorderDashGapAmbient(int)
+android.support.wearable.complications.rendering.ComplicationDrawable: void setRangedValueProgressHidden(boolean)
+androidx.core.view.WindowInsetsCompat$BuilderImpl29: androidx.core.view.WindowInsetsCompat build()
+androidx.appcompat.widget.SearchView: void setOnSuggestionListener(androidx.appcompat.widget.SearchView$OnSuggestionListener)
+android.support.wearable.view.ActionPage: void setEnabled(boolean)
+androidx.preference.TwoStatePreference: TwoStatePreference(android.content.Context,android.util.AttributeSet)
+androidx.lifecycle.ProcessLifecycleOwner$attach$1: void onActivityPreCreated(android.app.Activity,android.os.Bundle)
+androidx.viewpager.widget.ViewPager: int getOffscreenPageLimit()
+androidx.lifecycle.EmptyActivityLifecycleCallbacks: void onActivityResumed(android.app.Activity)
+androidx.appcompat.widget.ViewStubCompat: android.view.LayoutInflater getLayoutInflater()
+androidx.recyclerview.widget.RecyclerView: void setHasFixedSize(boolean)
+kotlinx.coroutines.android.AndroidDispatcherFactory: kotlinx.coroutines.MainCoroutineDispatcher createDispatcher(java.util.List)
+androidx.viewpager.widget.ViewPager: int getClientWidth()
+androidx.core.view.WindowInsetsCompat$Impl20: void setRootWindowInsets(androidx.core.view.WindowInsetsCompat)
+io.flutter.embedding.engine.FlutterJNI: void invokePlatformMessageEmptyResponseCallback(int)
+androidx.appcompat.widget.AppCompatImageButton: void setSupportBackgroundTintMode(android.graphics.PorterDuff$Mode)
+androidx.core.view.WindowInsetsCompat$BuilderImpl29: void setStableInsets(androidx.core.graphics.Insets)
+androidx.profileinstaller.ProfileInstallerInitializer: ProfileInstallerInitializer()
+androidx.appcompat.widget.SearchView: void setIconifiedByDefault(boolean)
+androidx.core.view.VelocityTrackerCompat$Api34Impl: float getAxisVelocity(android.view.VelocityTracker,int)
+android.support.wearable.view.drawer.PageIndicatorView: void setDotColor(int)
+androidx.core.view.ViewCompat$Api21Impl: boolean dispatchNestedPreFling(android.view.View,float,float)
+android.support.v4.app.RemoteActionCompatParcelizer: void write(androidx.core.app.RemoteActionCompat,androidx.versionedparcelable.VersionedParcel)
+io.flutter.embedding.engine.FlutterJNI: void onEndFrame()
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VFullPath: void setStrokeAlpha(float)
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorView: void setOnDescendantFocusChangeListener(android.view.View$OnFocusChangeListener)
+androidx.appcompat.widget.ContentFrameLayout: ContentFrameLayout(android.content.Context,android.util.AttributeSet)
+io.flutter.plugin.editing.TextInputPlugin$InputTarget$Type: io.flutter.plugin.editing.TextInputPlugin$InputTarget$Type valueOf(java.lang.String)
+androidx.recyclerview.widget.RecyclerView: void setNestedScrollingEnabled(boolean)
+io.flutter.embedding.android.TransparencyMode: io.flutter.embedding.android.TransparencyMode valueOf(java.lang.String)
+androidx.appcompat.widget.Toolbar: Toolbar(android.content.Context,android.util.AttributeSet)
+androidx.core.view.DisplayCutoutCompat$Api28Impl: int getSafeInsetTop(android.view.DisplayCutout)
+io.flutter.embedding.engine.FlutterJNI: void nativeInvokePlatformMessageEmptyResponseCallback(long,int)
+androidx.appcompat.widget.LinearLayoutCompat: void setGravity(int)
+io.flutter.embedding.engine.FlutterOverlaySurface: FlutterOverlaySurface(int,android.view.Surface)
+io.flutter.embedding.engine.FlutterJNI: void asyncWaitForVsync(long)
+android.support.wearable.watchface.decompositionface.DecompositionConfigView: DecompositionConfigView(android.content.Context,android.util.AttributeSet)
+androidx.core.view.ViewCompat$Api21Impl: void setZ(android.view.View,float)
+android.support.wearable.complications.rendering.ComplicationDrawable: android.support.wearable.complications.rendering.ComplicationStyle getActiveStyle()
+androidx.appcompat.widget.LinearLayoutCompat: void setHorizontalGravity(int)
+androidx.recyclerview.widget.RecyclerView: long getNanoTime()
+io.flutter.embedding.engine.systemchannels.TextInputChannel$TextInputType: io.flutter.embedding.engine.systemchannels.TextInputChannel$TextInputType[] values()
+io.flutter.embedding.engine.FlutterJNI: void updateSemantics(java.nio.ByteBuffer,java.lang.String[],java.nio.ByteBuffer[])
+androidx.wear.widget.CircledImageView: void setCircleBorderColor(int)
+io.flutter.view.TextureRegistry$SurfaceProducer: void release()
+com.mjohnsullivan.flutterwear.wear.R: R()
+io.flutter.embedding.engine.FlutterJNI: void lambda$decodeImage$0(long,android.graphics.ImageDecoder,android.graphics.ImageDecoder$ImageInfo,android.graphics.ImageDecoder$Source)
+io.flutter.embedding.android.FlutterView: android.view.accessibility.AccessibilityNodeProvider getAccessibilityNodeProvider()
+androidx.window.area.reflectionguard.WindowAreaComponentApi3Requirements: void startRearDisplayPresentationSession(android.app.Activity,androidx.window.extensions.core.util.function.Consumer)
+androidx.core.app.CoreComponentFactory: CoreComponentFactory()
+io.flutter.embedding.engine.FlutterJNI: void nativeUnregisterTexture(long,long)
+androidx.appcompat.widget.ActionBarOverlayLayout: void setActionBarVisibilityCallback(androidx.appcompat.widget.ActionBarOverlayLayout$ActionBarVisibilityCallback)
+android.support.wearable.complications.rendering.ComplicationDrawable: boolean onTap(int,int)
+io.flutter.plugin.platform.PlatformViewWrapper: int getRenderTargetHeight()
+androidx.core.widget.EdgeEffectCompat$Api31Impl: float onPullDistance(android.widget.EdgeEffect,float,float)
+androidx.wear.widget.CircledImageView: float getCircleRadius()
+io.flutter.view.TextureRegistry$ImageTextureEntry: void release()
+androidx.core.view.WindowInsetsCompat$BuilderImpl: void setSystemGestureInsets(androidx.core.graphics.Insets)
+androidx.preference.internal.PreferenceImageView: void setMaxHeight(int)
+androidx.core.view.WindowInsetsCompat$Impl21: WindowInsetsCompat$Impl21(androidx.core.view.WindowInsetsCompat,androidx.core.view.WindowInsetsCompat$Impl21)
+androidx.core.view.MenuItemCompat$Api26Impl: android.view.MenuItem setNumericShortcut(android.view.MenuItem,char,int)
+androidx.preference.internal.PreferenceImageView: void setMaxWidth(int)
+androidx.window.area.reflectionguard.ExtensionWindowAreaStatusRequirements: android.util.DisplayMetrics getWindowAreaDisplayMetrics()
+android.support.wearable.view.ActionLabel: int getVerticalOffset()
+androidx.core.graphics.drawable.IconCompat$Api30Impl: android.graphics.drawable.Icon createWithAdaptiveBitmapContentUri(android.net.Uri)
+androidx.lifecycle.ProcessLifecycleOwner$attach$1: ProcessLifecycleOwner$attach$1(androidx.lifecycle.ProcessLifecycleOwner)
+android.support.wearable.complications.rendering.ComplicationDrawable: void setBorderRadiusActive(int)
+androidx.wear.widget.CircledImageView: void setImageDrawable(android.graphics.drawable.Drawable)
+androidx.appcompat.widget.AppCompatImageView: android.graphics.PorterDuff$Mode getSupportBackgroundTintMode()
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VFullPath: void setStrokeWidth(float)
+androidx.recyclerview.widget.RecyclerView: void setScrollState(int)
+androidx.core.view.WindowInsetsCompat$Impl29: androidx.core.graphics.Insets getSystemGestureInsets()
+android.support.v4.app.RemoteActionCompatParcelizer: RemoteActionCompatParcelizer()
+io.flutter.embedding.engine.FlutterJNI: void loadLibrary()
+io.flutter.view.AccessibilityBridge$Flag: io.flutter.view.AccessibilityBridge$Flag[] values()
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VGroup: float getTranslateY()
+androidx.core.view.WindowInsetsCompat$Impl29: androidx.core.graphics.Insets getTappableElementInsets()
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VPathRenderer: int getRootAlpha()
+android.support.wearable.view.CircularButton: void setColor(int)
+androidx.window.area.reflectionguard.WindowAreaComponentApi3Requirements: androidx.window.extensions.area.ExtensionWindowAreaPresentation getRearDisplayPresentation()
+io.flutter.embedding.engine.FlutterJNI: boolean isCodePointEmojiModifierBase(int)
+androidx.appcompat.widget.SearchView$SearchAutoComplete: void setThreshold(int)
+io.flutter.embedding.android.KeyData$DeviceType: io.flutter.embedding.android.KeyData$DeviceType valueOf(java.lang.String)
+androidx.appcompat.widget.SwitchCompat: void setChecked(boolean)
+android.support.wearable.complications.rendering.ComplicationDrawable: void inflateAttributes(android.content.res.Resources,org.xmlpull.v1.XmlPullParser)
+androidx.appcompat.widget.ActionBarContainer: ActionBarContainer(android.content.Context,android.util.AttributeSet)
+androidx.core.view.WindowInsetsCompat$Impl20: void setRootViewData(androidx.core.graphics.Insets)
+android.support.wearable.complications.rendering.ComplicationDrawable: void setIconColorAmbient(int)
+androidx.wear.widget.drawer.PageIndicatorView: void setDotShadowDy(float)
+android.support.wearable.complications.rendering.ComplicationDrawable: void setHighlightColorAmbient(int)
+androidx.appcompat.widget.ActionBarContextView: java.lang.CharSequence getSubtitle()
+androidx.appcompat.widget.Toolbar: android.widget.TextView getSubtitleTextView()
+androidx.core.app.RemoteActionCompatParcelizer: androidx.core.app.RemoteActionCompat read(androidx.versionedparcelable.VersionedParcel)
+io.flutter.embedding.engine.FlutterJNI: boolean isCodePointEmojiModifier(int)
+android.support.wearable.view.CircledImageView: void setImageHorizontalOffcenterPercentage(float)
+androidx.appcompat.widget.LinearLayoutCompat: void setMeasureWithLargestChildEnabled(boolean)
+androidx.profileinstaller.FileSectionType: androidx.profileinstaller.FileSectionType valueOf(java.lang.String)
+io.flutter.plugin.platform.PlatformViewWrapper: void setLayoutParams(android.widget.FrameLayout$LayoutParams)
+android.support.wearable.view.CircledImageView: void setCircleRadius(float)
+android.support.wearable.view.drawer.PageIndicatorView: void setDotRadius(int)
+io.flutter.embedding.engine.FlutterJNI: void unregisterTexture(long)
+com.mjohnsullivan.flutterwear.wear.WearPlugin: void onAttachedToEngine(io.flutter.embedding.engine.plugins.FlutterPlugin$FlutterPluginBinding)
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api33Impl: androidx.core.view.accessibility.AccessibilityNodeInfoCompat getChild(android.view.accessibility.AccessibilityNodeInfo,int,int)
+androidx.appcompat.widget.AppCompatTextView: void setBackgroundResource(int)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivitySaveInstanceState(android.app.Activity,android.os.Bundle)
+io.flutter.embedding.engine.FlutterJNI: void ensureAttachedToNative()
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.View access$400(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback)
+androidx.appcompat.widget.SwitchCompat: void setTextOff(java.lang.CharSequence)
+androidx.viewpager.widget.ViewPager: void setPageMargin(int)
+androidx.core.view.ViewCompat$Api21Impl: androidx.core.view.WindowInsetsCompat getRootWindowInsets(android.view.View)
+androidx.lifecycle.LifecycleDispatcher$DispatcherActivityCallback: LifecycleDispatcher$DispatcherActivityCallback()
+androidx.appcompat.widget.SwitchCompat: void setShowText(boolean)
+android.support.wearable.view.CircledImageView: CircledImageView(android.content.Context,android.util.AttributeSet)
+androidx.core.view.ViewParentCompat$Api21Impl: boolean onStartNestedScroll(android.view.ViewParent,android.view.View,android.view.View,int)
+androidx.appcompat.widget.ActionBarContainer: void setStackedBackground(android.graphics.drawable.Drawable)
+androidx.wear.widget.drawer.PageIndicatorView: float getDotShadowRadius()
+io.flutter.embedding.engine.FlutterJNI: boolean isCodePointEmoji(int)
+androidx.appcompat.widget.ViewStubCompat: ViewStubCompat(android.content.Context,android.util.AttributeSet)
+androidx.appcompat.widget.AppCompatImageView: void setSupportBackgroundTintList(android.content.res.ColorStateList)
+androidx.recyclerview.widget.RecyclerView: void setChildDrawingOrderCallback(androidx.recyclerview.widget.RecyclerView$ChildDrawingOrderCallback)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VGroup: void setScaleX(float)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: void release()
+androidx.appcompat.widget.AppCompatTextView: void setSupportBackgroundTintMode(android.graphics.PorterDuff$Mode)
+io.flutter.embedding.engine.FlutterJNI: void nativeSetAccessibilityFeatures(long,int)
+android.support.wearable.view.drawer.PageIndicatorView: void setDotShadowDx(float)
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.graphics.Insets getTappableElementInsets()
+androidx.core.graphics.drawable.IconCompatParcelizer: void write(androidx.core.graphics.drawable.IconCompat,androidx.versionedparcelable.VersionedParcel)
+com.mjohnsullivan.flutterwear.wear.WearPlugin: void onResume()
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: void markDirty()
+androidx.appcompat.widget.SearchView$SearchAutoComplete: int getSearchViewTextMinWidthDp()
+androidx.appcompat.view.menu.ActionMenuItemView: void setTitle(java.lang.CharSequence)
+androidx.core.view.WindowInsetsCompat$Impl21: androidx.core.view.WindowInsetsCompat consumeStableInsets()
+androidx.appcompat.widget.AppCompatImageButton: android.graphics.PorterDuff$Mode getSupportBackgroundTintMode()
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VGroup: void setPivotY(float)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer$PerImageReader getOrCreatePerImageReader(android.media.ImageReader)
+androidx.core.view.WindowInsetsCompat$Impl20: boolean isRound()
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: boolean shouldUpdate()
+io.flutter.embedding.engine.FlutterJNI: void runBundleAndSnapshotFromLibrary(java.lang.String,java.lang.String,java.lang.String,android.content.res.AssetManager,java.util.List)
+com.example.desarrollo_frontend.MainActivity: MainActivity()
+io.flutter.view.AccessibilityViewEmbedder: void addChildrenToFlutterNode(android.view.accessibility.AccessibilityNodeInfo,android.view.View,android.view.accessibility.AccessibilityNodeInfo)
+kotlinx.coroutines.CoroutineStart: kotlinx.coroutines.CoroutineStart valueOf(java.lang.String)
+com.mjohnsullivan.flutterwear.wear.WearPlugin: void onAttachedToActivity(io.flutter.embedding.engine.plugins.activity.ActivityPluginBinding)
+io.flutter.embedding.android.RenderMode: io.flutter.embedding.android.RenderMode valueOf(java.lang.String)
+android.support.wearable.view.ActionLabel: int getAvailableHeight()
+androidx.appcompat.widget.SwitchCompat: int getSwitchMinWidth()
+androidx.appcompat.widget.ActionBarOverlayLayout: void setShowingForActionMode(boolean)
+androidx.appcompat.widget.Toolbar: android.graphics.drawable.Drawable getCollapseIcon()
+androidx.core.view.ViewCompat$Api26Impl: android.view.View keyboardNavigationClusterSearch(android.view.View,android.view.View,int)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.WindowInsets access$500(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback)
+androidx.appcompat.widget.AppCompatTextView: void setSupportBackgroundTintList(android.content.res.ColorStateList)
+androidx.appcompat.widget.ActionBarOverlayLayout: void setWindowCallback(android.view.Window$Callback)
+android.support.wearable.view.CircularButton: void setImageDrawable(android.graphics.drawable.Drawable)
+androidx.recyclerview.widget.RecyclerView: void suppressLayout(boolean)
+androidx.wear.widget.drawer.PageIndicatorView: float getDotRadiusSelected()
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPaused(android.app.Activity)
+android.support.wearable.view.drawer.PageIndicatorView: float getDotShadowDy()
+androidx.appcompat.widget.SearchView: void setOnSearchClickListener(android.view.View$OnClickListener)
+androidx.core.view.ViewCompat$Api26Impl: boolean hasExplicitFocusable(android.view.View)
+io.flutter.embedding.engine.FlutterJNI: android.graphics.Bitmap getBitmap()
+androidx.core.view.WindowInsetsCompat$Impl: boolean isConsumed()
+androidx.lifecycle.ProcessLifecycleOwner$Api29Impl: void registerActivityLifecycleCallbacks(android.app.Activity,android.app.Application$ActivityLifecycleCallbacks)
+androidx.core.view.WindowInsetsCompat$BuilderImpl29: void setTappableElementInsets(androidx.core.graphics.Insets)
+android.support.wearable.view.ActionLabel: int getCurrentTextColor()
+androidx.appcompat.widget.ContentFrameLayout: android.util.TypedValue getMinWidthMinor()
+androidx.core.view.WindowInsetsCompat$BuilderImpl29: void setMandatorySystemGestureInsets(androidx.core.graphics.Insets)
+androidx.core.graphics.drawable.DrawableCompat$Api21Impl: void setTintMode(android.graphics.drawable.Drawable,android.graphics.PorterDuff$Mode)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VGroup: java.lang.String getGroupName()
+android.support.wearable.view.ActionPage: void setColor(android.content.res.ColorStateList)
+androidx.core.graphics.drawable.DrawableCompat$Api21Impl: void setTintList(android.graphics.drawable.Drawable,android.content.res.ColorStateList)
+androidx.appcompat.view.menu.ListMenuItemView: androidx.appcompat.view.menu.MenuItemImpl getItemData()
+androidx.appcompat.widget.SwitchCompat: void setTrackTintMode(android.graphics.PorterDuff$Mode)
+androidx.core.view.ViewCompat$Api20Impl: android.view.WindowInsets dispatchApplyWindowInsets(android.view.View,android.view.WindowInsets)
+androidx.appcompat.widget.Toolbar: java.lang.CharSequence getCollapseContentDescription()
+io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiMode: io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiMode[] values()
+androidx.lifecycle.EmptyActivityLifecycleCallbacks: void onActivityCreated(android.app.Activity,android.os.Bundle)
+androidx.appcompat.widget.SearchView: void setInputType(int)
+androidx.window.area.reflectionguard.ExtensionWindowAreaStatusRequirements: int getWindowAreaStatus()
+androidx.core.view.ViewCompat$Api20Impl: android.view.WindowInsets onApplyWindowInsets(android.view.View,android.view.WindowInsets)
+androidx.window.core.VerificationMode: androidx.window.core.VerificationMode valueOf(java.lang.String)
+androidx.appcompat.widget.SwitchCompat: android.graphics.PorterDuff$Mode getTrackTintMode()
+androidx.appcompat.widget.AppCompatImageView: void setBackgroundResource(int)
+androidx.appcompat.widget.SwitchCompat: boolean getTargetCheckedState()
+androidx.core.view.WindowInsetsCompat$Impl20: androidx.core.graphics.Insets getRootStableInsets()
+androidx.appcompat.widget.Toolbar: java.lang.CharSequence getNavigationContentDescription()
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VectorDrawableCompatState: int getChangingConfigurations()
+androidx.core.view.WindowInsetsCompat$Impl20: androidx.core.graphics.Insets getVisibleInsets(android.view.View)
+androidx.datastore.preferences.protobuf.Writer$FieldOrder: androidx.datastore.preferences.protobuf.Writer$FieldOrder valueOf(java.lang.String)
+androidx.appcompat.widget.Toolbar: void setSubtitle(java.lang.CharSequence)
+androidx.core.view.ViewCompat$Api21Impl: float getElevation(android.view.View)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VFullPath: void setFillColor(int)
+androidx.core.widget.TextViewCompat$Api28Impl: java.lang.String[] getDigitStrings(android.icu.text.DecimalFormatSymbols)
+android.support.wearable.complications.rendering.ComplicationDrawable: void setTitleTypefaceActive(android.graphics.Typeface)
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api34Impl: void setQueryFromAppProcessEnabled(android.view.accessibility.AccessibilityNodeInfo,android.view.View,boolean)
+androidx.appcompat.widget.ButtonBarLayout: void setStacked(boolean)
+androidx.appcompat.widget.FitWindowsFrameLayout: FitWindowsFrameLayout(android.content.Context,android.util.AttributeSet)
+androidx.core.view.ViewCompat$Api21Impl: boolean dispatchNestedPreScroll(android.view.View,int,int,int[],int[])
+android.support.wearable.watchface.decompositionface.DecompositionConfigView: void setOnComplicationTapListener(android.support.wearable.watchface.decompositionface.DecompositionConfigView$OnComplicationTapListener)
+android.support.wearable.view.drawer.PageIndicatorView: float getDotRadius()

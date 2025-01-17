@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/color/card_grey_text_color.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-jetified-wearable-2.8.1-9:/color/card_grey_text_color.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-appcompat-1.1.0-23:/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/color/abc_primary_text_material_dark.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-appcompat-1.1.0-23:/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/color/abc_hint_foreground_material_dark.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-appcompat-1.1.0-23:/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/color/ws_switch_thumb_color_material.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-wear-1.2.0-0:/color/ws_switch_thumb_color_material.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/color/circular_button.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-jetified-wearable-2.8.1-9:/color/circular_button.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/color/abc_secondary_text_material_light.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-appcompat-1.1.0-23:/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/color/abc_secondary_text_material_dark.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-appcompat-1.1.0-23:/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/color/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-appcompat-1.1.0-23:/color/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/color/abc_search_url_text.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-appcompat-1.1.0-23:/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/color/abc_primary_text_material_light.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-appcompat-1.1.0-23:/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/color/switch_thumb_material_dark.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-appcompat-1.1.0-23:/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/color/abc_background_cache_hint_selector_material_light.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-appcompat-1.1.0-23:/color/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/color/abc_hint_foreground_material_light.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-appcompat-1.1.0-23:/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-appcompat-1.1.0-23:/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/color/ws_switch_track_color_material.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-wear-1.2.0-0:/color/ws_switch_track_color_material.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/color/card_text_color.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-jetified-wearable-2.8.1-9:/color/card_text_color.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/color/switch_thumb_material_light.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-appcompat-1.1.0-23:/color/switch_thumb_material_light.xml"
+    }
+]

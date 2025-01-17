@@ -1,0 +1,334 @@
+[
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/layout/abc_list_menu_item_layout.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-appcompat-1.1.0-23:/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/layout/ws_navigation_drawer_item_view.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-wear-1.2.0-0:/layout/ws_navigation_drawer_item_view.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/layout/abc_screen_simple.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-appcompat-1.1.0-23:/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/layout/abc_dialog_title_material.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-appcompat-1.1.0-23:/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/layout/abc_screen_toolbar.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-appcompat-1.1.0-23:/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/layout/expand_button.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-preference-1.1.1-13:/layout/expand_button.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/layout/ws_action_drawer_peek_view.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-wear-1.2.0-0:/layout/ws_action_drawer_peek_view.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/layout/single_page_nav_drawer_7_item.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-jetified-wearable-2.8.1-9:/layout/single_page_nav_drawer_7_item.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/layout/ws_single_page_nav_drawer_6_item.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-wear-1.2.0-0:/layout/ws_single_page_nav_drawer_6_item.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/layout/preference_widget_checkbox.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-preference-1.1.1-13:/layout/preference_widget_checkbox.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/layout/notification_template_part_time.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-core-1.13.1-26:/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/layout/preference.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-preference-1.1.1-13:/layout/preference.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/layout/preference_information.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-preference-1.1.1-13:/layout/preference_information.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/layout/preference_list_fragment.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-preference-1.1.1-13:/layout/preference_list_fragment.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/layout/abc_cascading_menu_item_layout.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-appcompat-1.1.0-23:/layout/abc_cascading_menu_item_layout.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/layout/single_page_nav_drawer_3_item.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-jetified-wearable-2.8.1-9:/layout/single_page_nav_drawer_3_item.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/layout/abc_action_mode_bar.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-appcompat-1.1.0-23:/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/layout/ws_navigation_drawer_view.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-wear-1.2.0-0:/layout/ws_navigation_drawer_view.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/layout/abc_search_view.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-appcompat-1.1.0-23:/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/layout/alert_dialog_wearable.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-jetified-wearable-2.8.1-9:/layout/alert_dialog_wearable.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/layout/abc_action_bar_up_container.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-appcompat-1.1.0-23:/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/layout/ws_single_page_nav_drawer_3_item.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-wear-1.2.0-0:/layout/ws_single_page_nav_drawer_3_item.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/layout/abc_alert_dialog_material.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-appcompat-1.1.0-23:/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/layout/abc_action_mode_close_item_material.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-appcompat-1.1.0-23:/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/layout/single_page_nav_drawer_1_item.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-jetified-wearable-2.8.1-9:/layout/single_page_nav_drawer_1_item.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/layout/ime_base_split_test_activity.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-core-1.13.1-26:/layout/ime_base_split_test_activity.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/layout/navigation_drawer_view.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-jetified-wearable-2.8.1-9:/layout/navigation_drawer_view.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/layout/abc_screen_content_include.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-appcompat-1.1.0-23:/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/layout/preference_dialog_edittext.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-preference-1.1.1-13:/layout/preference_dialog_edittext.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/layout/select_dialog_singlechoice_material.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-appcompat-1.1.0-23:/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-appcompat-1.1.0-23:/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-appcompat-1.1.0-23:/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/layout/ws_action_drawer_title_view.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-wear-1.2.0-0:/layout/ws_action_drawer_title_view.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/layout/abc_activity_chooser_view.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-appcompat-1.1.0-23:/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/layout/preference_category.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-preference-1.1.1-13:/layout/preference_category.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/layout/preference_category_material.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-preference-1.1.1-13:/layout/preference_category_material.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/layout/abc_action_menu_layout.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-appcompat-1.1.0-23:/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/layout/ws_single_page_nav_drawer_7_item.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-wear-1.2.0-0:/layout/ws_single_page_nav_drawer_7_item.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/layout/ws_single_page_nav_drawer_4_item.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-wear-1.2.0-0:/layout/ws_single_page_nav_drawer_4_item.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/layout/image_frame.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-preference-1.1.1-13:/layout/image_frame.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/layout/single_page_nav_drawer_4_item.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-jetified-wearable-2.8.1-9:/layout/single_page_nav_drawer_4_item.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-appcompat-1.1.0-23:/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/layout/preference_widget_switch_compat.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-preference-1.1.1-13:/layout/preference_widget_switch_compat.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/layout/ws_single_page_nav_drawer_1_item.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-wear-1.2.0-0:/layout/ws_single_page_nav_drawer_1_item.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/layout/abc_list_menu_item_radio.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-appcompat-1.1.0-23:/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/layout/ws_single_page_nav_drawer_peek_view.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-wear-1.2.0-0:/layout/ws_single_page_nav_drawer_peek_view.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/layout/decomposition_config_activity.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-jetified-wearable-2.8.1-9:/layout/decomposition_config_activity.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-appcompat-1.1.0-23:/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/layout/abc_action_menu_item_layout.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-appcompat-1.1.0-23:/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/layout/single_page_nav_drawer_2_item.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-jetified-wearable-2.8.1-9:/layout/single_page_nav_drawer_2_item.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/layout/preference_material.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-preference-1.1.1-13:/layout/preference_material.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-appcompat-1.1.0-23:/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/layout/preference_dropdown_material.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-preference-1.1.1-13:/layout/preference_dropdown_material.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/layout/ws_action_drawer_item_view.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-wear-1.2.0-0:/layout/ws_action_drawer_item_view.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/layout/single_page_nav_drawer_5_item.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-jetified-wearable-2.8.1-9:/layout/single_page_nav_drawer_5_item.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/layout/abc_list_menu_item_icon.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-appcompat-1.1.0-23:/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/layout/ws_single_page_nav_drawer_5_item.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-wear-1.2.0-0:/layout/ws_single_page_nav_drawer_5_item.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/layout/ws_single_page_nav_drawer_text.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-wear-1.2.0-0:/layout/ws_single_page_nav_drawer_text.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/layout/ws_wearable_drawer_view.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-wear-1.2.0-0:/layout/ws_wearable_drawer_view.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/layout/notification_template_part_chronometer.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-core-1.13.1-26:/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/layout/preference_widget_seekbar_material.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-preference-1.1.1-13:/layout/preference_widget_seekbar_material.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/layout/select_dialog_item_material.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-appcompat-1.1.0-23:/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/layout/abc_select_dialog_material.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-appcompat-1.1.0-23:/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/layout/select_dialog_multichoice_material.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-appcompat-1.1.0-23:/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/layout/abc_popup_menu_item_layout.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-appcompat-1.1.0-23:/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/layout/navigation_drawer_item_view.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-jetified-wearable-2.8.1-9:/layout/navigation_drawer_item_view.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/layout/ws_single_page_nav_drawer_2_item.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-wear-1.2.0-0:/layout/ws_single_page_nav_drawer_2_item.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/layout/preference_widget_switch.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-preference-1.1.1-13:/layout/preference_widget_switch.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/layout/abc_action_bar_title_item.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-appcompat-1.1.0-23:/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/layout/custom_dialog.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-core-1.13.1-26:/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/layout/abc_expanded_menu_layout.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-appcompat-1.1.0-23:/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/layout/preference_information_material.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-preference-1.1.1-13:/layout/preference_information_material.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/layout/abc_alert_dialog_title_material.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-appcompat-1.1.0-23:/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/layout/preference_recyclerview.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-preference-1.1.1-13:/layout/preference_recyclerview.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/layout/preference_dropdown.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-preference-1.1.1-13:/layout/preference_dropdown.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/layout/single_page_nav_drawer_6_item.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-jetified-wearable-2.8.1-9:/layout/single_page_nav_drawer_6_item.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/layout/ime_secondary_split_test_activity.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-core-1.13.1-26:/layout/ime_secondary_split_test_activity.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-appcompat-1.1.0-23:/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/layout/preference_widget_seekbar.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-preference-1.1.1-13:/layout/preference_widget_seekbar.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/layout/abc_list_menu_item_checkbox.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-appcompat-1.1.0-23:/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/layout/abc_tooltip.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-appcompat-1.1.0-23:/layout/abc_tooltip.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/layout/single_page_nav_drawer_peek_view.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-jetified-wearable-2.8.1-9:/layout/single_page_nav_drawer_peek_view.xml"
+    },
+    {
+        "merged": "com.mjohnsullivan.flutterwear.wear-release-32:/layout/ws_overlay_confirmation.xml",
+        "source": "com.mjohnsullivan.flutterwear.wear-wear-1.2.0-0:/layout/ws_overlay_confirmation.xml"
+    }
+]
